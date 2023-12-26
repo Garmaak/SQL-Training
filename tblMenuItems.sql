@@ -37,4 +37,4 @@ INSERT INTO restaurant.tblMenuItems VALUES ('Hamburger', 'American', 12.95, 'Ame
 ('Mushroom Ravioli', 'Italian', 15.50, 'Italian style mushroom ravioli'),
 ('Shrimp Scampi', 'Italian', 19.95, 'Italian style shrimp scampi'),
 ('Chicken Parmesan', 'Italian', 17.95, 'Italian style chicken parmesan'),
-('Eggplant Parmesan', 'Italian', 16.95, 'Italian style eggplant parmesan'),
+('Eggplant Parmesan', 'Italian', 16.95, 'Italian style eggplant parmesan');
