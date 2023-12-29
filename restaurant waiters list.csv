@@ -1,0 +1,29 @@
+ID,First Name,Last Name,Start Date,Email Address,Phone Number,Retired,Datetime Retired
+200001,Bobby,Charlton,11 October 1937,pager - 5,,,2023-12-04 11:59:00
+200002,Pelé,,23/10/1940,pager - 1,,,2023-12-03 20:04:08
+200003,Franz,Beckenbauer,11 September 1945,pager - 3,,*,2023-12-19 19:29:19
+200004,Michel,Platini,21 June 1955,pager - 4,,# ,
+200005,Karl-Heinz,Rummenigge,25 September 1955,pager - 2,,TRUE,2023-12-03 20:44:08
+200006,Diego,Maradona,30 October 1960,d.m@footballers.fifa,,,2023-12-01 10:43:48
+200007,Gary,Lineker,30/11/1960,g.l@footballers.fifa,,TRUE,
+200008,Peter,Schmeichel,18 November 1963,p.s@footballers.fifa,,y  ,
+200009,Jürgen,Klinsmann,30/07/1964,j.k@footballers.fifa,,Y ,
+200010,Marco,van Basten,31 October 1964,m.v@footballers.fifa,,yES,2023-12-13 12:13:14
+200011,Hristo,Stoichkov,08 February 1966,h.s@footballers.fifa,,yes,2023-12-12 14:40:04
+200012,George,Weah,01/10/1966,g.w@footballers.fifa,,-,2023-12-02 13:13:13
+200013,Roberto,Baggio,18 February 1967,,,YES,2023-12-11 11:12:13
+200014,Paolo,Maldini,26 June 1968,p.m@footballers.fifa,,Y,2023-12-29 02:09:23
+200015,Gabriel,Batistuta,01/02/1969,g.b@footballers.fifa,,  true    ,2023-12-17 17:08:09
+200016,Dennis,Bergkamp,10/05/1969,d.b@footballers.fifa,,Yes,2023-12-23 12:23:43
+200017,Alan,Shearer,13/08/1970,a.s@footballers.fifa,0123 456 7811,NO,
+200018,Zinedine,Zidane,23 June 1972,z.z@footballers.fifa,0123 456 7894,FALSE ,
+200019,Luís,Figo,04 November 1972,l.f@footballers.fifa,0123 456 7896,false,
+200020,Edgar,Davids,13 March 1973,e.d@footballers.fifa,0123 456 7898,no ,
+200021,Roberto,Carlos,10/04/1973,-,0123 456 7810, No ,
+200022,Javier,Zanetti,10 August 1973,j.z@footballers.fifa,0123 456 7899,false,
+200023,Ronaldo,Nazario,18/09/1976,r.n@footballers.fifa,0123 456 7812,NO,
+200024,Gianluigi,Buffon,28 January 1978,g.b@footballers.fifa,0123 456 7893,n,
+200025,Ronaldinho,Gaúcho,21/03/1980,r.g@footballers.fifa,0123 456 7897,NO,
+200026,Kaká,,22 April 1982,,0123 456 7895,N,
+200027,Cristiano,Ronaldo,05/02/1985,c.r@footballers.fifa,0123 456 7891,No,
+200028,Lionel,Messi,24/06/1987,l.m@footballers.fifa,0123 456 7892,FALSE,
