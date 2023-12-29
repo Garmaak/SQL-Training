@@ -1,5371 +1,5371 @@
-Order ID,Waiters Name
-1,Franz Beckenbauer
-2,Hristo Stoichkov
-3,George Weah
-4,Marco van
-5,Javier Zanetti
-6,Jürgen Klinsmann
-7,Kaká 
-8,Alan Shearer
-9,Paolo Maldini
-10,Lionel Messi
-11,Roberto Baggio
-12,Hristo Stoichkov
-13,Pelé 
-14,Roberto Baggio
-15,Roberto Carlos
-16,Gianluigi Buffon
-17,Lionel Messi
-18,Lionel Messi
-19,Gianluigi Buffon
-20,Diego Maradona
-21,Dennis Bergkamp
-22,George Weah
-23,Jürgen Klinsmann
-24,Alan Shearer
-25,Franz Beckenbauer
-26,Gary Lineker
-27,Javier Zanetti
-28,Luís Figo
-29,Edgar Davids
-30,Gary Lineker
-31,Zinedine Zidane
-32,Kaká 
-33,Gabriel Batistuta
-34,Paolo Maldini
-35,Ronaldinho Gaúcho
-36,Jürgen Klinsmann
-37,Dennis Bergkamp
-38,Lionel Messi
-39,Gary Lineker
-40,Cristiano Ronaldo
-41,Diego Maradona
-42,Hristo Stoichkov
-43,George Weah
-44,Peter Schmeichel
-45,Gianluigi Buffon
-46,Dennis Bergkamp
-47,Gabriel Batistuta
-48,Franz Beckenbauer
-49,George Weah
-50,Diego Maradona
-51,Luís Figo
-52,Paolo Maldini
-53,Peter Schmeichel
-54,Luís Figo
-55,Alan Shearer
-56,Ronaldo Nazario
-57,George Weah
-58,Gary Lineker
-59,Ronaldo Nazario
-60,Franz Beckenbauer
-61,Ronaldo Nazario
-62,Roberto Baggio
-63,Kaká 
-64,Alan Shearer
-65,Gary Lineker
-66,Roberto Carlos
-67,Kaká 
-68,Lionel Messi
-69,Luís Figo
-70,Paolo Maldini
-71,Peter Schmeichel
-72,Zinedine Zidane
-73,Diego Maradona
-74,Edgar Davids
-75,Dennis Bergkamp
-76,Roberto Carlos
-77,Ronaldinho Gaúcho
-78,Dennis Bergkamp
-79,Ronaldinho Gaúcho
-80,Karl-Heinz Rummenigge
-81,Diego Maradona
-82,Edgar Davids
-83,Ronaldo Nazario
-84,Karl-Heinz Rummenigge
-85,Bobby Charlton
-86,Diego Maradona
-87,Diego Maradona
-88,Edgar Davids
-89,Peter Schmeichel
-90,Diego Maradona
-91,Bobby Charlton
-92,Luís Figo
-93,Edgar Davids
-94,Bobby Charlton
-95,Michel Platini
-96,Roberto Carlos
-97,Dennis Bergkamp
-98,Cristiano Ronaldo
-99,Gianluigi Buffon
-100,Pelé 
-101,Cristiano Ronaldo
-102,Edgar Davids
-103,Pelé 
-104,Franz Beckenbauer
-105,Roberto Carlos
-106,Edgar Davids
-107,Diego Maradona
-108,Michel Platini
-109,Ronaldo Nazario
-110,Alan Shearer
-111,Alan Shearer
-112,Dennis Bergkamp
-113,Roberto Carlos
-114,Luís Figo
-115,Bobby Charlton
-116,Karl-Heinz Rummenigge
-117,Gary Lineker
-118,Zinedine Zidane
-119,Ronaldinho Gaúcho
-120,Kaká 
-121,Dennis Bergkamp
-122,Jürgen Klinsmann
-123,Gary Lineker
-124,Roberto Carlos
-125,Luís Figo
-126,Gabriel Batistuta
-127,Bobby Charlton
-128,Hristo Stoichkov
-129,Paolo Maldini
-130,Gary Lineker
-131,Pelé 
-132,Pelé 
-133,Roberto Baggio
-134,Jürgen Klinsmann
-135,Jürgen Klinsmann
-136,Ronaldinho Gaúcho
-137,Diego Maradona
-138,Michel Platini
-139,George Weah
-140,Javier Zanetti
-141,Dennis Bergkamp
-142,Gabriel Batistuta
-143,Roberto Baggio
-144,George Weah
-145,Paolo Maldini
-146,Marco van
-147,Luís Figo
-148,Gary Lineker
-149,Roberto Carlos
-150,George Weah
-151,Luís Figo
-152,Alan Shearer
-153,Jürgen Klinsmann
-154,Jürgen Klinsmann
-155,Bobby Charlton
-156,Roberto Carlos
-157,Peter Schmeichel
-158,Alan Shearer
-159,George Weah
-160,Franz Beckenbauer
-161,Diego Maradona
-162,Javier Zanetti
-163,Alan Shearer
-164,Roberto Carlos
-165,Cristiano Ronaldo
-166,Luís Figo
-167,Gabriel Batistuta
-168,Edgar Davids
-169,Jürgen Klinsmann
-170,Alan Shearer
-171,Karl-Heinz Rummenigge
-172,Cristiano Ronaldo
-173,Karl-Heinz Rummenigge
-174,Dennis Bergkamp
-175,Diego Maradona
-176,Diego Maradona
-177,Kaká 
-178,Pelé 
-179,Edgar Davids
-180,Gary Lineker
-181,Franz Beckenbauer
-182,Luís Figo
-183,George Weah
-184,Lionel Messi
-185,Roberto Baggio
-186,Alan Shearer
-187,Paolo Maldini
-188,Luís Figo
-189,Bobby Charlton
-190,Roberto Baggio
-191,Franz Beckenbauer
-192,Jürgen Klinsmann
-193,Ronaldo Nazario
-194,Michel Platini
-195,Kaká 
-196,Roberto Baggio
-197,Diego Maradona
-198,Paolo Maldini
-199,Roberto Carlos
-200,Karl-Heinz Rummenigge
-201,Gabriel Batistuta
-202,Cristiano Ronaldo
-203,Gabriel Batistuta
-204,Gianluigi Buffon
-205,Dennis Bergkamp
-206,Alan Shearer
-207,Alan Shearer
-208,Luís Figo
-209,Michel Platini
-210,Gianluigi Buffon
-211,Peter Schmeichel
-212,Karl-Heinz Rummenigge
-213,Gary Lineker
-214,Peter Schmeichel
-215,Alan Shearer
-216,Franz Beckenbauer
-217,Michel Platini
-218,Jürgen Klinsmann
-219,Dennis Bergkamp
-220,Marco van
-221,Gary Lineker
-222,Gianluigi Buffon
-223,Karl-Heinz Rummenigge
-224,Lionel Messi
-225,Paolo Maldini
-226,Jürgen Klinsmann
-227,Cristiano Ronaldo
-228,Edgar Davids
-229,Gary Lineker
-230,Roberto Baggio
-231,Kaká 
-232,Kaká 
-233,Gary Lineker
-234,Alan Shearer
-235,Kaká 
-236,Alan Shearer
-237,Gary Lineker
-238,Pelé 
-239,Gianluigi Buffon
-240,Luís Figo
-241,Marco van
-242,Kaká 
-243,Gary Lineker
-244,Bobby Charlton
-245,Edgar Davids
-246,Cristiano Ronaldo
-247,Gianluigi Buffon
-248,Alan Shearer
-249,Jürgen Klinsmann
-250,Alan Shearer
-251,Roberto Baggio
-252,Hristo Stoichkov
-253,Marco van
-254,Gianluigi Buffon
-255,Roberto Baggio
-256,Javier Zanetti
-257,Karl-Heinz Rummenigge
-258,Javier Zanetti
-259,Alan Shearer
-260,Hristo Stoichkov
-261,Roberto Carlos
-262,Javier Zanetti
-263,Dennis Bergkamp
-264,Ronaldo Nazario
-265,Jürgen Klinsmann
-266,Zinedine Zidane
-267,Gabriel Batistuta
-268,Gary Lineker
-269,Cristiano Ronaldo
-270,Hristo Stoichkov
-271,Ronaldinho Gaúcho
-272,Ronaldo Nazario
-273,Gary Lineker
-274,Edgar Davids
-275,Roberto Carlos
-276,Hristo Stoichkov
-277,Lionel Messi
-278,Alan Shearer
-279,Hristo Stoichkov
-280,Hristo Stoichkov
-281,Peter Schmeichel
-282,Zinedine Zidane
-283,Luís Figo
-284,Dennis Bergkamp
-285,Michel Platini
-286,Roberto Carlos
-287,Marco van
-288,Gianluigi Buffon
-289,Ronaldo Nazario
-290,Diego Maradona
-291,Diego Maradona
-292,Cristiano Ronaldo
-293,Roberto Baggio
-294,Gianluigi Buffon
-295,Dennis Bergkamp
-296,Roberto Carlos
-297,Jürgen Klinsmann
-298,Ronaldinho Gaúcho
-299,Marco van
-300,Edgar Davids
-301,Alan Shearer
-302,Gianluigi Buffon
-303,Michel Platini
-304,Diego Maradona
-305,Marco van
-306,Michel Platini
-307,Dennis Bergkamp
-308,Michel Platini
-309,Gary Lineker
-310,Zinedine Zidane
-311,Cristiano Ronaldo
-312,Kaká 
-313,Peter Schmeichel
-314,Zinedine Zidane
-315,Peter Schmeichel
-316,Alan Shearer
-317,George Weah
-318,Hristo Stoichkov
-319,Michel Platini
-320,Diego Maradona
-321,Diego Maradona
-322,Zinedine Zidane
-323,Diego Maradona
-324,George Weah
-325,Edgar Davids
-326,Cristiano Ronaldo
-327,Gianluigi Buffon
-328,Gary Lineker
-329,Roberto Carlos
-330,Gabriel Batistuta
-331,Luís Figo
-332,Marco van
-333,Michel Platini
-334,Peter Schmeichel
-335,Edgar Davids
-336,Dennis Bergkamp
-337,Franz Beckenbauer
-338,Zinedine Zidane
-339,Marco van
-340,Diego Maradona
-341,Edgar Davids
-342,Michel Platini
-343,Franz Beckenbauer
-344,Franz Beckenbauer
-345,Karl-Heinz Rummenigge
-346,Paolo Maldini
-347,Franz Beckenbauer
-348,Bobby Charlton
-349,Edgar Davids
-350,Kaká 
-351,Gary Lineker
-352,Kaká 
-353,Dennis Bergkamp
-354,Edgar Davids
-355,Lionel Messi
-356,Diego Maradona
-357,Karl-Heinz Rummenigge
-358,Karl-Heinz Rummenigge
-359,Franz Beckenbauer
-360,Karl-Heinz Rummenigge
-361,Edgar Davids
-362,Gianluigi Buffon
-363,Lionel Messi
-364,Dennis Bergkamp
-365,Gary Lineker
-366,Dennis Bergkamp
-367,George Weah
-368,Gabriel Batistuta
-369,Michel Platini
-370,Peter Schmeichel
-371,Zinedine Zidane
-372,Cristiano Ronaldo
-373,Roberto Baggio
-374,Roberto Carlos
-375,Marco van
-376,Lionel Messi
-377,Alan Shearer
-378,Roberto Carlos
-379,Javier Zanetti
-380,Alan Shearer
-381,Alan Shearer
-382,Alan Shearer
-383,Karl-Heinz Rummenigge
-384,Jürgen Klinsmann
-385,Alan Shearer
-386,Gianluigi Buffon
-387,Diego Maradona
-388,Zinedine Zidane
-389,Michel Platini
-390,Kaká 
-391,Karl-Heinz Rummenigge
-392,Alan Shearer
-393,Franz Beckenbauer
-394,Alan Shearer
-395,Franz Beckenbauer
-396,Zinedine Zidane
-397,Javier Zanetti
-398,Roberto Carlos
-399,Bobby Charlton
-400,Zinedine Zidane
-401,Edgar Davids
-402,Ronaldo Nazario
-403,Gary Lineker
-404,Edgar Davids
-405,Alan Shearer
-406,Gary Lineker
-407,Lionel Messi
-408,Dennis Bergkamp
-409,Ronaldinho Gaúcho
-410,Edgar Davids
-411,Paolo Maldini
-412,Ronaldinho Gaúcho
-413,Ronaldo Nazario
-414,Roberto Baggio
-415,Diego Maradona
-416,Roberto Carlos
-417,Cristiano Ronaldo
-418,George Weah
-419,Jürgen Klinsmann
-420,Zinedine Zidane
-421,Lionel Messi
-422,George Weah
-423,Bobby Charlton
-424,Dennis Bergkamp
-425,Roberto Carlos
-426,Pelé 
-427,Gary Lineker
-428,George Weah
-429,Gianluigi Buffon
-430,Roberto Baggio
-431,Javier Zanetti
-432,Gary Lineker
-433,Marco van
-434,Alan Shearer
-435,Franz Beckenbauer
-436,Roberto Baggio
-437,Alan Shearer
-438,Alan Shearer
-439,Luís Figo
-440,Alan Shearer
-441,Gary Lineker
-442,Ronaldo Nazario
-443,Ronaldo Nazario
-444,Michel Platini
-445,Hristo Stoichkov
-446,Cristiano Ronaldo
-447,Hristo Stoichkov
-448,Javier Zanetti
-449,Diego Maradona
-450,Lionel Messi
-451,Roberto Baggio
-452,Gabriel Batistuta
-453,Michel Platini
-454,Gianluigi Buffon
-455,Zinedine Zidane
-456,Cristiano Ronaldo
-457,Cristiano Ronaldo
-458,George Weah
-459,Franz Beckenbauer
-460,Peter Schmeichel
-461,Dennis Bergkamp
-462,Roberto Baggio
-463,Karl-Heinz Rummenigge
-464,Diego Maradona
-465,Javier Zanetti
-466,Diego Maradona
-467,Jürgen Klinsmann
-468,Lionel Messi
-469,Dennis Bergkamp
-470,Karl-Heinz Rummenigge
-471,Luís Figo
-472,Gabriel Batistuta
-473,Lionel Messi
-474,Dennis Bergkamp
-475,Ronaldo Nazario
-476,Kaká 
-477,Dennis Bergkamp
-478,Bobby Charlton
-479,Gianluigi Buffon
-480,Paolo Maldini
-481,Karl-Heinz Rummenigge
-482,Roberto Carlos
-483,Edgar Davids
-484,Edgar Davids
-485,Michel Platini
-486,Roberto Carlos
-487,Cristiano Ronaldo
-488,Roberto Carlos
-489,Gabriel Batistuta
-490,Jürgen Klinsmann
-491,Pelé 
-492,Hristo Stoichkov
-493,Zinedine Zidane
-494,Pelé 
-495,Peter Schmeichel
-496,Javier Zanetti
-497,Cristiano Ronaldo
-498,George Weah
-499,Paolo Maldini
-500,Bobby Charlton
-501,Luís Figo
-502,Javier Zanetti
-503,Franz Beckenbauer
-504,Cristiano Ronaldo
-505,Gabriel Batistuta
-506,Jürgen Klinsmann
-507,Marco van
-508,Ronaldo Nazario
-509,Alan Shearer
-510,Edgar Davids
-511,Luís Figo
-512,Luís Figo
-513,Javier Zanetti
-514,Paolo Maldini
-515,Zinedine Zidane
-516,Cristiano Ronaldo
-517,Gabriel Batistuta
-518,Peter Schmeichel
-519,Kaká 
-520,Gianluigi Buffon
-521,Peter Schmeichel
-522,Alan Shearer
-523,Bobby Charlton
-524,Diego Maradona
-525,Gianluigi Buffon
-526,Zinedine Zidane
-527,Luís Figo
-528,Diego Maradona
-529,Paolo Maldini
-530,Roberto Baggio
-531,Paolo Maldini
-532,Gianluigi Buffon
-533,Franz Beckenbauer
-534,Franz Beckenbauer
-535,Bobby Charlton
-536,Ronaldinho Gaúcho
-537,Javier Zanetti
-538,Paolo Maldini
-539,Gary Lineker
-540,Roberto Baggio
-541,Pelé 
-542,Alan Shearer
-543,Edgar Davids
-544,Kaká 
-545,Hristo Stoichkov
-546,Ronaldo Nazario
-547,Jürgen Klinsmann
-548,Zinedine Zidane
-549,Karl-Heinz Rummenigge
-550,George Weah
-551,Pelé 
-552,Bobby Charlton
-553,Dennis Bergkamp
-554,Luís Figo
-555,Bobby Charlton
-556,Edgar Davids
-557,Marco van
-558,Ronaldo Nazario
-559,Pelé 
-560,Michel Platini
-561,George Weah
-562,Kaká 
-563,Franz Beckenbauer
-564,Edgar Davids
-565,George Weah
-566,George Weah
-567,Karl-Heinz Rummenigge
-568,Gianluigi Buffon
-569,Michel Platini
-570,Franz Beckenbauer
-571,Javier Zanetti
-572,Zinedine Zidane
-573,Paolo Maldini
-574,Hristo Stoichkov
-575,Peter Schmeichel
-576,Ronaldinho Gaúcho
-577,Zinedine Zidane
-578,Michel Platini
-579,Diego Maradona
-580,Javier Zanetti
-581,Diego Maradona
-582,Javier Zanetti
-583,Gianluigi Buffon
-584,Ronaldo Nazario
-585,Pelé 
-586,Jürgen Klinsmann
-587,Peter Schmeichel
-588,Kaká 
-589,Roberto Baggio
-590,George Weah
-591,Karl-Heinz Rummenigge
-592,Diego Maradona
-593,Ronaldo Nazario
-594,Paolo Maldini
-595,Franz Beckenbauer
-596,Gianluigi Buffon
-597,Gianluigi Buffon
-598,Javier Zanetti
-599,Franz Beckenbauer
-600,Gianluigi Buffon
-601,Paolo Maldini
-602,Michel Platini
-603,Roberto Baggio
-604,Diego Maradona
-605,Gabriel Batistuta
-606,Franz Beckenbauer
-607,Gabriel Batistuta
-608,Bobby Charlton
-609,Gianluigi Buffon
-610,Gianluigi Buffon
-611,George Weah
-612,George Weah
-613,Hristo Stoichkov
-614,Diego Maradona
-615,Karl-Heinz Rummenigge
-616,Peter Schmeichel
-617,Gary Lineker
-618,Ronaldo Nazario
-619,Ronaldo Nazario
-620,Zinedine Zidane
-621,Peter Schmeichel
-622,Gary Lineker
-623,Michel Platini
-624,Dennis Bergkamp
-625,Bobby Charlton
-626,Alan Shearer
-627,Jürgen Klinsmann
-628,Kaká 
-629,Jürgen Klinsmann
-630,Kaká 
-631,Diego Maradona
-632,Bobby Charlton
-633,Paolo Maldini
-634,Pelé 
-635,Roberto Baggio
-636,Hristo Stoichkov
-637,Diego Maradona
-638,Marco van
-639,Kaká 
-640,Michel Platini
-641,Diego Maradona
-642,Peter Schmeichel
-643,Michel Platini
-644,Bobby Charlton
-645,Ronaldinho Gaúcho
-646,Dennis Bergkamp
-647,Ronaldinho Gaúcho
-648,Pelé 
-649,Karl-Heinz Rummenigge
-650,Bobby Charlton
-651,Javier Zanetti
-652,Cristiano Ronaldo
-653,Michel Platini
-654,Franz Beckenbauer
-655,Franz Beckenbauer
-656,Diego Maradona
-657,Dennis Bergkamp
-658,Jürgen Klinsmann
-659,Edgar Davids
-660,Jürgen Klinsmann
-661,Dennis Bergkamp
-662,Ronaldinho Gaúcho
-663,Franz Beckenbauer
-664,Pelé 
-665,Ronaldo Nazario
-666,Diego Maradona
-667,Michel Platini
-668,George Weah
-669,Pelé 
-670,Edgar Davids
-671,Hristo Stoichkov
-672,Pelé 
-673,Pelé 
-674,Zinedine Zidane
-675,Ronaldinho Gaúcho
-676,Gianluigi Buffon
-677,Javier Zanetti
-678,Marco van
-679,Pelé 
-680,Gabriel Batistuta
-681,Marco van
-682,Pelé 
-683,Diego Maradona
-684,Bobby Charlton
-685,Javier Zanetti
-686,Edgar Davids
-687,Dennis Bergkamp
-688,Luís Figo
-689,Roberto Baggio
-690,Michel Platini
-691,Jürgen Klinsmann
-692,Dennis Bergkamp
-693,Dennis Bergkamp
-694,Roberto Carlos
-695,Franz Beckenbauer
-696,George Weah
-697,Diego Maradona
-698,Franz Beckenbauer
-699,Zinedine Zidane
-700,Lionel Messi
-701,Diego Maradona
-702,Zinedine Zidane
-703,Gabriel Batistuta
-704,Peter Schmeichel
-705,Cristiano Ronaldo
-706,Diego Maradona
-707,Javier Zanetti
-708,Alan Shearer
-709,Javier Zanetti
-710,Gianluigi Buffon
-711,Hristo Stoichkov
-712,Michel Platini
-713,Alan Shearer
-714,Jürgen Klinsmann
-715,Zinedine Zidane
-716,Ronaldo Nazario
-717,Jürgen Klinsmann
-718,Luís Figo
-719,Jürgen Klinsmann
-720,Zinedine Zidane
-721,Ronaldinho Gaúcho
-722,Peter Schmeichel
-723,Franz Beckenbauer
-724,Paolo Maldini
-725,Roberto Carlos
-726,Roberto Baggio
-727,Lionel Messi
-728,Roberto Baggio
-729,Dennis Bergkamp
-730,Dennis Bergkamp
-731,George Weah
-732,Karl-Heinz Rummenigge
-733,Luís Figo
-734,Jürgen Klinsmann
-735,Peter Schmeichel
-736,Edgar Davids
-737,George Weah
-738,Gary Lineker
-739,Jürgen Klinsmann
-740,Javier Zanetti
-741,Gary Lineker
-742,Hristo Stoichkov
-743,Alan Shearer
-744,Lionel Messi
-745,Pelé 
-746,Roberto Baggio
-747,Pelé 
-748,Ronaldo Nazario
-749,Bobby Charlton
-750,Zinedine Zidane
-751,Javier Zanetti
-752,Jürgen Klinsmann
-753,Lionel Messi
-754,Diego Maradona
-755,George Weah
-756,Franz Beckenbauer
-757,Roberto Baggio
-758,Marco van
-759,Gabriel Batistuta
-760,Ronaldinho Gaúcho
-761,Zinedine Zidane
-762,Gabriel Batistuta
-763,Pelé 
-764,Karl-Heinz Rummenigge
-765,Hristo Stoichkov
-766,Michel Platini
-767,Luís Figo
-768,Gary Lineker
-769,Michel Platini
-770,Javier Zanetti
-771,Gianluigi Buffon
-772,Michel Platini
-773,Paolo Maldini
-774,Ronaldinho Gaúcho
-775,Ronaldo Nazario
-776,Gary Lineker
-777,Cristiano Ronaldo
-778,Paolo Maldini
-779,Hristo Stoichkov
-780,Paolo Maldini
-781,Gabriel Batistuta
-782,Zinedine Zidane
-783,Karl-Heinz Rummenigge
-784,Cristiano Ronaldo
-785,Hristo Stoichkov
-786,Alan Shearer
-787,Hristo Stoichkov
-788,Kaká 
-789,Luís Figo
-790,Gianluigi Buffon
-791,Franz Beckenbauer
-792,Hristo Stoichkov
-793,Marco van
-794,Zinedine Zidane
-795,Dennis Bergkamp
-796,Gary Lineker
-797,Gabriel Batistuta
-798,Kaká 
-799,Ronaldo Nazario
-800,Roberto Baggio
-801,Hristo Stoichkov
-802,Cristiano Ronaldo
-803,Edgar Davids
-804,Gianluigi Buffon
-805,Gary Lineker
-806,Gary Lineker
-807,Karl-Heinz Rummenigge
-808,Javier Zanetti
-809,Peter Schmeichel
-810,Javier Zanetti
-811,Jürgen Klinsmann
-812,Pelé 
-813,Franz Beckenbauer
-814,Gary Lineker
-815,Bobby Charlton
-816,Cristiano Ronaldo
-817,Roberto Carlos
-818,George Weah
-819,Gabriel Batistuta
-820,Kaká 
-821,Lionel Messi
-822,Gianluigi Buffon
-823,Bobby Charlton
-824,Edgar Davids
-825,Alan Shearer
-826,George Weah
-827,Lionel Messi
-828,Michel Platini
-829,Cristiano Ronaldo
-830,Lionel Messi
-831,Ronaldinho Gaúcho
-832,Roberto Carlos
-833,Ronaldinho Gaúcho
-834,Gary Lineker
-835,Luís Figo
-836,Roberto Carlos
-837,Roberto Carlos
-838,Marco van
-839,Diego Maradona
-840,Marco van
-841,Lionel Messi
-842,Pelé 
-843,Hristo Stoichkov
-844,Gabriel Batistuta
-845,Jürgen Klinsmann
-846,Cristiano Ronaldo
-847,Gary Lineker
-848,Paolo Maldini
-849,Alan Shearer
-850,Roberto Baggio
-851,Paolo Maldini
-852,Luís Figo
-853,Gary Lineker
-854,Franz Beckenbauer
-855,Kaká 
-856,Ronaldinho Gaúcho
-857,Karl-Heinz Rummenigge
-858,Zinedine Zidane
-859,Javier Zanetti
-860,Edgar Davids
-861,Edgar Davids
-862,Ronaldinho Gaúcho
-863,Marco van
-864,Paolo Maldini
-865,Gary Lineker
-866,Javier Zanetti
-867,Javier Zanetti
-868,Diego Maradona
-869,Marco van
-870,Paolo Maldini
-871,Alan Shearer
-872,Dennis Bergkamp
-873,Roberto Carlos
-874,Ronaldo Nazario
-875,Paolo Maldini
-876,Diego Maradona
-877,Franz Beckenbauer
-878,Zinedine Zidane
-879,Alan Shearer
-880,Cristiano Ronaldo
-881,Marco van
-882,Ronaldo Nazario
-883,Marco van
-884,Luís Figo
-885,Luís Figo
-886,Dennis Bergkamp
-887,Roberto Carlos
-888,Gabriel Batistuta
-889,Luís Figo
-890,Marco van
-891,Alan Shearer
-892,Cristiano Ronaldo
-893,Diego Maradona
-894,Kaká 
-895,Edgar Davids
-896,Karl-Heinz Rummenigge
-897,George Weah
-898,Diego Maradona
-899,Diego Maradona
-900,Pelé 
-901,Alan Shearer
-902,Bobby Charlton
-903,Paolo Maldini
-904,Marco van
-905,Dennis Bergkamp
-906,Ronaldo Nazario
-907,Paolo Maldini
-908,Dennis Bergkamp
-909,Kaká 
-910,Dennis Bergkamp
-911,Gary Lineker
-912,Edgar Davids
-913,Roberto Baggio
-914,Ronaldinho Gaúcho
-915,Zinedine Zidane
-916,Hristo Stoichkov
-917,Jürgen Klinsmann
-918,Lionel Messi
-919,Diego Maradona
-920,Bobby Charlton
-921,Roberto Baggio
-922,Marco van
-923,Dennis Bergkamp
-924,Ronaldo Nazario
-925,Gianluigi Buffon
-926,Dennis Bergkamp
-927,Roberto Baggio
-928,Gabriel Batistuta
-929,Roberto Baggio
-930,Roberto Carlos
-931,Lionel Messi
-932,Zinedine Zidane
-933,Lionel Messi
-934,Zinedine Zidane
-935,Marco van
-936,Franz Beckenbauer
-937,Franz Beckenbauer
-938,Dennis Bergkamp
-939,Cristiano Ronaldo
-940,Hristo Stoichkov
-941,Jürgen Klinsmann
-942,Diego Maradona
-943,Paolo Maldini
-944,Roberto Baggio
-945,Franz Beckenbauer
-946,Lionel Messi
-947,Pelé 
-948,Javier Zanetti
-949,Lionel Messi
-950,Dennis Bergkamp
-951,Gabriel Batistuta
-952,Paolo Maldini
-953,Gabriel Batistuta
-954,Jürgen Klinsmann
-955,Peter Schmeichel
-956,Lionel Messi
-957,Gary Lineker
-958,Peter Schmeichel
-959,Michel Platini
-960,Marco van
-961,Javier Zanetti
-962,Marco van
-963,Jürgen Klinsmann
-964,Gabriel Batistuta
-965,Lionel Messi
-966,Paolo Maldini
-967,Franz Beckenbauer
-968,Paolo Maldini
-969,Roberto Carlos
-970,Gabriel Batistuta
-971,Gabriel Batistuta
-972,Jürgen Klinsmann
-973,Ronaldinho Gaúcho
-974,Cristiano Ronaldo
-975,Hristo Stoichkov
-976,Dennis Bergkamp
-977,Luís Figo
-978,Pelé 
-979,Zinedine Zidane
-980,Karl-Heinz Rummenigge
-981,Edgar Davids
-982,Peter Schmeichel
-983,Pelé 
-984,Pelé 
-985,Edgar Davids
-986,Gabriel Batistuta
-987,Gary Lineker
-988,Marco van
-989,Kaká 
-990,Hristo Stoichkov
-991,Ronaldinho Gaúcho
-992,Diego Maradona
-993,George Weah
-994,Karl-Heinz Rummenigge
-995,Gary Lineker
-996,Dennis Bergkamp
-997,Zinedine Zidane
-998,Cristiano Ronaldo
-999,Jürgen Klinsmann
-1000,Dennis Bergkamp
-1001,Roberto Carlos
-1002,Zinedine Zidane
-1003,Gabriel Batistuta
-1004,Pelé 
-1005,Gianluigi Buffon
-1006,Bobby Charlton
-1007,Edgar Davids
-1008,Cristiano Ronaldo
-1009,Luís Figo
-1010,Karl-Heinz Rummenigge
-1011,George Weah
-1012,Dennis Bergkamp
-1013,Dennis Bergkamp
-1014,Roberto Baggio
-1015,Roberto Baggio
-1016,Marco van
-1017,Gabriel Batistuta
-1018,Jürgen Klinsmann
-1019,Hristo Stoichkov
-1020,Diego Maradona
-1021,Luís Figo
-1022,Hristo Stoichkov
-1023,Luís Figo
-1024,Zinedine Zidane
-1025,Pelé 
-1026,Alan Shearer
-1027,Jürgen Klinsmann
-1028,Roberto Carlos
-1029,Hristo Stoichkov
-1030,Roberto Baggio
-1031,Roberto Baggio
-1032,Lionel Messi
-1033,Kaká 
-1034,Paolo Maldini
-1035,Roberto Carlos
-1036,George Weah
-1037,Luís Figo
-1038,Lionel Messi
-1039,Karl-Heinz Rummenigge
-1040,Gary Lineker
-1041,Gabriel Batistuta
-1042,Franz Beckenbauer
-1043,Pelé 
-1044,Luís Figo
-1045,Ronaldo Nazario
-1046,Pelé 
-1047,Javier Zanetti
-1048,Gianluigi Buffon
-1049,Jürgen Klinsmann
-1050,Ronaldo Nazario
-1051,Franz Beckenbauer
-1052,Karl-Heinz Rummenigge
-1053,Peter Schmeichel
-1054,Luís Figo
-1055,Ronaldinho Gaúcho
-1056,Franz Beckenbauer
-1057,Zinedine Zidane
-1058,Zinedine Zidane
-1059,Paolo Maldini
-1060,Marco van
-1061,Jürgen Klinsmann
-1062,Peter Schmeichel
-1063,Peter Schmeichel
-1064,Peter Schmeichel
-1065,Javier Zanetti
-1066,Roberto Baggio
-1067,Peter Schmeichel
-1068,Roberto Carlos
-1069,Ronaldo Nazario
-1070,Pelé 
-1071,Lionel Messi
-1072,Roberto Baggio
-1073,Peter Schmeichel
-1074,Marco van
-1075,Peter Schmeichel
-1076,Alan Shearer
-1077,Gianluigi Buffon
-1078,Lionel Messi
-1079,Paolo Maldini
-1080,Hristo Stoichkov
-1081,Marco van
-1082,Peter Schmeichel
-1083,Gabriel Batistuta
-1084,Ronaldo Nazario
-1085,Diego Maradona
-1086,Paolo Maldini
-1087,Cristiano Ronaldo
-1088,Roberto Carlos
-1089,Zinedine Zidane
-1090,Karl-Heinz Rummenigge
-1091,Dennis Bergkamp
-1092,Javier Zanetti
-1093,Ronaldo Nazario
-1094,Gabriel Batistuta
-1095,Luís Figo
-1096,Paolo Maldini
-1097,Gianluigi Buffon
-1098,Paolo Maldini
-1099,Hristo Stoichkov
-1100,Franz Beckenbauer
-1101,Zinedine Zidane
-1102,Franz Beckenbauer
-1103,Hristo Stoichkov
-1104,Marco van
-1105,Jürgen Klinsmann
-1106,Ronaldo Nazario
-1107,Roberto Carlos
-1108,Luís Figo
-1109,Michel Platini
-1110,Marco van
-1111,Gianluigi Buffon
-1112,Alan Shearer
-1113,Luís Figo
-1114,Franz Beckenbauer
-1115,Luís Figo
-1116,Diego Maradona
-1117,Michel Platini
-1118,George Weah
-1119,Hristo Stoichkov
-1120,Franz Beckenbauer
-1121,Gianluigi Buffon
-1122,Kaká 
-1123,Karl-Heinz Rummenigge
-1124,Diego Maradona
-1125,Marco van
-1126,Paolo Maldini
-1127,Franz Beckenbauer
-1128,Roberto Carlos
-1129,Cristiano Ronaldo
-1130,Gabriel Batistuta
-1131,Lionel Messi
-1132,Bobby Charlton
-1133,Gianluigi Buffon
-1134,Michel Platini
-1135,Hristo Stoichkov
-1136,Roberto Baggio
-1137,Gary Lineker
-1138,Cristiano Ronaldo
-1139,Luís Figo
-1140,Gabriel Batistuta
-1141,Luís Figo
-1142,Franz Beckenbauer
-1143,Peter Schmeichel
-1144,Bobby Charlton
-1145,Michel Platini
-1146,Lionel Messi
-1147,Gianluigi Buffon
-1148,Dennis Bergkamp
-1149,Edgar Davids
-1150,Michel Platini
-1151,Franz Beckenbauer
-1152,Edgar Davids
-1153,Paolo Maldini
-1154,Ronaldinho Gaúcho
-1155,Ronaldinho Gaúcho
-1156,Roberto Baggio
-1157,Franz Beckenbauer
-1158,Ronaldinho Gaúcho
-1159,Peter Schmeichel
-1160,Edgar Davids
-1161,Ronaldo Nazario
-1162,George Weah
-1163,Michel Platini
-1164,Roberto Baggio
-1165,Dennis Bergkamp
-1166,Cristiano Ronaldo
-1167,George Weah
-1168,Gary Lineker
-1169,Hristo Stoichkov
-1170,Zinedine Zidane
-1171,Gabriel Batistuta
-1172,Peter Schmeichel
-1173,Hristo Stoichkov
-1174,Jürgen Klinsmann
-1175,Luís Figo
-1176,Gabriel Batistuta
-1177,Paolo Maldini
-1178,Michel Platini
-1179,Kaká 
-1180,Luís Figo
-1181,Hristo Stoichkov
-1182,Javier Zanetti
-1183,Franz Beckenbauer
-1184,Ronaldo Nazario
-1185,Cristiano Ronaldo
-1186,Peter Schmeichel
-1187,Gianluigi Buffon
-1188,Diego Maradona
-1189,Ronaldinho Gaúcho
-1190,Cristiano Ronaldo
-1191,Gianluigi Buffon
-1192,Lionel Messi
-1193,Cristiano Ronaldo
-1194,Javier Zanetti
-1195,Lionel Messi
-1196,Dennis Bergkamp
-1197,Michel Platini
-1198,Cristiano Ronaldo
-1199,Jürgen Klinsmann
-1200,Franz Beckenbauer
-1201,Lionel Messi
-1202,Hristo Stoichkov
-1203,Dennis Bergkamp
-1204,Dennis Bergkamp
-1205,Karl-Heinz Rummenigge
-1206,Gianluigi Buffon
-1207,Bobby Charlton
-1208,Javier Zanetti
-1209,Gary Lineker
-1210,Zinedine Zidane
-1211,Edgar Davids
-1212,Franz Beckenbauer
-1213,Michel Platini
-1214,Diego Maradona
-1215,Roberto Carlos
-1216,Michel Platini
-1217,Dennis Bergkamp
-1218,Marco van
-1219,Gianluigi Buffon
-1220,Zinedine Zidane
-1221,Alan Shearer
-1222,Pelé 
-1223,Paolo Maldini
-1224,Edgar Davids
-1225,Peter Schmeichel
-1226,Peter Schmeichel
-1227,Hristo Stoichkov
-1228,Javier Zanetti
-1229,Paolo Maldini
-1230,Alan Shearer
-1231,Pelé 
-1232,Edgar Davids
-1233,Zinedine Zidane
-1234,Jürgen Klinsmann
-1235,Marco van
-1236,Bobby Charlton
-1237,Edgar Davids
-1238,Edgar Davids
-1239,Javier Zanetti
-1240,Peter Schmeichel
-1241,Ronaldo Nazario
-1242,Jürgen Klinsmann
-1243,Gary Lineker
-1244,Diego Maradona
-1245,Kaká 
-1246,Gary Lineker
-1247,Edgar Davids
-1248,Ronaldo Nazario
-1249,Michel Platini
-1250,Kaká 
-1251,Paolo Maldini
-1252,George Weah
-1253,Pelé 
-1254,Karl-Heinz Rummenigge
-1255,Gianluigi Buffon
-1256,Michel Platini
-1257,Marco van
-1258,George Weah
-1259,Diego Maradona
-1260,Gabriel Batistuta
-1261,Edgar Davids
-1262,Dennis Bergkamp
-1263,Franz Beckenbauer
-1264,Javier Zanetti
-1265,Ronaldo Nazario
-1266,Ronaldo Nazario
-1267,Alan Shearer
-1268,Peter Schmeichel
-1269,Zinedine Zidane
-1270,Edgar Davids
-1271,Dennis Bergkamp
-1272,Michel Platini
-1273,Jürgen Klinsmann
-1274,Hristo Stoichkov
-1275,Kaká 
-1276,Karl-Heinz Rummenigge
-1277,Gianluigi Buffon
-1278,Gabriel Batistuta
-1279,Edgar Davids
-1280,Zinedine Zidane
-1281,Dennis Bergkamp
-1282,Cristiano Ronaldo
-1283,Lionel Messi
-1284,Diego Maradona
-1285,Zinedine Zidane
-1286,Pelé 
-1287,Peter Schmeichel
-1288,Hristo Stoichkov
-1289,Dennis Bergkamp
-1290,Roberto Baggio
-1291,Michel Platini
-1292,Michel Platini
-1293,Alan Shearer
-1294,Hristo Stoichkov
-1295,Marco van
-1296,Peter Schmeichel
-1297,Lionel Messi
-1298,Gary Lineker
-1299,Roberto Carlos
-1300,Gary Lineker
-1301,Cristiano Ronaldo
-1302,Diego Maradona
-1303,George Weah
-1304,Paolo Maldini
-1305,Alan Shearer
-1306,Gary Lineker
-1307,Diego Maradona
-1308,Luís Figo
-1309,Roberto Baggio
-1310,Edgar Davids
-1311,Edgar Davids
-1312,Diego Maradona
-1313,Peter Schmeichel
-1314,Michel Platini
-1315,Gabriel Batistuta
-1316,Peter Schmeichel
-1317,Jürgen Klinsmann
-1318,Cristiano Ronaldo
-1319,Bobby Charlton
-1320,Gianluigi Buffon
-1321,Dennis Bergkamp
-1322,Paolo Maldini
-1323,Hristo Stoichkov
-1324,Gary Lineker
-1325,Zinedine Zidane
-1326,Roberto Carlos
-1327,Ronaldinho Gaúcho
-1328,Pelé 
-1329,Peter Schmeichel
-1330,Ronaldo Nazario
-1331,Lionel Messi
-1332,Paolo Maldini
-1333,Alan Shearer
-1334,Diego Maradona
-1335,Ronaldo Nazario
-1336,Peter Schmeichel
-1337,Dennis Bergkamp
-1338,Karl-Heinz Rummenigge
-1339,Lionel Messi
-1340,Edgar Davids
-1341,Gianluigi Buffon
-1342,Jürgen Klinsmann
-1343,Roberto Carlos
-1344,Franz Beckenbauer
-1345,Gabriel Batistuta
-1346,Karl-Heinz Rummenigge
-1347,Edgar Davids
-1348,Gabriel Batistuta
-1349,George Weah
-1350,Gianluigi Buffon
-1351,Luís Figo
-1352,Gabriel Batistuta
-1353,Gary Lineker
-1354,Gabriel Batistuta
-1355,Karl-Heinz Rummenigge
-1356,Edgar Davids
-1357,Alan Shearer
-1358,Dennis Bergkamp
-1359,Diego Maradona
-1360,Bobby Charlton
-1361,Paolo Maldini
-1362,Zinedine Zidane
-1363,Peter Schmeichel
-1364,Roberto Baggio
-1365,Zinedine Zidane
-1366,Pelé 
-1367,Paolo Maldini
-1368,Zinedine Zidane
-1369,Karl-Heinz Rummenigge
-1370,Gabriel Batistuta
-1371,Bobby Charlton
-1372,Michel Platini
-1373,Ronaldinho Gaúcho
-1374,Hristo Stoichkov
-1375,Gabriel Batistuta
-1376,Lionel Messi
-1377,Roberto Carlos
-1378,Franz Beckenbauer
-1379,Karl-Heinz Rummenigge
-1380,Edgar Davids
-1381,Marco van
-1382,Hristo Stoichkov
-1383,Marco van
-1384,Peter Schmeichel
-1385,Edgar Davids
-1386,Ronaldinho Gaúcho
-1387,Javier Zanetti
-1388,Ronaldinho Gaúcho
-1389,Cristiano Ronaldo
-1390,Javier Zanetti
-1391,Bobby Charlton
-1392,Alan Shearer
-1393,Diego Maradona
-1394,Dennis Bergkamp
-1395,Gianluigi Buffon
-1396,Alan Shearer
-1397,Pelé 
-1398,Kaká 
-1399,Dennis Bergkamp
-1400,Ronaldo Nazario
-1401,Edgar Davids
-1402,Paolo Maldini
-1403,Luís Figo
-1404,Javier Zanetti
-1405,Peter Schmeichel
-1406,Gianluigi Buffon
-1407,Roberto Baggio
-1408,George Weah
-1409,Marco van
-1410,Peter Schmeichel
-1411,Franz Beckenbauer
-1412,Gabriel Batistuta
-1413,Pelé 
-1414,Lionel Messi
-1415,Paolo Maldini
-1416,Roberto Carlos
-1417,Roberto Carlos
-1418,Franz Beckenbauer
-1419,George Weah
-1420,Cristiano Ronaldo
-1421,Alan Shearer
-1422,Franz Beckenbauer
-1423,Alan Shearer
-1424,Javier Zanetti
-1425,Gary Lineker
-1426,Michel Platini
-1427,Roberto Baggio
-1428,Dennis Bergkamp
-1429,Luís Figo
-1430,Edgar Davids
-1431,Karl-Heinz Rummenigge
-1432,Alan Shearer
-1433,Dennis Bergkamp
-1434,Jürgen Klinsmann
-1435,Luís Figo
-1436,Lionel Messi
-1437,Ronaldo Nazario
-1438,Pelé 
-1439,Diego Maradona
-1440,Roberto Carlos
-1441,Dennis Bergkamp
-1442,Peter Schmeichel
-1443,Karl-Heinz Rummenigge
-1444,Bobby Charlton
-1445,Michel Platini
-1446,Karl-Heinz Rummenigge
-1447,George Weah
-1448,Alan Shearer
-1449,Diego Maradona
-1450,Diego Maradona
-1451,Ronaldo Nazario
-1452,Ronaldinho Gaúcho
-1453,Dennis Bergkamp
-1454,Hristo Stoichkov
-1455,Lionel Messi
-1456,Zinedine Zidane
-1457,Kaká 
-1458,Marco van
-1459,Jürgen Klinsmann
-1460,Peter Schmeichel
-1461,Franz Beckenbauer
-1462,Pelé 
-1463,Pelé 
-1464,Marco van
-1465,Roberto Baggio
-1466,Gary Lineker
-1467,Javier Zanetti
-1468,Peter Schmeichel
-1469,Roberto Baggio
-1470,Gianluigi Buffon
-1471,Kaká 
-1472,Franz Beckenbauer
-1473,Cristiano Ronaldo
-1474,Hristo Stoichkov
-1475,Michel Platini
-1476,Gabriel Batistuta
-1477,Roberto Baggio
-1478,Roberto Carlos
-1479,Karl-Heinz Rummenigge
-1480,Javier Zanetti
-1481,Kaká 
-1482,Luís Figo
-1483,Alan Shearer
-1484,Alan Shearer
-1485,Hristo Stoichkov
-1486,Franz Beckenbauer
-1487,Javier Zanetti
-1488,Edgar Davids
-1489,Roberto Baggio
-1490,Hristo Stoichkov
-1491,George Weah
-1492,Dennis Bergkamp
-1493,Franz Beckenbauer
-1494,Michel Platini
-1495,Ronaldinho Gaúcho
-1496,Edgar Davids
-1497,Cristiano Ronaldo
-1498,Michel Platini
-1499,Bobby Charlton
-1500,Jürgen Klinsmann
-1501,Diego Maradona
-1502,Jürgen Klinsmann
-1503,Franz Beckenbauer
-1504,Franz Beckenbauer
-1505,Ronaldo Nazario
-1506,Gabriel Batistuta
-1507,Jürgen Klinsmann
-1508,Gianluigi Buffon
-1509,Dennis Bergkamp
-1510,Luís Figo
-1511,Marco van
-1512,Gianluigi Buffon
-1513,Bobby Charlton
-1514,Paolo Maldini
-1515,Paolo Maldini
-1516,Pelé 
-1517,Ronaldo Nazario
-1518,Michel Platini
-1519,Bobby Charlton
-1520,Ronaldo Nazario
-1521,Ronaldinho Gaúcho
-1522,George Weah
-1523,Gary Lineker
-1524,Gianluigi Buffon
-1525,Diego Maradona
-1526,Alan Shearer
-1527,Javier Zanetti
-1528,Michel Platini
-1529,Lionel Messi
-1530,Ronaldinho Gaúcho
-1531,Luís Figo
-1532,Pelé 
-1533,Javier Zanetti
-1534,Hristo Stoichkov
-1535,Marco van
-1536,Gianluigi Buffon
-1537,Javier Zanetti
-1538,Bobby Charlton
-1539,Lionel Messi
-1540,Alan Shearer
-1541,Lionel Messi
-1542,Franz Beckenbauer
-1543,Luís Figo
-1544,Diego Maradona
-1545,Ronaldinho Gaúcho
-1546,Gianluigi Buffon
-1547,Luís Figo
-1548,Ronaldo Nazario
-1549,Roberto Baggio
-1550,Roberto Carlos
-1551,Cristiano Ronaldo
-1552,Roberto Carlos
-1553,Cristiano Ronaldo
-1554,Roberto Baggio
-1555,Lionel Messi
-1556,Diego Maradona
-1557,Diego Maradona
-1558,Javier Zanetti
-1559,Pelé 
-1560,Roberto Carlos
-1561,Pelé 
-1562,Lionel Messi
-1563,Marco van
-1564,Paolo Maldini
-1565,Hristo Stoichkov
-1566,Kaká 
-1567,Marco van
-1568,Marco van
-1569,Marco van
-1570,Jürgen Klinsmann
-1571,Franz Beckenbauer
-1572,Ronaldo Nazario
-1573,Edgar Davids
-1574,Gabriel Batistuta
-1575,Marco van
-1576,Marco van
-1577,Hristo Stoichkov
-1578,Lionel Messi
-1579,Roberto Baggio
-1580,Ronaldinho Gaúcho
-1581,Michel Platini
-1582,George Weah
-1583,Roberto Carlos
-1584,Cristiano Ronaldo
-1585,Kaká 
-1586,Roberto Carlos
-1587,Zinedine Zidane
-1588,Ronaldinho Gaúcho
-1589,Kaká 
-1590,Paolo Maldini
-1591,Luís Figo
-1592,Dennis Bergkamp
-1593,Pelé 
-1594,Gabriel Batistuta
-1595,Lionel Messi
-1596,Diego Maradona
-1597,Pelé 
-1598,Paolo Maldini
-1599,Dennis Bergkamp
-1600,Zinedine Zidane
-1601,Marco van
-1602,Peter Schmeichel
-1603,Marco van
-1604,Gianluigi Buffon
-1605,George Weah
-1606,Gary Lineker
-1607,Luís Figo
-1608,Ronaldinho Gaúcho
-1609,Ronaldinho Gaúcho
-1610,Javier Zanetti
-1611,Lionel Messi
-1612,Zinedine Zidane
-1613,Paolo Maldini
-1614,Edgar Davids
-1615,Dennis Bergkamp
-1616,Zinedine Zidane
-1617,Paolo Maldini
-1618,Zinedine Zidane
-1619,Diego Maradona
-1620,Ronaldinho Gaúcho
-1621,Javier Zanetti
-1622,Bobby Charlton
-1623,Bobby Charlton
-1624,Cristiano Ronaldo
-1625,Alan Shearer
-1626,Karl-Heinz Rummenigge
-1627,George Weah
-1628,Alan Shearer
-1629,George Weah
-1630,Ronaldo Nazario
-1631,Javier Zanetti
-1632,Paolo Maldini
-1633,Peter Schmeichel
-1634,Zinedine Zidane
-1635,Lionel Messi
-1636,Jürgen Klinsmann
-1637,Gianluigi Buffon
-1638,Alan Shearer
-1639,Franz Beckenbauer
-1640,Pelé 
-1641,Edgar Davids
-1642,Diego Maradona
-1643,Ronaldo Nazario
-1644,Dennis Bergkamp
-1645,Hristo Stoichkov
-1646,Javier Zanetti
-1647,Lionel Messi
-1648,Franz Beckenbauer
-1649,Hristo Stoichkov
-1650,Javier Zanetti
-1651,Paolo Maldini
-1652,Lionel Messi
-1653,Roberto Baggio
-1654,Hristo Stoichkov
-1655,Gabriel Batistuta
-1656,Diego Maradona
-1657,Hristo Stoichkov
-1658,Paolo Maldini
-1659,Marco van
-1660,Dennis Bergkamp
-1661,Pelé 
-1662,Hristo Stoichkov
-1663,Jürgen Klinsmann
-1664,Cristiano Ronaldo
-1665,Javier Zanetti
-1666,Peter Schmeichel
-1667,Kaká 
-1668,Diego Maradona
-1669,Kaká 
-1670,Luís Figo
-1671,Gabriel Batistuta
-1672,Cristiano Ronaldo
-1673,Gianluigi Buffon
-1674,Cristiano Ronaldo
-1675,Luís Figo
-1676,Cristiano Ronaldo
-1677,Franz Beckenbauer
-1678,Marco van
-1679,Javier Zanetti
-1680,Gary Lineker
-1681,Ronaldinho Gaúcho
-1682,Peter Schmeichel
-1683,Dennis Bergkamp
-1684,Kaká 
-1685,Cristiano Ronaldo
-1686,Javier Zanetti
-1687,George Weah
-1688,Zinedine Zidane
-1689,Javier Zanetti
-1690,Gary Lineker
-1691,Alan Shearer
-1692,Roberto Carlos
-1693,Pelé 
-1694,George Weah
-1695,Javier Zanetti
-1696,George Weah
-1697,Gianluigi Buffon
-1698,Paolo Maldini
-1699,Pelé 
-1700,Javier Zanetti
-1701,Jürgen Klinsmann
-1702,Franz Beckenbauer
-1703,Edgar Davids
-1704,Roberto Carlos
-1705,Kaká 
-1706,Roberto Carlos
-1707,Alan Shearer
-1708,Paolo Maldini
-1709,Ronaldinho Gaúcho
-1710,Kaká 
-1711,Roberto Carlos
-1712,Gary Lineker
-1713,Javier Zanetti
-1714,Lionel Messi
-1715,Roberto Baggio
-1716,Pelé 
-1717,Pelé 
-1718,Roberto Baggio
-1719,Bobby Charlton
-1720,Luís Figo
-1721,Ronaldo Nazario
-1722,Diego Maradona
-1723,Gary Lineker
-1724,Roberto Carlos
-1725,Gianluigi Buffon
-1726,Lionel Messi
-1727,Ronaldinho Gaúcho
-1728,Pelé 
-1729,Karl-Heinz Rummenigge
-1730,Roberto Carlos
-1731,Jürgen Klinsmann
-1732,Roberto Baggio
-1733,Lionel Messi
-1734,Bobby Charlton
-1735,Gianluigi Buffon
-1736,Karl-Heinz Rummenigge
-1737,Jürgen Klinsmann
-1738,Gary Lineker
-1739,Paolo Maldini
-1740,Marco van
-1741,George Weah
-1742,Jürgen Klinsmann
-1743,Cristiano Ronaldo
-1744,Ronaldinho Gaúcho
-1745,Diego Maradona
-1746,Paolo Maldini
-1747,Alan Shearer
-1748,Javier Zanetti
-1749,Gianluigi Buffon
-1750,Jürgen Klinsmann
-1751,Hristo Stoichkov
-1752,Roberto Baggio
-1753,Edgar Davids
-1754,Ronaldo Nazario
-1755,Hristo Stoichkov
-1756,Javier Zanetti
-1757,Hristo Stoichkov
-1758,Peter Schmeichel
-1759,Franz Beckenbauer
-1760,Lionel Messi
-1761,Cristiano Ronaldo
-1762,Ronaldinho Gaúcho
-1763,Ronaldo Nazario
-1764,Peter Schmeichel
-1765,Lionel Messi
-1766,Ronaldinho Gaúcho
-1767,Luís Figo
-1768,Kaká 
-1769,Javier Zanetti
-1770,Luís Figo
-1771,Marco van
-1772,Cristiano Ronaldo
-1773,Hristo Stoichkov
-1774,Karl-Heinz Rummenigge
-1775,Gabriel Batistuta
-1776,Paolo Maldini
-1777,Roberto Carlos
-1778,Lionel Messi
-1779,Paolo Maldini
-1780,Gianluigi Buffon
-1781,Luís Figo
-1782,Gary Lineker
-1783,Roberto Carlos
-1784,Franz Beckenbauer
-1785,Michel Platini
-1786,Gianluigi Buffon
-1787,Paolo Maldini
-1788,Javier Zanetti
-1789,Franz Beckenbauer
-1790,Javier Zanetti
-1791,Gianluigi Buffon
-1792,Karl-Heinz Rummenigge
-1793,Alan Shearer
-1794,Javier Zanetti
-1795,Cristiano Ronaldo
-1796,Marco van
-1797,George Weah
-1798,Franz Beckenbauer
-1799,Edgar Davids
-1800,Cristiano Ronaldo
-1801,George Weah
-1802,Marco van
-1803,Gary Lineker
-1804,Peter Schmeichel
-1805,Diego Maradona
-1806,Roberto Baggio
-1807,Karl-Heinz Rummenigge
-1808,Pelé 
-1809,Ronaldo Nazario
-1810,Alan Shearer
-1811,Peter Schmeichel
-1812,Ronaldinho Gaúcho
-1813,Peter Schmeichel
-1814,Marco van
-1815,Kaká 
-1816,Edgar Davids
-1817,Bobby Charlton
-1818,Cristiano Ronaldo
-1819,Javier Zanetti
-1820,Roberto Carlos
-1821,Michel Platini
-1822,Gianluigi Buffon
-1823,Jürgen Klinsmann
-1824,Luís Figo
-1825,Marco van
-1826,Marco van
-1827,Pelé 
-1828,Edgar Davids
-1829,Ronaldinho Gaúcho
-1830,Diego Maradona
-1831,Cristiano Ronaldo
-1832,Diego Maradona
-1833,Ronaldinho Gaúcho
-1834,Gabriel Batistuta
-1835,Edgar Davids
-1836,Gianluigi Buffon
-1837,Lionel Messi
-1838,Luís Figo
-1839,Roberto Baggio
-1840,Pelé 
-1841,Edgar Davids
-1842,Hristo Stoichkov
-1843,Zinedine Zidane
-1844,Paolo Maldini
-1845,Bobby Charlton
-1846,Ronaldinho Gaúcho
-1847,Karl-Heinz Rummenigge
-1848,Ronaldo Nazario
-1849,Zinedine Zidane
-1850,Alan Shearer
-1851,Gabriel Batistuta
-1852,Hristo Stoichkov
-1853,Javier Zanetti
-1854,Bobby Charlton
-1855,Peter Schmeichel
-1856,Alan Shearer
-1857,Zinedine Zidane
-1858,Dennis Bergkamp
-1859,Diego Maradona
-1860,Gianluigi Buffon
-1861,Ronaldinho Gaúcho
-1862,Paolo Maldini
-1863,Ronaldo Nazario
-1864,Bobby Charlton
-1865,Paolo Maldini
-1866,Lionel Messi
-1867,Diego Maradona
-1868,Edgar Davids
-1869,Diego Maradona
-1870,Gianluigi Buffon
-1871,Zinedine Zidane
-1872,Pelé 
-1873,Jürgen Klinsmann
-1874,Michel Platini
-1875,Bobby Charlton
-1876,Cristiano Ronaldo
-1877,Paolo Maldini
-1878,Jürgen Klinsmann
-1879,Ronaldo Nazario
-1880,Kaká 
-1881,Alan Shearer
-1882,Gabriel Batistuta
-1883,Bobby Charlton
-1884,Franz Beckenbauer
-1885,Marco van
-1886,Pelé 
-1887,Ronaldo Nazario
-1888,Javier Zanetti
-1889,Lionel Messi
-1890,Edgar Davids
-1891,Diego Maradona
-1892,Luís Figo
-1893,Alan Shearer
-1894,Kaká 
-1895,Lionel Messi
-1896,Gabriel Batistuta
-1897,Gianluigi Buffon
-1898,Franz Beckenbauer
-1899,Zinedine Zidane
-1900,Roberto Carlos
-1901,Kaká 
-1902,Peter Schmeichel
-1903,Diego Maradona
-1904,Zinedine Zidane
-1905,Karl-Heinz Rummenigge
-1906,Karl-Heinz Rummenigge
-1907,Alan Shearer
-1908,Gianluigi Buffon
-1909,Gabriel Batistuta
-1910,Roberto Carlos
-1911,Karl-Heinz Rummenigge
-1912,Peter Schmeichel
-1913,Bobby Charlton
-1914,Franz Beckenbauer
-1915,Ronaldo Nazario
-1916,Michel Platini
-1917,Kaká 
-1918,Gianluigi Buffon
-1919,George Weah
-1920,Michel Platini
-1921,Roberto Carlos
-1922,George Weah
-1923,Javier Zanetti
-1924,Javier Zanetti
-1925,Marco van
-1926,Lionel Messi
-1927,Karl-Heinz Rummenigge
-1928,George Weah
-1929,George Weah
-1930,Hristo Stoichkov
-1931,Karl-Heinz Rummenigge
-1932,Zinedine Zidane
-1933,Luís Figo
-1934,Zinedine Zidane
-1935,Gary Lineker
-1936,Bobby Charlton
-1937,Lionel Messi
-1938,Roberto Carlos
-1939,Kaká 
-1940,Javier Zanetti
-1941,Edgar Davids
-1942,Diego Maradona
-1943,Gabriel Batistuta
-1944,Zinedine Zidane
-1945,Kaká 
-1946,Gabriel Batistuta
-1947,Roberto Baggio
-1948,Ronaldinho Gaúcho
-1949,Gary Lineker
-1950,Ronaldo Nazario
-1951,Franz Beckenbauer
-1952,Franz Beckenbauer
-1953,Roberto Carlos
-1954,Cristiano Ronaldo
-1955,Diego Maradona
-1956,Gabriel Batistuta
-1957,Gary Lineker
-1958,Javier Zanetti
-1959,Hristo Stoichkov
-1960,Javier Zanetti
-1961,Karl-Heinz Rummenigge
-1962,Jürgen Klinsmann
-1963,Peter Schmeichel
-1964,Edgar Davids
-1965,Peter Schmeichel
-1966,Karl-Heinz Rummenigge
-1967,Hristo Stoichkov
-1968,Franz Beckenbauer
-1969,Edgar Davids
-1970,Karl-Heinz Rummenigge
-1971,Gabriel Batistuta
-1972,Javier Zanetti
-1973,Paolo Maldini
-1974,Marco van
-1975,Roberto Carlos
-1976,Diego Maradona
-1977,Dennis Bergkamp
-1978,Dennis Bergkamp
-1979,Kaká 
-1980,Edgar Davids
-1981,Ronaldo Nazario
-1982,Franz Beckenbauer
-1983,Edgar Davids
-1984,Roberto Carlos
-1985,Michel Platini
-1986,Luís Figo
-1987,Jürgen Klinsmann
-1988,Zinedine Zidane
-1989,Marco van
-1990,Marco van
-1991,Roberto Carlos
-1992,Michel Platini
-1993,Alan Shearer
-1994,Cristiano Ronaldo
-1995,Peter Schmeichel
-1996,Karl-Heinz Rummenigge
-1997,Cristiano Ronaldo
-1998,Luís Figo
-1999,George Weah
-2000,Gianluigi Buffon
-2001,Jürgen Klinsmann
-2002,Paolo Maldini
-2003,Franz Beckenbauer
-2004,Michel Platini
-2005,Javier Zanetti
-2006,Jürgen Klinsmann
-2007,Ronaldinho Gaúcho
-2008,Franz Beckenbauer
-2009,Pelé 
-2010,Cristiano Ronaldo
-2011,Roberto Carlos
-2012,Peter Schmeichel
-2013,Lionel Messi
-2014,Gabriel Batistuta
-2015,Gary Lineker
-2016,Gary Lineker
-2017,Franz Beckenbauer
-2018,Peter Schmeichel
-2019,Roberto Carlos
-2020,George Weah
-2021,Franz Beckenbauer
-2022,Edgar Davids
-2023,Ronaldinho Gaúcho
-2024,Ronaldinho Gaúcho
-2025,Hristo Stoichkov
-2026,Hristo Stoichkov
-2027,Hristo Stoichkov
-2028,Edgar Davids
-2029,Michel Platini
-2030,Gianluigi Buffon
-2031,Pelé 
-2032,Paolo Maldini
-2033,Franz Beckenbauer
-2034,Pelé 
-2035,Paolo Maldini
-2036,Paolo Maldini
-2037,Kaká 
-2038,Kaká 
-2039,Gianluigi Buffon
-2040,Edgar Davids
-2041,Peter Schmeichel
-2042,George Weah
-2043,Kaká 
-2044,Edgar Davids
-2045,Peter Schmeichel
-2046,Zinedine Zidane
-2047,Alan Shearer
-2048,Paolo Maldini
-2049,Jürgen Klinsmann
-2050,Gabriel Batistuta
-2051,Alan Shearer
-2052,Ronaldinho Gaúcho
-2053,Hristo Stoichkov
-2054,Franz Beckenbauer
-2055,Bobby Charlton
-2056,Kaká 
-2057,Hristo Stoichkov
-2058,Jürgen Klinsmann
-2059,Javier Zanetti
-2060,Marco van
-2061,Paolo Maldini
-2062,Franz Beckenbauer
-2063,Javier Zanetti
-2064,Roberto Baggio
-2065,Karl-Heinz Rummenigge
-2066,Roberto Carlos
-2067,Luís Figo
-2068,Alan Shearer
-2069,Pelé 
-2070,Ronaldinho Gaúcho
-2071,Roberto Baggio
-2072,Jürgen Klinsmann
-2073,Alan Shearer
-2074,Luís Figo
-2075,Roberto Baggio
-2076,Ronaldo Nazario
-2077,Ronaldo Nazario
-2078,Zinedine Zidane
-2079,Bobby Charlton
-2080,Pelé 
-2081,Jürgen Klinsmann
-2082,Gianluigi Buffon
-2083,Diego Maradona
-2084,Roberto Baggio
-2085,Marco van
-2086,Gianluigi Buffon
-2087,Roberto Baggio
-2088,Javier Zanetti
-2089,Roberto Carlos
-2090,George Weah
-2091,Jürgen Klinsmann
-2092,Ronaldinho Gaúcho
-2093,Jürgen Klinsmann
-2094,Marco van
-2095,Franz Beckenbauer
-2096,Zinedine Zidane
-2097,Gianluigi Buffon
-2098,Alan Shearer
-2099,George Weah
-2100,George Weah
-2101,Ronaldinho Gaúcho
-2102,George Weah
-2103,Javier Zanetti
-2104,Franz Beckenbauer
-2105,Marco van
-2106,Javier Zanetti
-2107,Lionel Messi
-2108,Javier Zanetti
-2109,Gary Lineker
-2110,Cristiano Ronaldo
-2111,Bobby Charlton
-2112,Luís Figo
-2113,Roberto Baggio
-2114,Gabriel Batistuta
-2115,Karl-Heinz Rummenigge
-2116,Gianluigi Buffon
-2117,Peter Schmeichel
-2118,Edgar Davids
-2119,Bobby Charlton
-2120,Hristo Stoichkov
-2121,Marco van
-2122,Roberto Carlos
-2123,Roberto Carlos
-2124,Roberto Baggio
-2125,Kaká 
-2126,Luís Figo
-2127,George Weah
-2128,Cristiano Ronaldo
-2129,Cristiano Ronaldo
-2130,Jürgen Klinsmann
-2131,Lionel Messi
-2132,Gianluigi Buffon
-2133,Roberto Baggio
-2134,Gianluigi Buffon
-2135,Gianluigi Buffon
-2136,Roberto Baggio
-2137,Michel Platini
-2138,Lionel Messi
-2139,Dennis Bergkamp
-2140,Ronaldinho Gaúcho
-2141,Roberto Baggio
-2142,Javier Zanetti
-2143,Paolo Maldini
-2144,Javier Zanetti
-2145,Kaká 
-2146,Gianluigi Buffon
-2147,George Weah
-2148,Marco van
-2149,Gary Lineker
-2150,Marco van
-2151,Peter Schmeichel
-2152,Ronaldinho Gaúcho
-2153,Diego Maradona
-2154,Roberto Baggio
-2155,George Weah
-2156,Gabriel Batistuta
-2157,Zinedine Zidane
-2158,Michel Platini
-2159,Cristiano Ronaldo
-2160,Roberto Carlos
-2161,Javier Zanetti
-2162,Gary Lineker
-2163,Dennis Bergkamp
-2164,Edgar Davids
-2165,Gabriel Batistuta
-2166,Zinedine Zidane
-2167,Ronaldo Nazario
-2168,Dennis Bergkamp
-2169,Pelé 
-2170,Ronaldinho Gaúcho
-2171,Paolo Maldini
-2172,Bobby Charlton
-2173,Gianluigi Buffon
-2174,Bobby Charlton
-2175,Jürgen Klinsmann
-2176,Lionel Messi
-2177,Michel Platini
-2178,Hristo Stoichkov
-2179,Franz Beckenbauer
-2180,Karl-Heinz Rummenigge
-2181,Hristo Stoichkov
-2182,Luís Figo
-2183,Ronaldinho Gaúcho
-2184,Karl-Heinz Rummenigge
-2185,Ronaldinho Gaúcho
-2186,Karl-Heinz Rummenigge
-2187,Gianluigi Buffon
-2188,George Weah
-2189,Peter Schmeichel
-2190,Lionel Messi
-2191,Roberto Baggio
-2192,Roberto Baggio
-2193,Luís Figo
-2194,Franz Beckenbauer
-2195,Dennis Bergkamp
-2196,Ronaldinho Gaúcho
-2197,Diego Maradona
-2198,Paolo Maldini
-2199,Bobby Charlton
-2200,Gary Lineker
-2201,Javier Zanetti
-2202,Gianluigi Buffon
-2203,Hristo Stoichkov
-2204,Kaká 
-2205,Paolo Maldini
-2206,Javier Zanetti
-2207,Roberto Carlos
-2208,Zinedine Zidane
-2209,Ronaldo Nazario
-2210,Karl-Heinz Rummenigge
-2211,Roberto Baggio
-2212,Ronaldinho Gaúcho
-2213,Ronaldo Nazario
-2214,Diego Maradona
-2215,Pelé 
-2216,Dennis Bergkamp
-2217,Bobby Charlton
-2218,Gabriel Batistuta
-2219,Zinedine Zidane
-2220,Roberto Baggio
-2221,Dennis Bergkamp
-2222,Michel Platini
-2223,Ronaldo Nazario
-2224,George Weah
-2225,Hristo Stoichkov
-2226,Luís Figo
-2227,Gianluigi Buffon
-2228,Paolo Maldini
-2229,Cristiano Ronaldo
-2230,Javier Zanetti
-2231,Javier Zanetti
-2232,Cristiano Ronaldo
-2233,Karl-Heinz Rummenigge
-2234,Hristo Stoichkov
-2235,Hristo Stoichkov
-2236,Dennis Bergkamp
-2237,Gianluigi Buffon
-2238,Gianluigi Buffon
-2239,Marco van
-2240,Zinedine Zidane
-2241,Paolo Maldini
-2242,Zinedine Zidane
-2243,Diego Maradona
-2244,Ronaldo Nazario
-2245,Bobby Charlton
-2246,Edgar Davids
-2247,Roberto Carlos
-2248,Roberto Carlos
-2249,Cristiano Ronaldo
-2250,Dennis Bergkamp
-2251,Roberto Baggio
-2252,Michel Platini
-2253,Jürgen Klinsmann
-2254,Hristo Stoichkov
-2255,Dennis Bergkamp
-2256,Pelé 
-2257,Cristiano Ronaldo
-2258,Karl-Heinz Rummenigge
-2259,Alan Shearer
-2260,Pelé 
-2261,Cristiano Ronaldo
-2262,Marco van
-2263,Diego Maradona
-2264,George Weah
-2265,Kaká 
-2266,Gianluigi Buffon
-2267,Cristiano Ronaldo
-2268,Dennis Bergkamp
-2269,Paolo Maldini
-2270,Cristiano Ronaldo
-2271,Peter Schmeichel
-2272,Roberto Baggio
-2273,Gabriel Batistuta
-2274,Hristo Stoichkov
-2275,Gary Lineker
-2276,George Weah
-2277,Karl-Heinz Rummenigge
-2278,Roberto Baggio
-2279,Franz Beckenbauer
-2280,Hristo Stoichkov
-2281,Gianluigi Buffon
-2282,Franz Beckenbauer
-2283,Diego Maradona
-2284,Marco van
-2285,Gabriel Batistuta
-2286,Gianluigi Buffon
-2287,Gianluigi Buffon
-2288,Cristiano Ronaldo
-2289,Zinedine Zidane
-2290,Luís Figo
-2291,Dennis Bergkamp
-2292,Pelé 
-2293,Jürgen Klinsmann
-2294,Hristo Stoichkov
-2295,Lionel Messi
-2296,Gary Lineker
-2297,Marco van
-2298,Karl-Heinz Rummenigge
-2299,Peter Schmeichel
-2300,Lionel Messi
-2301,Roberto Baggio
-2302,George Weah
-2303,Roberto Carlos
-2304,Alan Shearer
-2305,Edgar Davids
-2306,Peter Schmeichel
-2307,Michel Platini
-2308,Zinedine Zidane
-2309,Roberto Baggio
-2310,Paolo Maldini
-2311,Gabriel Batistuta
-2312,Marco van
-2313,Cristiano Ronaldo
-2314,Karl-Heinz Rummenigge
-2315,Franz Beckenbauer
-2316,Gary Lineker
-2317,Michel Platini
-2318,Cristiano Ronaldo
-2319,Peter Schmeichel
-2320,Luís Figo
-2321,Cristiano Ronaldo
-2322,Karl-Heinz Rummenigge
-2323,Peter Schmeichel
-2324,Alan Shearer
-2325,Gary Lineker
-2326,Gabriel Batistuta
-2327,Gianluigi Buffon
-2328,Alan Shearer
-2329,George Weah
-2330,Paolo Maldini
-2331,Kaká 
-2332,Gary Lineker
-2333,Lionel Messi
-2334,Marco van
-2335,Peter Schmeichel
-2336,Cristiano Ronaldo
-2337,Bobby Charlton
-2338,Peter Schmeichel
-2339,Pelé 
-2340,Michel Platini
-2341,Peter Schmeichel
-2342,Jürgen Klinsmann
-2343,Gary Lineker
-2344,Javier Zanetti
-2345,Cristiano Ronaldo
-2346,Gabriel Batistuta
-2347,Karl-Heinz Rummenigge
-2348,Cristiano Ronaldo
-2349,Jürgen Klinsmann
-2350,Ronaldinho Gaúcho
-2351,Roberto Baggio
-2352,Franz Beckenbauer
-2353,Dennis Bergkamp
-2354,Lionel Messi
-2355,Karl-Heinz Rummenigge
-2356,Pelé 
-2357,Michel Platini
-2358,Peter Schmeichel
-2359,Roberto Carlos
-2360,Gabriel Batistuta
-2361,Peter Schmeichel
-2362,Paolo Maldini
-2363,Lionel Messi
-2364,Alan Shearer
-2365,Zinedine Zidane
-2366,Ronaldinho Gaúcho
-2367,Paolo Maldini
-2368,Alan Shearer
-2369,Gabriel Batistuta
-2370,Dennis Bergkamp
-2371,Diego Maradona
-2372,Peter Schmeichel
-2373,Bobby Charlton
-2374,Ronaldo Nazario
-2375,Ronaldinho Gaúcho
-2376,Cristiano Ronaldo
-2377,Alan Shearer
-2378,Cristiano Ronaldo
-2379,Diego Maradona
-2380,Paolo Maldini
-2381,Bobby Charlton
-2382,Cristiano Ronaldo
-2383,Gabriel Batistuta
-2384,Peter Schmeichel
-2385,Gianluigi Buffon
-2386,Roberto Carlos
-2387,Edgar Davids
-2388,Roberto Baggio
-2389,Peter Schmeichel
-2390,Bobby Charlton
-2391,Diego Maradona
-2392,Marco van
-2393,Ronaldinho Gaúcho
-2394,Ronaldinho Gaúcho
-2395,Bobby Charlton
-2396,Zinedine Zidane
-2397,Hristo Stoichkov
-2398,Ronaldinho Gaúcho
-2399,Ronaldinho Gaúcho
-2400,Edgar Davids
-2401,Dennis Bergkamp
-2402,Gabriel Batistuta
-2403,Ronaldinho Gaúcho
-2404,Dennis Bergkamp
-2405,Javier Zanetti
-2406,Pelé 
-2407,Roberto Carlos
-2408,Pelé 
-2409,Ronaldo Nazario
-2410,Bobby Charlton
-2411,Hristo Stoichkov
-2412,Gary Lineker
-2413,Lionel Messi
-2414,Javier Zanetti
-2415,Lionel Messi
-2416,Peter Schmeichel
-2417,Pelé 
-2418,Gary Lineker
-2419,Dennis Bergkamp
-2420,Javier Zanetti
-2421,Gianluigi Buffon
-2422,Pelé 
-2423,Ronaldinho Gaúcho
-2424,Gary Lineker
-2425,Lionel Messi
-2426,Ronaldinho Gaúcho
-2427,Gianluigi Buffon
-2428,Dennis Bergkamp
-2429,Michel Platini
-2430,Roberto Baggio
-2431,Gabriel Batistuta
-2432,Gabriel Batistuta
-2433,Paolo Maldini
-2434,Kaká 
-2435,Luís Figo
-2436,Zinedine Zidane
-2437,Gabriel Batistuta
-2438,Bobby Charlton
-2439,Roberto Baggio
-2440,Roberto Carlos
-2441,Bobby Charlton
-2442,Kaká 
-2443,Michel Platini
-2444,Javier Zanetti
-2445,Peter Schmeichel
-2446,Roberto Carlos
-2447,Roberto Baggio
-2448,Bobby Charlton
-2449,Hristo Stoichkov
-2450,Roberto Carlos
-2451,Pelé 
-2452,Kaká 
-2453,George Weah
-2454,Luís Figo
-2455,Karl-Heinz Rummenigge
-2456,Luís Figo
-2457,Lionel Messi
-2458,Alan Shearer
-2459,Alan Shearer
-2460,Pelé 
-2461,Roberto Carlos
-2462,Ronaldo Nazario
-2463,Ronaldinho Gaúcho
-2464,Roberto Baggio
-2465,George Weah
-2466,Marco van
-2467,Edgar Davids
-2468,Gabriel Batistuta
-2469,Diego Maradona
-2470,Ronaldo Nazario
-2471,Alan Shearer
-2472,Luís Figo
-2473,Gabriel Batistuta
-2474,Luís Figo
-2475,Bobby Charlton
-2476,Alan Shearer
-2477,Paolo Maldini
-2478,Gianluigi Buffon
-2479,Michel Platini
-2480,Pelé 
-2481,Paolo Maldini
-2482,Diego Maradona
-2483,Dennis Bergkamp
-2484,Edgar Davids
-2485,Ronaldinho Gaúcho
-2486,Zinedine Zidane
-2487,Roberto Carlos
-2488,Peter Schmeichel
-2489,Zinedine Zidane
-2490,Marco van
-2491,Roberto Baggio
-2492,Zinedine Zidane
-2493,Jürgen Klinsmann
-2494,Javier Zanetti
-2495,Franz Beckenbauer
-2496,Roberto Carlos
-2497,Gianluigi Buffon
-2498,Marco van
-2499,Hristo Stoichkov
-2500,Paolo Maldini
-2501,Edgar Davids
-2502,Dennis Bergkamp
-2503,Lionel Messi
-2504,Jürgen Klinsmann
-2505,Pelé 
-2506,Javier Zanetti
-2507,Javier Zanetti
-2508,Karl-Heinz Rummenigge
-2509,Bobby Charlton
-2510,Roberto Baggio
-2511,Peter Schmeichel
-2512,Bobby Charlton
-2513,Pelé 
-2514,Lionel Messi
-2515,Luís Figo
-2516,Marco van
-2517,Luís Figo
-2518,Michel Platini
-2519,Ronaldo Nazario
-2520,Kaká 
-2521,Franz Beckenbauer
-2522,Ronaldinho Gaúcho
-2523,Ronaldinho Gaúcho
-2524,Dennis Bergkamp
-2525,Karl-Heinz Rummenigge
-2526,Gabriel Batistuta
-2527,Javier Zanetti
-2528,Roberto Baggio
-2529,Luís Figo
-2530,Luís Figo
-2531,Javier Zanetti
-2532,Gary Lineker
-2533,George Weah
-2534,Cristiano Ronaldo
-2535,Ronaldinho Gaúcho
-2536,Jürgen Klinsmann
-2537,Gary Lineker
-2538,Pelé 
-2539,Roberto Baggio
-2540,Gianluigi Buffon
-2541,Javier Zanetti
-2542,George Weah
-2543,Gianluigi Buffon
-2544,Hristo Stoichkov
-2545,George Weah
-2546,Karl-Heinz Rummenigge
-2547,Luís Figo
-2548,Marco van
-2549,Peter Schmeichel
-2550,Roberto Carlos
-2551,Alan Shearer
-2552,Lionel Messi
-2553,Paolo Maldini
-2554,Roberto Baggio
-2555,Edgar Davids
-2556,Diego Maradona
-2557,George Weah
-2558,Kaká 
-2559,Paolo Maldini
-2560,Roberto Carlos
-2561,Dennis Bergkamp
-2562,Michel Platini
-2563,Zinedine Zidane
-2564,Paolo Maldini
-2565,Ronaldinho Gaúcho
-2566,Gary Lineker
-2567,Roberto Carlos
-2568,Paolo Maldini
-2569,Karl-Heinz Rummenigge
-2570,Roberto Carlos
-2571,Gary Lineker
-2572,Edgar Davids
-2573,Roberto Baggio
-2574,Gabriel Batistuta
-2575,Peter Schmeichel
-2576,Jürgen Klinsmann
-2577,Franz Beckenbauer
-2578,Javier Zanetti
-2579,Lionel Messi
-2580,Franz Beckenbauer
-2581,Ronaldo Nazario
-2582,Marco van
-2583,Diego Maradona
-2584,Gary Lineker
-2585,Cristiano Ronaldo
-2586,Roberto Carlos
-2587,Gary Lineker
-2588,Dennis Bergkamp
-2589,Marco van
-2590,Peter Schmeichel
-2591,Karl-Heinz Rummenigge
-2592,Lionel Messi
-2593,George Weah
-2594,Roberto Baggio
-2595,George Weah
-2596,Pelé 
-2597,Cristiano Ronaldo
-2598,Roberto Baggio
-2599,Hristo Stoichkov
-2600,Cristiano Ronaldo
-2601,Marco van
-2602,Roberto Carlos
-2603,Paolo Maldini
-2604,Bobby Charlton
-2605,Dennis Bergkamp
-2606,Paolo Maldini
-2607,Roberto Baggio
-2608,Pelé 
-2609,Diego Maradona
-2610,Marco van
-2611,Roberto Baggio
-2612,Alan Shearer
-2613,Ronaldo Nazario
-2614,Zinedine Zidane
-2615,George Weah
-2616,Ronaldinho Gaúcho
-2617,Roberto Carlos
-2618,Luís Figo
-2619,Pelé 
-2620,Gabriel Batistuta
-2621,Gary Lineker
-2622,Dennis Bergkamp
-2623,Bobby Charlton
-2624,Marco van
-2625,Paolo Maldini
-2626,Marco van
-2627,Bobby Charlton
-2628,Ronaldo Nazario
-2629,Gabriel Batistuta
-2630,Marco van
-2631,Jürgen Klinsmann
-2632,Alan Shearer
-2633,Zinedine Zidane
-2634,Gianluigi Buffon
-2635,George Weah
-2636,Kaká 
-2637,Ronaldo Nazario
-2638,Diego Maradona
-2639,Luís Figo
-2640,Hristo Stoichkov
-2641,Dennis Bergkamp
-2642,Gabriel Batistuta
-2643,Hristo Stoichkov
-2644,Alan Shearer
-2645,Gabriel Batistuta
-2646,Karl-Heinz Rummenigge
-2647,George Weah
-2648,Edgar Davids
-2649,Alan Shearer
-2650,Bobby Charlton
-2651,Edgar Davids
-2652,Lionel Messi
-2653,Lionel Messi
-2654,Javier Zanetti
-2655,Michel Platini
-2656,Zinedine Zidane
-2657,George Weah
-2658,Franz Beckenbauer
-2659,Michel Platini
-2660,Zinedine Zidane
-2661,Ronaldo Nazario
-2662,Michel Platini
-2663,Jürgen Klinsmann
-2664,Zinedine Zidane
-2665,Edgar Davids
-2666,Marco van
-2667,Michel Platini
-2668,Ronaldinho Gaúcho
-2669,Karl-Heinz Rummenigge
-2670,George Weah
-2671,Zinedine Zidane
-2672,Gianluigi Buffon
-2673,Javier Zanetti
-2674,Peter Schmeichel
-2675,Gabriel Batistuta
-2676,Alan Shearer
-2677,Ronaldinho Gaúcho
-2678,Dennis Bergkamp
-2679,Diego Maradona
-2680,Marco van
-2681,Bobby Charlton
-2682,Michel Platini
-2683,Kaká 
-2684,Bobby Charlton
-2685,Marco van
-2686,Karl-Heinz Rummenigge
-2687,Javier Zanetti
-2688,Hristo Stoichkov
-2689,Michel Platini
-2690,Jürgen Klinsmann
-2691,Roberto Carlos
-2692,George Weah
-2693,Roberto Baggio
-2694,Dennis Bergkamp
-2695,Paolo Maldini
-2696,Javier Zanetti
-2697,Gabriel Batistuta
-2698,Ronaldinho Gaúcho
-2699,Marco van
-2700,Marco van
-2701,Michel Platini
-2702,Alan Shearer
-2703,Bobby Charlton
-2704,Roberto Baggio
-2705,Karl-Heinz Rummenigge
-2706,Pelé 
-2707,Edgar Davids
-2708,Jürgen Klinsmann
-2709,Luís Figo
-2710,Kaká 
-2711,Zinedine Zidane
-2712,Michel Platini
-2713,Franz Beckenbauer
-2714,Hristo Stoichkov
-2715,Zinedine Zidane
-2716,Dennis Bergkamp
-2717,Edgar Davids
-2718,Ronaldinho Gaúcho
-2719,Roberto Baggio
-2720,Paolo Maldini
-2721,Ronaldinho Gaúcho
-2722,Karl-Heinz Rummenigge
-2723,Peter Schmeichel
-2724,Gary Lineker
-2725,Alan Shearer
-2726,Roberto Carlos
-2727,Edgar Davids
-2728,Roberto Carlos
-2729,Pelé 
-2730,Roberto Carlos
-2731,Ronaldinho Gaúcho
-2732,Lionel Messi
-2733,Gabriel Batistuta
-2734,Karl-Heinz Rummenigge
-2735,Karl-Heinz Rummenigge
-2736,Hristo Stoichkov
-2737,Kaká 
-2738,Ronaldo Nazario
-2739,Michel Platini
-2740,Hristo Stoichkov
-2741,Bobby Charlton
-2742,Marco van
-2743,Diego Maradona
-2744,Franz Beckenbauer
-2745,Gianluigi Buffon
-2746,Franz Beckenbauer
-2747,Paolo Maldini
-2748,Michel Platini
-2749,Karl-Heinz Rummenigge
-2750,Dennis Bergkamp
-2751,Karl-Heinz Rummenigge
-2752,Peter Schmeichel
-2753,Gary Lineker
-2754,Michel Platini
-2755,Bobby Charlton
-2756,Dennis Bergkamp
-2757,Edgar Davids
-2758,Marco van
-2759,Franz Beckenbauer
-2760,Bobby Charlton
-2761,Roberto Carlos
-2762,Paolo Maldini
-2763,Cristiano Ronaldo
-2764,Paolo Maldini
-2765,Diego Maradona
-2766,Ronaldinho Gaúcho
-2767,Kaká 
-2768,Bobby Charlton
-2769,Jürgen Klinsmann
-2770,Ronaldinho Gaúcho
-2771,Cristiano Ronaldo
-2772,Luís Figo
-2773,George Weah
-2774,Roberto Carlos
-2775,Gary Lineker
-2776,Ronaldinho Gaúcho
-2777,Paolo Maldini
-2778,Gary Lineker
-2779,Paolo Maldini
-2780,Pelé 
-2781,Marco van
-2782,Luís Figo
-2783,Jürgen Klinsmann
-2784,Diego Maradona
-2785,Karl-Heinz Rummenigge
-2786,Ronaldinho Gaúcho
-2787,Gary Lineker
-2788,Ronaldinho Gaúcho
-2789,Lionel Messi
-2790,Michel Platini
-2791,Cristiano Ronaldo
-2792,Roberto Baggio
-2793,Gabriel Batistuta
-2794,Roberto Baggio
-2795,Peter Schmeichel
-2796,Bobby Charlton
-2797,Bobby Charlton
-2798,Dennis Bergkamp
-2799,Ronaldinho Gaúcho
-2800,Edgar Davids
-2801,Diego Maradona
-2802,Jürgen Klinsmann
-2803,Javier Zanetti
-2804,Gary Lineker
-2805,Kaká 
-2806,Michel Platini
-2807,Peter Schmeichel
-2808,Gianluigi Buffon
-2809,Pelé 
-2810,Hristo Stoichkov
-2811,Ronaldo Nazario
-2812,Roberto Carlos
-2813,Ronaldo Nazario
-2814,Gianluigi Buffon
-2815,Diego Maradona
-2816,Peter Schmeichel
-2817,Marco van
-2818,Hristo Stoichkov
-2819,Lionel Messi
-2820,Alan Shearer
-2821,Gary Lineker
-2822,Michel Platini
-2823,Roberto Carlos
-2824,Dennis Bergkamp
-2825,Diego Maradona
-2826,Peter Schmeichel
-2827,Kaká 
-2828,Gabriel Batistuta
-2829,Ronaldinho Gaúcho
-2830,Jürgen Klinsmann
-2831,Ronaldo Nazario
-2832,Gabriel Batistuta
-2833,Dennis Bergkamp
-2834,Dennis Bergkamp
-2835,Ronaldo Nazario
-2836,Ronaldinho Gaúcho
-2837,Karl-Heinz Rummenigge
-2838,Franz Beckenbauer
-2839,Kaká 
-2840,Luís Figo
-2841,Jürgen Klinsmann
-2842,Michel Platini
-2843,Michel Platini
-2844,Alan Shearer
-2845,Luís Figo
-2846,Michel Platini
-2847,Ronaldo Nazario
-2848,Lionel Messi
-2849,Roberto Carlos
-2850,Javier Zanetti
-2851,Marco van
-2852,Gianluigi Buffon
-2853,Pelé 
-2854,George Weah
-2855,Pelé 
-2856,Zinedine Zidane
-2857,Gary Lineker
-2858,Gary Lineker
-2859,Marco van
-2860,Gianluigi Buffon
-2861,Bobby Charlton
-2862,Michel Platini
-2863,Roberto Baggio
-2864,Paolo Maldini
-2865,George Weah
-2866,Pelé 
-2867,Roberto Carlos
-2868,Roberto Baggio
-2869,Paolo Maldini
-2870,Franz Beckenbauer
-2871,Gary Lineker
-2872,Marco van
-2873,Edgar Davids
-2874,Roberto Baggio
-2875,Diego Maradona
-2876,Karl-Heinz Rummenigge
-2877,Zinedine Zidane
-2878,Marco van
-2879,Alan Shearer
-2880,Gabriel Batistuta
-2881,Ronaldinho Gaúcho
-2882,Karl-Heinz Rummenigge
-2883,Gianluigi Buffon
-2884,Roberto Baggio
-2885,Peter Schmeichel
-2886,Zinedine Zidane
-2887,Lionel Messi
-2888,Roberto Carlos
-2889,Zinedine Zidane
-2890,Marco van
-2891,Gary Lineker
-2892,Roberto Baggio
-2893,Ronaldinho Gaúcho
-2894,Javier Zanetti
-2895,Diego Maradona
-2896,Roberto Carlos
-2897,Peter Schmeichel
-2898,Marco van
-2899,Kaká 
-2900,Alan Shearer
-2901,Paolo Maldini
-2902,Roberto Carlos
-2903,Edgar Davids
-2904,Lionel Messi
-2905,Jürgen Klinsmann
-2906,Cristiano Ronaldo
-2907,Hristo Stoichkov
-2908,Jürgen Klinsmann
-2909,Pelé 
-2910,Luís Figo
-2911,Ronaldo Nazario
-2912,Hristo Stoichkov
-2913,Michel Platini
-2914,Paolo Maldini
-2915,Kaká 
-2916,Cristiano Ronaldo
-2917,Ronaldo Nazario
-2918,Gabriel Batistuta
-2919,Roberto Baggio
-2920,Javier Zanetti
-2921,Roberto Baggio
-2922,Marco van
-2923,Pelé 
-2924,Jürgen Klinsmann
-2925,Alan Shearer
-2926,Bobby Charlton
-2927,Javier Zanetti
-2928,Roberto Baggio
-2929,Roberto Carlos
-2930,Zinedine Zidane
-2931,Gabriel Batistuta
-2932,Gary Lineker
-2933,Pelé 
-2934,Peter Schmeichel
-2935,George Weah
-2936,Michel Platini
-2937,Paolo Maldini
-2938,Bobby Charlton
-2939,Luís Figo
-2940,Gabriel Batistuta
-2941,Paolo Maldini
-2942,Bobby Charlton
-2943,George Weah
-2944,Karl-Heinz Rummenigge
-2945,Roberto Baggio
-2946,Lionel Messi
-2947,Gianluigi Buffon
-2948,Dennis Bergkamp
-2949,Gabriel Batistuta
-2950,Roberto Carlos
-2951,Javier Zanetti
-2952,Paolo Maldini
-2953,Gabriel Batistuta
-2954,Peter Schmeichel
-2955,Zinedine Zidane
-2956,Franz Beckenbauer
-2957,Kaká 
-2958,Karl-Heinz Rummenigge
-2959,Lionel Messi
-2960,Karl-Heinz Rummenigge
-2961,Alan Shearer
-2962,Gary Lineker
-2963,Javier Zanetti
-2964,Ronaldinho Gaúcho
-2965,Pelé 
-2966,Karl-Heinz Rummenigge
-2967,Roberto Baggio
-2968,Peter Schmeichel
-2969,Michel Platini
-2970,Javier Zanetti
-2971,Gabriel Batistuta
-2972,Roberto Baggio
-2973,Hristo Stoichkov
-2974,Hristo Stoichkov
-2975,Diego Maradona
-2976,Michel Platini
-2977,Diego Maradona
-2978,Hristo Stoichkov
-2979,Gary Lineker
-2980,Hristo Stoichkov
-2981,Pelé 
-2982,Cristiano Ronaldo
-2983,Diego Maradona
-2984,Karl-Heinz Rummenigge
-2985,Hristo Stoichkov
-2986,Gianluigi Buffon
-2987,Javier Zanetti
-2988,Lionel Messi
-2989,George Weah
-2990,Marco van
-2991,Paolo Maldini
-2992,Lionel Messi
-2993,Kaká 
-2994,Jürgen Klinsmann
-2995,Zinedine Zidane
-2996,Marco van
-2997,Michel Platini
-2998,Lionel Messi
-2999,Ronaldinho Gaúcho
-3000,Karl-Heinz Rummenigge
-3001,Luís Figo
-3002,Marco van
-3003,Edgar Davids
-3004,Jürgen Klinsmann
-3005,Roberto Baggio
-3006,Alan Shearer
-3007,Bobby Charlton
-3008,Luís Figo
-3009,Gary Lineker
-3010,Ronaldinho Gaúcho
-3011,Alan Shearer
-3012,Luís Figo
-3013,Paolo Maldini
-3014,Ronaldo Nazario
-3015,Javier Zanetti
-3016,Alan Shearer
-3017,Hristo Stoichkov
-3018,Roberto Baggio
-3019,Ronaldinho Gaúcho
-3020,Diego Maradona
-3021,Ronaldo Nazario
-3022,Diego Maradona
-3023,Ronaldo Nazario
-3024,Alan Shearer
-3025,Cristiano Ronaldo
-3026,Karl-Heinz Rummenigge
-3027,Cristiano Ronaldo
-3028,Marco van
-3029,Gary Lineker
-3030,Dennis Bergkamp
-3031,Luís Figo
-3032,Gianluigi Buffon
-3033,Alan Shearer
-3034,Hristo Stoichkov
-3035,Franz Beckenbauer
-3036,Michel Platini
-3037,Ronaldo Nazario
-3038,Alan Shearer
-3039,Roberto Baggio
-3040,Roberto Carlos
-3041,Roberto Carlos
-3042,Pelé 
-3043,Luís Figo
-3044,Lionel Messi
-3045,Karl-Heinz Rummenigge
-3046,Ronaldinho Gaúcho
-3047,Luís Figo
-3048,Hristo Stoichkov
-3049,George Weah
-3050,Roberto Carlos
-3051,Luís Figo
-3052,Ronaldo Nazario
-3053,Cristiano Ronaldo
-3054,Gianluigi Buffon
-3055,Luís Figo
-3056,Bobby Charlton
-3057,Roberto Baggio
-3058,Gary Lineker
-3059,Zinedine Zidane
-3060,Jürgen Klinsmann
-3061,Roberto Carlos
-3062,George Weah
-3063,Kaká 
-3064,Michel Platini
-3065,Javier Zanetti
-3066,Karl-Heinz Rummenigge
-3067,Kaká 
-3068,Peter Schmeichel
-3069,Cristiano Ronaldo
-3070,Pelé 
-3071,Javier Zanetti
-3072,Marco van
-3073,Michel Platini
-3074,Jürgen Klinsmann
-3075,Cristiano Ronaldo
-3076,Gary Lineker
-3077,George Weah
-3078,Franz Beckenbauer
-3079,Gary Lineker
-3080,George Weah
-3081,Bobby Charlton
-3082,Roberto Baggio
-3083,Edgar Davids
-3084,Jürgen Klinsmann
-3085,George Weah
-3086,Luís Figo
-3087,Peter Schmeichel
-3088,Gianluigi Buffon
-3089,Javier Zanetti
-3090,Marco van
-3091,Gary Lineker
-3092,Luís Figo
-3093,Diego Maradona
-3094,Cristiano Ronaldo
-3095,Javier Zanetti
-3096,Peter Schmeichel
-3097,Peter Schmeichel
-3098,Cristiano Ronaldo
-3099,Dennis Bergkamp
-3100,Bobby Charlton
-3101,Kaká 
-3102,Edgar Davids
-3103,Karl-Heinz Rummenigge
-3104,Paolo Maldini
-3105,Jürgen Klinsmann
-3106,Luís Figo
-3107,Pelé 
-3108,Bobby Charlton
-3109,Luís Figo
-3110,Peter Schmeichel
-3111,Karl-Heinz Rummenigge
-3112,Bobby Charlton
-3113,Marco van
-3114,Peter Schmeichel
-3115,Ronaldinho Gaúcho
-3116,Gabriel Batistuta
-3117,Bobby Charlton
-3118,Ronaldo Nazario
-3119,Gianluigi Buffon
-3120,Javier Zanetti
-3121,Roberto Baggio
-3122,Gary Lineker
-3123,Bobby Charlton
-3124,Franz Beckenbauer
-3125,Cristiano Ronaldo
-3126,Dennis Bergkamp
-3127,Edgar Davids
-3128,Roberto Carlos
-3129,Karl-Heinz Rummenigge
-3130,Franz Beckenbauer
-3131,Diego Maradona
-3132,Gary Lineker
-3133,Ronaldinho Gaúcho
-3134,Jürgen Klinsmann
-3135,Dennis Bergkamp
-3136,George Weah
-3137,Cristiano Ronaldo
-3138,Hristo Stoichkov
-3139,Gary Lineker
-3140,Pelé 
-3141,Diego Maradona
-3142,Peter Schmeichel
-3143,Peter Schmeichel
-3144,Alan Shearer
-3145,Cristiano Ronaldo
-3146,Gabriel Batistuta
-3147,Luís Figo
-3148,Paolo Maldini
-3149,Luís Figo
-3150,Zinedine Zidane
-3151,Luís Figo
-3152,Karl-Heinz Rummenigge
-3153,Ronaldo Nazario
-3154,Hristo Stoichkov
-3155,Roberto Baggio
-3156,Zinedine Zidane
-3157,Gabriel Batistuta
-3158,Ronaldo Nazario
-3159,Peter Schmeichel
-3160,Zinedine Zidane
-3161,Ronaldo Nazario
-3162,Gianluigi Buffon
-3163,Roberto Baggio
-3164,Kaká 
-3165,Gabriel Batistuta
-3166,Gary Lineker
-3167,Marco van
-3168,Zinedine Zidane
-3169,Edgar Davids
-3170,Ronaldinho Gaúcho
-3171,Pelé 
-3172,Javier Zanetti
-3173,Edgar Davids
-3174,Dennis Bergkamp
-3175,Edgar Davids
-3176,Karl-Heinz Rummenigge
-3177,George Weah
-3178,Javier Zanetti
-3179,Zinedine Zidane
-3180,Gabriel Batistuta
-3181,Bobby Charlton
-3182,Peter Schmeichel
-3183,Dennis Bergkamp
-3184,Diego Maradona
-3185,Gabriel Batistuta
-3186,Roberto Baggio
-3187,Dennis Bergkamp
-3188,Paolo Maldini
-3189,Zinedine Zidane
-3190,Gabriel Batistuta
-3191,Kaká 
-3192,Kaká 
-3193,Roberto Baggio
-3194,Bobby Charlton
-3195,Michel Platini
-3196,Bobby Charlton
-3197,Kaká 
-3198,Lionel Messi
-3199,Ronaldo Nazario
-3200,Roberto Carlos
-3201,Alan Shearer
-3202,George Weah
-3203,Edgar Davids
-3204,George Weah
-3205,Gary Lineker
-3206,Edgar Davids
-3207,Franz Beckenbauer
-3208,Edgar Davids
-3209,Gianluigi Buffon
-3210,Paolo Maldini
-3211,Paolo Maldini
-3212,Lionel Messi
-3213,Franz Beckenbauer
-3214,Roberto Baggio
-3215,Jürgen Klinsmann
-3216,Kaká 
-3217,Roberto Baggio
-3218,Luís Figo
-3219,Roberto Baggio
-3220,Hristo Stoichkov
-3221,Hristo Stoichkov
-3222,Roberto Baggio
-3223,Zinedine Zidane
-3224,Diego Maradona
-3225,Michel Platini
-3226,Peter Schmeichel
-3227,Jürgen Klinsmann
-3228,Gabriel Batistuta
-3229,Gianluigi Buffon
-3230,Kaká 
-3231,Edgar Davids
-3232,Ronaldinho Gaúcho
-3233,Roberto Carlos
-3234,Ronaldo Nazario
-3235,Pelé 
-3236,Roberto Carlos
-3237,Roberto Baggio
-3238,Paolo Maldini
-3239,Ronaldinho Gaúcho
-3240,Cristiano Ronaldo
-3241,Ronaldo Nazario
-3242,Roberto Carlos
-3243,Ronaldinho Gaúcho
-3244,Zinedine Zidane
-3245,Michel Platini
-3246,Ronaldinho Gaúcho
-3247,Javier Zanetti
-3248,Roberto Carlos
-3249,Gary Lineker
-3250,Michel Platini
-3251,George Weah
-3252,Michel Platini
-3253,Zinedine Zidane
-3254,Gianluigi Buffon
-3255,Peter Schmeichel
-3256,Pelé 
-3257,Paolo Maldini
-3258,Javier Zanetti
-3259,Karl-Heinz Rummenigge
-3260,Hristo Stoichkov
-3261,Paolo Maldini
-3262,Bobby Charlton
-3263,Luís Figo
-3264,Karl-Heinz Rummenigge
-3265,Michel Platini
-3266,Jürgen Klinsmann
-3267,Edgar Davids
-3268,Karl-Heinz Rummenigge
-3269,Lionel Messi
-3270,Hristo Stoichkov
-3271,Zinedine Zidane
-3272,Zinedine Zidane
-3273,Hristo Stoichkov
-3274,Ronaldinho Gaúcho
-3275,Roberto Carlos
-3276,Karl-Heinz Rummenigge
-3277,Kaká 
-3278,Lionel Messi
-3279,Jürgen Klinsmann
-3280,Jürgen Klinsmann
-3281,Michel Platini
-3282,Ronaldinho Gaúcho
-3283,Kaká 
-3284,Edgar Davids
-3285,George Weah
-3286,Gary Lineker
-3287,Alan Shearer
-3288,Michel Platini
-3289,Gabriel Batistuta
-3290,Michel Platini
-3291,Dennis Bergkamp
-3292,Lionel Messi
-3293,Bobby Charlton
-3294,Bobby Charlton
-3295,Peter Schmeichel
-3296,Karl-Heinz Rummenigge
-3297,Lionel Messi
-3298,Pelé 
-3299,Diego Maradona
-3300,Karl-Heinz Rummenigge
-3301,Roberto Carlos
-3302,George Weah
-3303,Edgar Davids
-3304,Gary Lineker
-3305,Karl-Heinz Rummenigge
-3306,Roberto Baggio
-3307,Jürgen Klinsmann
-3308,Michel Platini
-3309,George Weah
-3310,Bobby Charlton
-3311,Franz Beckenbauer
-3312,George Weah
-3313,Karl-Heinz Rummenigge
-3314,Hristo Stoichkov
-3315,Bobby Charlton
-3316,Gabriel Batistuta
-3317,Kaká 
-3318,Diego Maradona
-3319,Paolo Maldini
-3320,Ronaldo Nazario
-3321,Roberto Carlos
-3322,Alan Shearer
-3323,Marco van
-3324,Gianluigi Buffon
-3325,Karl-Heinz Rummenigge
-3326,Ronaldo Nazario
-3327,Zinedine Zidane
-3328,Roberto Carlos
-3329,Pelé 
-3330,Alan Shearer
-3331,Karl-Heinz Rummenigge
-3332,Alan Shearer
-3333,Diego Maradona
-3334,Marco van
-3335,Marco van
-3336,George Weah
-3337,Javier Zanetti
-3338,Gianluigi Buffon
-3339,Javier Zanetti
-3340,Diego Maradona
-3341,Ronaldo Nazario
-3342,Peter Schmeichel
-3343,Paolo Maldini
-3344,Jürgen Klinsmann
-3345,Diego Maradona
-3346,Ronaldo Nazario
-3347,Pelé 
-3348,Luís Figo
-3349,Jürgen Klinsmann
-3350,Franz Beckenbauer
-3351,Lionel Messi
-3352,Gabriel Batistuta
-3353,Roberto Baggio
-3354,Pelé 
-3355,Peter Schmeichel
-3356,Roberto Carlos
-3357,Ronaldinho Gaúcho
-3358,Gianluigi Buffon
-3359,Lionel Messi
-3360,Roberto Carlos
-3361,Kaká 
-3362,Pelé 
-3363,Paolo Maldini
-3364,Marco van
-3365,Javier Zanetti
-3366,Gary Lineker
-3367,Jürgen Klinsmann
-3368,Roberto Carlos
-3369,Peter Schmeichel
-3370,Luís Figo
-3371,Roberto Carlos
-3372,Peter Schmeichel
-3373,Lionel Messi
-3374,Ronaldinho Gaúcho
-3375,Hristo Stoichkov
-3376,Diego Maradona
-3377,Paolo Maldini
-3378,Hristo Stoichkov
-3379,Bobby Charlton
-3380,Peter Schmeichel
-3381,Gabriel Batistuta
-3382,Javier Zanetti
-3383,Pelé 
-3384,Edgar Davids
-3385,Javier Zanetti
-3386,Bobby Charlton
-3387,Javier Zanetti
-3388,Peter Schmeichel
-3389,Bobby Charlton
-3390,Ronaldo Nazario
-3391,Javier Zanetti
-3392,Peter Schmeichel
-3393,Roberto Carlos
-3394,Lionel Messi
-3395,Lionel Messi
-3396,Marco van
-3397,Lionel Messi
-3398,Marco van
-3399,Kaká 
-3400,Cristiano Ronaldo
-3401,Roberto Baggio
-3402,Luís Figo
-3403,Karl-Heinz Rummenigge
-3404,Diego Maradona
-3405,George Weah
-3406,Gary Lineker
-3407,Roberto Baggio
-3408,Edgar Davids
-3409,Ronaldo Nazario
-3410,Jürgen Klinsmann
-3411,Alan Shearer
-3412,Gary Lineker
-3413,Franz Beckenbauer
-3414,Franz Beckenbauer
-3415,Roberto Baggio
-3416,Cristiano Ronaldo
-3417,Alan Shearer
-3418,Cristiano Ronaldo
-3419,Michel Platini
-3420,Pelé 
-3421,Karl-Heinz Rummenigge
-3422,Pelé 
-3423,Roberto Baggio
-3424,Diego Maradona
-3425,Zinedine Zidane
-3426,Marco van
-3427,Diego Maradona
-3428,Jürgen Klinsmann
-3429,Ronaldinho Gaúcho
-3430,Ronaldinho Gaúcho
-3431,Roberto Baggio
-3432,Bobby Charlton
-3433,Lionel Messi
-3434,Ronaldinho Gaúcho
-3435,Edgar Davids
-3436,Zinedine Zidane
-3437,Kaká 
-3438,Marco van
-3439,Gianluigi Buffon
-3440,Peter Schmeichel
-3441,Lionel Messi
-3442,Zinedine Zidane
-3443,Paolo Maldini
-3444,Cristiano Ronaldo
-3445,Zinedine Zidane
-3446,Luís Figo
-3447,Franz Beckenbauer
-3448,Javier Zanetti
-3449,Zinedine Zidane
-3450,Dennis Bergkamp
-3451,Cristiano Ronaldo
-3452,Edgar Davids
-3453,Marco van
-3454,Franz Beckenbauer
-3455,Lionel Messi
-3456,Jürgen Klinsmann
-3457,Kaká 
-3458,Gabriel Batistuta
-3459,Ronaldinho Gaúcho
-3460,Roberto Baggio
-3461,Alan Shearer
-3462,Pelé 
-3463,Luís Figo
-3464,Ronaldo Nazario
-3465,Gary Lineker
-3466,Lionel Messi
-3467,Ronaldo Nazario
-3468,Edgar Davids
-3469,Diego Maradona
-3470,Ronaldo Nazario
-3471,Gabriel Batistuta
-3472,Alan Shearer
-3473,Roberto Baggio
-3474,Michel Platini
-3475,Gary Lineker
-3476,Gabriel Batistuta
-3477,Dennis Bergkamp
-3478,Javier Zanetti
-3479,Peter Schmeichel
-3480,Gabriel Batistuta
-3481,Franz Beckenbauer
-3482,George Weah
-3483,Paolo Maldini
-3484,Bobby Charlton
-3485,Javier Zanetti
-3486,Gabriel Batistuta
-3487,Edgar Davids
-3488,Gabriel Batistuta
-3489,Gabriel Batistuta
-3490,Kaká 
-3491,Dennis Bergkamp
-3492,Diego Maradona
-3493,Diego Maradona
-3494,Luís Figo
-3495,Kaká 
-3496,Roberto Baggio
-3497,Lionel Messi
-3498,Diego Maradona
-3499,Javier Zanetti
-3500,Edgar Davids
-3501,Alan Shearer
-3502,Bobby Charlton
-3503,Marco van
-3504,Roberto Baggio
-3505,Michel Platini
-3506,Javier Zanetti
-3507,Jürgen Klinsmann
-3508,Gianluigi Buffon
-3509,Kaká 
-3510,Gianluigi Buffon
-3511,Jürgen Klinsmann
-3512,Gary Lineker
-3513,Lionel Messi
-3514,Roberto Baggio
-3515,Franz Beckenbauer
-3516,Edgar Davids
-3517,Hristo Stoichkov
-3518,Edgar Davids
-3519,Roberto Baggio
-3520,Cristiano Ronaldo
-3521,Ronaldo Nazario
-3522,Roberto Baggio
-3523,Paolo Maldini
-3524,Edgar Davids
-3525,Gabriel Batistuta
-3526,Marco van
-3527,Javier Zanetti
-3528,Javier Zanetti
-3529,Lionel Messi
-3530,Michel Platini
-3531,Zinedine Zidane
-3532,Ronaldinho Gaúcho
-3533,George Weah
-3534,Michel Platini
-3535,Paolo Maldini
-3536,Karl-Heinz Rummenigge
-3537,Edgar Davids
-3538,Michel Platini
-3539,Roberto Carlos
-3540,Jürgen Klinsmann
-3541,Bobby Charlton
-3542,Kaká 
-3543,Roberto Carlos
-3544,Jürgen Klinsmann
-3545,Gianluigi Buffon
-3546,Luís Figo
-3547,Ronaldinho Gaúcho
-3548,Peter Schmeichel
-3549,Gianluigi Buffon
-3550,Ronaldinho Gaúcho
-3551,Kaká 
-3552,Pelé 
-3553,Gabriel Batistuta
-3554,Diego Maradona
-3555,Pelé 
-3556,Karl-Heinz Rummenigge
-3557,George Weah
-3558,Bobby Charlton
-3559,Michel Platini
-3560,Hristo Stoichkov
-3561,Gianluigi Buffon
-3562,Ronaldinho Gaúcho
-3563,Ronaldinho Gaúcho
-3564,Bobby Charlton
-3565,Ronaldinho Gaúcho
-3566,Diego Maradona
-3567,Zinedine Zidane
-3568,Hristo Stoichkov
-3569,Edgar Davids
-3570,Gabriel Batistuta
-3571,Hristo Stoichkov
-3572,Ronaldinho Gaúcho
-3573,Javier Zanetti
-3574,Gary Lineker
-3575,Cristiano Ronaldo
-3576,Javier Zanetti
-3577,Bobby Charlton
-3578,Diego Maradona
-3579,Diego Maradona
-3580,Pelé 
-3581,Gary Lineker
-3582,Michel Platini
-3583,Franz Beckenbauer
-3584,Marco van
-3585,George Weah
-3586,Bobby Charlton
-3587,Hristo Stoichkov
-3588,Peter Schmeichel
-3589,Paolo Maldini
-3590,Roberto Baggio
-3591,Lionel Messi
-3592,Zinedine Zidane
-3593,Hristo Stoichkov
-3594,Ronaldo Nazario
-3595,Paolo Maldini
-3596,Bobby Charlton
-3597,Roberto Carlos
-3598,Javier Zanetti
-3599,Gianluigi Buffon
-3600,Dennis Bergkamp
-3601,Roberto Baggio
-3602,Alan Shearer
-3603,Roberto Baggio
-3604,Marco van
-3605,Lionel Messi
-3606,Ronaldo Nazario
-3607,Franz Beckenbauer
-3608,Dennis Bergkamp
-3609,Peter Schmeichel
-3610,Kaká 
-3611,George Weah
-3612,Roberto Baggio
-3613,Edgar Davids
-3614,Edgar Davids
-3615,Karl-Heinz Rummenigge
-3616,Gabriel Batistuta
-3617,Peter Schmeichel
-3618,Karl-Heinz Rummenigge
-3619,Paolo Maldini
-3620,Roberto Baggio
-3621,Hristo Stoichkov
-3622,Cristiano Ronaldo
-3623,Michel Platini
-3624,Edgar Davids
-3625,Paolo Maldini
-3626,Hristo Stoichkov
-3627,Karl-Heinz Rummenigge
-3628,Cristiano Ronaldo
-3629,Gabriel Batistuta
-3630,Ronaldinho Gaúcho
-3631,Gabriel Batistuta
-3632,Hristo Stoichkov
-3633,Roberto Baggio
-3634,Kaká 
-3635,Diego Maradona
-3636,Paolo Maldini
-3637,Edgar Davids
-3638,Gary Lineker
-3639,Zinedine Zidane
-3640,Paolo Maldini
-3641,Javier Zanetti
-3642,Karl-Heinz Rummenigge
-3643,Marco van
-3644,Peter Schmeichel
-3645,Zinedine Zidane
-3646,Javier Zanetti
-3647,Hristo Stoichkov
-3648,Pelé 
-3649,Paolo Maldini
-3650,Gabriel Batistuta
-3651,Kaká 
-3652,Paolo Maldini
-3653,Cristiano Ronaldo
-3654,Gary Lineker
-3655,Paolo Maldini
-3656,Gianluigi Buffon
-3657,Dennis Bergkamp
-3658,Lionel Messi
-3659,Franz Beckenbauer
-3660,Peter Schmeichel
-3661,Marco van
-3662,Marco van
-3663,Hristo Stoichkov
-3664,Kaká 
-3665,Michel Platini
-3666,Zinedine Zidane
-3667,Gianluigi Buffon
-3668,Pelé 
-3669,Kaká 
-3670,Edgar Davids
-3671,Ronaldinho Gaúcho
-3672,Roberto Carlos
-3673,Alan Shearer
-3674,Peter Schmeichel
-3675,Diego Maradona
-3676,Paolo Maldini
-3677,Ronaldinho Gaúcho
-3678,Zinedine Zidane
-3679,Luís Figo
-3680,Zinedine Zidane
-3681,Diego Maradona
-3682,Diego Maradona
-3683,Gabriel Batistuta
-3684,Gary Lineker
-3685,Pelé 
-3686,Gabriel Batistuta
-3687,Bobby Charlton
-3688,Bobby Charlton
-3689,Edgar Davids
-3690,Cristiano Ronaldo
-3691,Bobby Charlton
-3692,Kaká 
-3693,Lionel Messi
-3694,Ronaldo Nazario
-3695,Gabriel Batistuta
-3696,Roberto Carlos
-3697,Gary Lineker
-3698,Roberto Baggio
-3699,Dennis Bergkamp
-3700,Gianluigi Buffon
-3701,Michel Platini
-3702,Paolo Maldini
-3703,Hristo Stoichkov
-3704,Zinedine Zidane
-3705,Marco van
-3706,Gary Lineker
-3707,Jürgen Klinsmann
-3708,George Weah
-3709,Ronaldinho Gaúcho
-3710,Diego Maradona
-3711,Alan Shearer
-3712,Bobby Charlton
-3713,Ronaldinho Gaúcho
-3714,Marco van
-3715,Ronaldo Nazario
-3716,Kaká 
-3717,Pelé 
-3718,Michel Platini
-3719,Alan Shearer
-3720,Zinedine Zidane
-3721,Karl-Heinz Rummenigge
-3722,Roberto Baggio
-3723,Bobby Charlton
-3724,Alan Shearer
-3725,Ronaldinho Gaúcho
-3726,Diego Maradona
-3727,Hristo Stoichkov
-3728,Roberto Baggio
-3729,George Weah
-3730,Zinedine Zidane
-3731,Edgar Davids
-3732,Pelé 
-3733,Karl-Heinz Rummenigge
-3734,Jürgen Klinsmann
-3735,Karl-Heinz Rummenigge
-3736,Luís Figo
-3737,Edgar Davids
-3738,Zinedine Zidane
-3739,Ronaldinho Gaúcho
-3740,Bobby Charlton
-3741,Peter Schmeichel
-3742,Diego Maradona
-3743,Javier Zanetti
-3744,Peter Schmeichel
-3745,Alan Shearer
-3746,Franz Beckenbauer
-3747,Dennis Bergkamp
-3748,Gianluigi Buffon
-3749,Gary Lineker
-3750,Cristiano Ronaldo
-3751,Karl-Heinz Rummenigge
-3752,Luís Figo
-3753,Paolo Maldini
-3754,Hristo Stoichkov
-3755,George Weah
-3756,Hristo Stoichkov
-3757,Karl-Heinz Rummenigge
-3758,Michel Platini
-3759,Michel Platini
-3760,Gary Lineker
-3761,Ronaldinho Gaúcho
-3762,Marco van
-3763,Hristo Stoichkov
-3764,Diego Maradona
-3765,Ronaldo Nazario
-3766,Bobby Charlton
-3767,Bobby Charlton
-3768,Gabriel Batistuta
-3769,Zinedine Zidane
-3770,Pelé 
-3771,Lionel Messi
-3772,Jürgen Klinsmann
-3773,Peter Schmeichel
-3774,Paolo Maldini
-3775,Diego Maradona
-3776,Gary Lineker
-3777,Jürgen Klinsmann
-3778,Alan Shearer
-3779,Franz Beckenbauer
-3780,Pelé 
-3781,Dennis Bergkamp
-3782,Ronaldo Nazario
-3783,Dennis Bergkamp
-3784,Gary Lineker
-3785,Ronaldo Nazario
-3786,Javier Zanetti
-3787,Ronaldo Nazario
-3788,Hristo Stoichkov
-3789,Roberto Carlos
-3790,Jürgen Klinsmann
-3791,Bobby Charlton
-3792,Ronaldinho Gaúcho
-3793,Karl-Heinz Rummenigge
-3794,Paolo Maldini
-3795,Diego Maradona
-3796,Diego Maradona
-3797,Edgar Davids
-3798,Ronaldo Nazario
-3799,Ronaldo Nazario
-3800,George Weah
-3801,Michel Platini
-3802,Ronaldo Nazario
-3803,Paolo Maldini
-3804,Pelé 
-3805,Kaká 
-3806,Gabriel Batistuta
-3807,Jürgen Klinsmann
-3808,Edgar Davids
-3809,Peter Schmeichel
-3810,Karl-Heinz Rummenigge
-3811,Hristo Stoichkov
-3812,Kaká 
-3813,Hristo Stoichkov
-3814,Ronaldinho Gaúcho
-3815,Gianluigi Buffon
-3816,Peter Schmeichel
-3817,Hristo Stoichkov
-3818,Jürgen Klinsmann
-3819,Roberto Carlos
-3820,Marco van
-3821,Gabriel Batistuta
-3822,Ronaldinho Gaúcho
-3823,Kaká 
-3824,Ronaldo Nazario
-3825,Karl-Heinz Rummenigge
-3826,Roberto Carlos
-3827,Karl-Heinz Rummenigge
-3828,Ronaldinho Gaúcho
-3829,Edgar Davids
-3830,Zinedine Zidane
-3831,Peter Schmeichel
-3832,Alan Shearer
-3833,Hristo Stoichkov
-3834,Diego Maradona
-3835,Zinedine Zidane
-3836,Luís Figo
-3837,Ronaldinho Gaúcho
-3838,Luís Figo
-3839,Diego Maradona
-3840,Bobby Charlton
-3841,Peter Schmeichel
-3842,Gary Lineker
-3843,Hristo Stoichkov
-3844,Cristiano Ronaldo
-3845,Ronaldinho Gaúcho
-3846,Bobby Charlton
-3847,George Weah
-3848,Hristo Stoichkov
-3849,Zinedine Zidane
-3850,Ronaldinho Gaúcho
-3851,Franz Beckenbauer
-3852,Pelé 
-3853,Pelé 
-3854,Diego Maradona
-3855,Karl-Heinz Rummenigge
-3856,Roberto Carlos
-3857,Franz Beckenbauer
-3858,Gary Lineker
-3859,Gianluigi Buffon
-3860,Gary Lineker
-3861,Luís Figo
-3862,Michel Platini
-3863,George Weah
-3864,Paolo Maldini
-3865,Alan Shearer
-3866,Lionel Messi
-3867,Cristiano Ronaldo
-3868,Zinedine Zidane
-3869,Gary Lineker
-3870,Dennis Bergkamp
-3871,Gabriel Batistuta
-3872,Edgar Davids
-3873,Roberto Carlos
-3874,George Weah
-3875,Kaká 
-3876,Michel Platini
-3877,Gary Lineker
-3878,Karl-Heinz Rummenigge
-3879,Roberto Carlos
-3880,Marco van
-3881,Gianluigi Buffon
-3882,Roberto Carlos
-3883,Franz Beckenbauer
-3884,Kaká 
-3885,Gianluigi Buffon
-3886,Bobby Charlton
-3887,Michel Platini
-3888,Marco van
-3889,Zinedine Zidane
-3890,Javier Zanetti
-3891,Roberto Carlos
-3892,Alan Shearer
-3893,Bobby Charlton
-3894,Paolo Maldini
-3895,Jürgen Klinsmann
-3896,Gary Lineker
-3897,Peter Schmeichel
-3898,Lionel Messi
-3899,Roberto Baggio
-3900,Gianluigi Buffon
-3901,Bobby Charlton
-3902,Gianluigi Buffon
-3903,Gabriel Batistuta
-3904,Luís Figo
-3905,Javier Zanetti
-3906,Ronaldinho Gaúcho
-3907,Alan Shearer
-3908,Paolo Maldini
-3909,Dennis Bergkamp
-3910,Luís Figo
-3911,Bobby Charlton
-3912,Ronaldo Nazario
-3913,Peter Schmeichel
-3914,Hristo Stoichkov
-3915,Marco van
-3916,Roberto Carlos
-3917,Kaká 
-3918,Alan Shearer
-3919,Karl-Heinz Rummenigge
-3920,Bobby Charlton
-3921,Zinedine Zidane
-3922,Luís Figo
-3923,Roberto Carlos
-3924,Marco van
-3925,Alan Shearer
-3926,Hristo Stoichkov
-3927,Lionel Messi
-3928,Gabriel Batistuta
-3929,Gianluigi Buffon
-3930,Michel Platini
-3931,Javier Zanetti
-3932,Michel Platini
-3933,Lionel Messi
-3934,Marco van
-3935,Dennis Bergkamp
-3936,Michel Platini
-3937,Alan Shearer
-3938,Alan Shearer
-3939,Cristiano Ronaldo
-3940,Paolo Maldini
-3941,Marco van
-3942,Ronaldo Nazario
-3943,Gabriel Batistuta
-3944,Peter Schmeichel
-3945,Paolo Maldini
-3946,Edgar Davids
-3947,Jürgen Klinsmann
-3948,Lionel Messi
-3949,Luís Figo
-3950,Zinedine Zidane
-3951,Edgar Davids
-3952,Javier Zanetti
-3953,Michel Platini
-3954,Cristiano Ronaldo
-3955,Paolo Maldini
-3956,Franz Beckenbauer
-3957,Lionel Messi
-3958,Franz Beckenbauer
-3959,Alan Shearer
-3960,Pelé 
-3961,Lionel Messi
-3962,Karl-Heinz Rummenigge
-3963,Gianluigi Buffon
-3964,Javier Zanetti
-3965,Bobby Charlton
-3966,Luís Figo
-3967,Karl-Heinz Rummenigge
-3968,Franz Beckenbauer
-3969,Dennis Bergkamp
-3970,Paolo Maldini
-3971,Ronaldinho Gaúcho
-3972,Cristiano Ronaldo
-3973,Marco van
-3974,Edgar Davids
-3975,Cristiano Ronaldo
-3976,Javier Zanetti
-3977,Roberto Carlos
-3978,Marco van
-3979,Peter Schmeichel
-3980,Roberto Carlos
-3981,Roberto Carlos
-3982,Javier Zanetti
-3983,Michel Platini
-3984,Roberto Carlos
-3985,Lionel Messi
-3986,Roberto Carlos
-3987,Ronaldo Nazario
-3988,Pelé 
-3989,Alan Shearer
-3990,Hristo Stoichkov
-3991,Pelé 
-3992,George Weah
-3993,Pelé 
-3994,Lionel Messi
-3995,Gary Lineker
-3996,Gianluigi Buffon
-3997,Edgar Davids
-3998,Gabriel Batistuta
-3999,Cristiano Ronaldo
-4000,Edgar Davids
-4001,Alan Shearer
-4002,Ronaldo Nazario
-4003,Cristiano Ronaldo
-4004,Roberto Carlos
-4005,Peter Schmeichel
-4006,Zinedine Zidane
-4007,Roberto Baggio
-4008,Ronaldo Nazario
-4009,Javier Zanetti
-4010,Jürgen Klinsmann
-4011,Jürgen Klinsmann
-4012,Gianluigi Buffon
-4013,Gary Lineker
-4014,Roberto Carlos
-4015,Michel Platini
-4016,Roberto Baggio
-4017,Alan Shearer
-4018,Peter Schmeichel
-4019,Roberto Carlos
-4020,Franz Beckenbauer
-4021,Hristo Stoichkov
-4022,Edgar Davids
-4023,Karl-Heinz Rummenigge
-4024,Karl-Heinz Rummenigge
-4025,Jürgen Klinsmann
-4026,Michel Platini
-4027,Karl-Heinz Rummenigge
-4028,Kaká 
-4029,Gabriel Batistuta
-4030,Gary Lineker
-4031,Gabriel Batistuta
-4032,Pelé 
-4033,Michel Platini
-4034,Cristiano Ronaldo
-4035,Gary Lineker
-4036,Roberto Carlos
-4037,Franz Beckenbauer
-4038,Edgar Davids
-4039,Roberto Carlos
-4040,Jürgen Klinsmann
-4041,Alan Shearer
-4042,Diego Maradona
-4043,Kaká 
-4044,Paolo Maldini
-4045,Peter Schmeichel
-4046,Gary Lineker
-4047,Kaká 
-4048,Gianluigi Buffon
-4049,Gary Lineker
-4050,Javier Zanetti
-4051,Bobby Charlton
-4052,Roberto Baggio
-4053,Dennis Bergkamp
-4054,Michel Platini
-4055,Kaká 
-4056,Gianluigi Buffon
-4057,Luís Figo
-4058,Peter Schmeichel
-4059,Karl-Heinz Rummenigge
-4060,Hristo Stoichkov
-4061,Gary Lineker
-4062,Luís Figo
-4063,Jürgen Klinsmann
-4064,Kaká 
-4065,Diego Maradona
-4066,Edgar Davids
-4067,Dennis Bergkamp
-4068,Franz Beckenbauer
-4069,Lionel Messi
-4070,Bobby Charlton
-4071,Dennis Bergkamp
-4072,Jürgen Klinsmann
-4073,Diego Maradona
-4074,Peter Schmeichel
-4075,Franz Beckenbauer
-4076,Karl-Heinz Rummenigge
-4077,Paolo Maldini
-4078,Marco van
-4079,Luís Figo
-4080,Gary Lineker
-4081,Alan Shearer
-4082,Michel Platini
-4083,Diego Maradona
-4084,Gary Lineker
-4085,Pelé 
-4086,Jürgen Klinsmann
-4087,Jürgen Klinsmann
-4088,Zinedine Zidane
-4089,Luís Figo
-4090,Edgar Davids
-4091,Gabriel Batistuta
-4092,Lionel Messi
-4093,Gabriel Batistuta
-4094,Karl-Heinz Rummenigge
-4095,Dennis Bergkamp
-4096,Michel Platini
-4097,Marco van
-4098,Javier Zanetti
-4099,George Weah
-4100,Ronaldinho Gaúcho
-4101,Diego Maradona
-4102,Peter Schmeichel
-4103,Marco van
-4104,Edgar Davids
-4105,Ronaldinho Gaúcho
-4106,Diego Maradona
-4107,Diego Maradona
-4108,Pelé 
-4109,Javier Zanetti
-4110,George Weah
-4111,Edgar Davids
-4112,Dennis Bergkamp
-4113,Gabriel Batistuta
-4114,Cristiano Ronaldo
-4115,Gianluigi Buffon
-4116,Ronaldo Nazario
-4117,Kaká 
-4118,Javier Zanetti
-4119,Franz Beckenbauer
-4120,George Weah
-4121,Dennis Bergkamp
-4122,Alan Shearer
-4123,Dennis Bergkamp
-4124,Luís Figo
-4125,Roberto Baggio
-4126,Roberto Baggio
-4127,Karl-Heinz Rummenigge
-4128,Cristiano Ronaldo
-4129,Paolo Maldini
-4130,George Weah
-4131,Marco van
-4132,Ronaldinho Gaúcho
-4133,Edgar Davids
-4134,Javier Zanetti
-4135,Javier Zanetti
-4136,Roberto Carlos
-4137,George Weah
-4138,Bobby Charlton
-4139,Edgar Davids
-4140,Gary Lineker
-4141,Gabriel Batistuta
-4142,Ronaldinho Gaúcho
-4143,Dennis Bergkamp
-4144,Jürgen Klinsmann
-4145,Hristo Stoichkov
-4146,Kaká 
-4147,Hristo Stoichkov
-4148,Diego Maradona
-4149,Lionel Messi
-4150,Zinedine Zidane
-4151,Paolo Maldini
-4152,Cristiano Ronaldo
-4153,Hristo Stoichkov
-4154,Ronaldo Nazario
-4155,Paolo Maldini
-4156,Paolo Maldini
-4157,Pelé 
-4158,Javier Zanetti
-4159,Paolo Maldini
-4160,Ronaldo Nazario
-4161,Franz Beckenbauer
-4162,Peter Schmeichel
-4163,George Weah
-4164,Alan Shearer
-4165,Luís Figo
-4166,Ronaldinho Gaúcho
-4167,Lionel Messi
-4168,Ronaldo Nazario
-4169,Bobby Charlton
-4170,Luís Figo
-4171,Diego Maradona
-4172,Ronaldinho Gaúcho
-4173,Marco van
-4174,Ronaldo Nazario
-4175,Jürgen Klinsmann
-4176,Kaká 
-4177,George Weah
-4178,Franz Beckenbauer
-4179,Dennis Bergkamp
-4180,Ronaldo Nazario
-4181,Pelé 
-4182,Ronaldo Nazario
-4183,Jürgen Klinsmann
-4184,Karl-Heinz Rummenigge
-4185,Roberto Baggio
-4186,Edgar Davids
-4187,Franz Beckenbauer
-4188,Hristo Stoichkov
-4189,Gabriel Batistuta
-4190,Peter Schmeichel
-4191,George Weah
-4192,Paolo Maldini
-4193,Luís Figo
-4194,Roberto Carlos
-4195,Bobby Charlton
-4196,Karl-Heinz Rummenigge
-4197,Peter Schmeichel
-4198,Gabriel Batistuta
-4199,Karl-Heinz Rummenigge
-4200,Luís Figo
-4201,Lionel Messi
-4202,Edgar Davids
-4203,Luís Figo
-4204,Diego Maradona
-4205,Marco van
-4206,Javier Zanetti
-4207,Lionel Messi
-4208,Alan Shearer
-4209,Cristiano Ronaldo
-4210,Pelé 
-4211,Peter Schmeichel
-4212,Roberto Baggio
-4213,Hristo Stoichkov
-4214,Lionel Messi
-4215,Karl-Heinz Rummenigge
-4216,Hristo Stoichkov
-4217,Bobby Charlton
-4218,Jürgen Klinsmann
-4219,Franz Beckenbauer
-4220,Dennis Bergkamp
-4221,Franz Beckenbauer
-4222,Javier Zanetti
-4223,Roberto Baggio
-4224,Jürgen Klinsmann
-4225,Peter Schmeichel
-4226,Javier Zanetti
-4227,Paolo Maldini
-4228,Javier Zanetti
-4229,Gianluigi Buffon
-4230,Ronaldinho Gaúcho
-4231,Peter Schmeichel
-4232,Ronaldo Nazario
-4233,Peter Schmeichel
-4234,Kaká 
-4235,Javier Zanetti
-4236,Alan Shearer
-4237,Cristiano Ronaldo
-4238,Ronaldo Nazario
-4239,Pelé 
-4240,Marco van
-4241,Zinedine Zidane
-4242,Gary Lineker
-4243,Michel Platini
-4244,Paolo Maldini
-4245,Hristo Stoichkov
-4246,Franz Beckenbauer
-4247,Cristiano Ronaldo
-4248,Dennis Bergkamp
-4249,Alan Shearer
-4250,Karl-Heinz Rummenigge
-4251,George Weah
-4252,Kaká 
-4253,Gabriel Batistuta
-4254,Hristo Stoichkov
-4255,George Weah
-4256,Javier Zanetti
-4257,Marco van
-4258,Franz Beckenbauer
-4259,Dennis Bergkamp
-4260,Marco van
-4261,Ronaldinho Gaúcho
-4262,Dennis Bergkamp
-4263,Marco van
-4264,Marco van
-4265,Roberto Baggio
-4266,Javier Zanetti
-4267,Jürgen Klinsmann
-4268,Roberto Baggio
-4269,Franz Beckenbauer
-4270,Marco van
-4271,Javier Zanetti
-4272,Ronaldinho Gaúcho
-4273,Bobby Charlton
-4274,Paolo Maldini
-4275,Roberto Baggio
-4276,Javier Zanetti
-4277,Ronaldinho Gaúcho
-4278,Roberto Baggio
-4279,Alan Shearer
-4280,Marco van
-4281,Dennis Bergkamp
-4282,Gabriel Batistuta
-4283,Zinedine Zidane
-4284,Luís Figo
-4285,Michel Platini
-4286,Cristiano Ronaldo
-4287,Luís Figo
-4288,Ronaldinho Gaúcho
-4289,Roberto Carlos
-4290,Javier Zanetti
-4291,Bobby Charlton
-4292,Luís Figo
-4293,Franz Beckenbauer
-4294,Bobby Charlton
-4295,Edgar Davids
-4296,Ronaldo Nazario
-4297,Diego Maradona
-4298,Roberto Baggio
-4299,Gary Lineker
-4300,Marco van
-4301,Luís Figo
-4302,Luís Figo
-4303,Alan Shearer
-4304,Franz Beckenbauer
-4305,Ronaldinho Gaúcho
-4306,Gary Lineker
-4307,Kaká 
-4308,Cristiano Ronaldo
-4309,Pelé 
-4310,Jürgen Klinsmann
-4311,Edgar Davids
-4312,Kaká 
-4313,Michel Platini
-4314,Diego Maradona
-4315,George Weah
-4316,Peter Schmeichel
-4317,Dennis Bergkamp
-4318,Luís Figo
-4319,Gabriel Batistuta
-4320,Dennis Bergkamp
-4321,Ronaldinho Gaúcho
-4322,Jürgen Klinsmann
-4323,Pelé 
-4324,Jürgen Klinsmann
-4325,Bobby Charlton
-4326,Gary Lineker
-4327,Roberto Carlos
-4328,Bobby Charlton
-4329,Ronaldo Nazario
-4330,Bobby Charlton
-4331,Cristiano Ronaldo
-4332,Javier Zanetti
-4333,Gabriel Batistuta
-4334,Diego Maradona
-4335,Franz Beckenbauer
-4336,Javier Zanetti
-4337,George Weah
-4338,Gianluigi Buffon
-4339,Ronaldinho Gaúcho
-4340,Ronaldinho Gaúcho
-4341,Roberto Carlos
-4342,Paolo Maldini
-4343,Bobby Charlton
-4344,Kaká 
-4345,George Weah
-4346,Cristiano Ronaldo
-4347,Roberto Baggio
-4348,Peter Schmeichel
-4349,Javier Zanetti
-4350,Jürgen Klinsmann
-4351,Roberto Baggio
-4352,Bobby Charlton
-4353,Luís Figo
-4354,Gary Lineker
-4355,Gianluigi Buffon
-4356,Bobby Charlton
-4357,Franz Beckenbauer
-4358,Gianluigi Buffon
-4359,Hristo Stoichkov
-4360,Roberto Baggio
-4361,Paolo Maldini
-4362,Karl-Heinz Rummenigge
-4363,Luís Figo
-4364,Cristiano Ronaldo
-4365,Diego Maradona
-4366,Kaká 
-4367,Dennis Bergkamp
-4368,Zinedine Zidane
-4369,Lionel Messi
-4370,Gianluigi Buffon
-4371,Kaká 
-4372,Bobby Charlton
-4373,Bobby Charlton
-4374,Diego Maradona
-4375,Peter Schmeichel
-4376,Zinedine Zidane
-4377,Michel Platini
-4378,Hristo Stoichkov
-4379,Ronaldo Nazario
-4380,Gabriel Batistuta
-4381,Michel Platini
-4382,Luís Figo
-4383,Roberto Carlos
-4384,Edgar Davids
-4385,Jürgen Klinsmann
-4386,Kaká 
-4387,Peter Schmeichel
-4388,Roberto Baggio
-4389,Paolo Maldini
-4390,Dennis Bergkamp
-4391,Lionel Messi
-4392,Jürgen Klinsmann
-4393,Alan Shearer
-4394,Lionel Messi
-4395,Gabriel Batistuta
-4396,Pelé 
-4397,Franz Beckenbauer
-4398,Alan Shearer
-4399,Franz Beckenbauer
-4400,Pelé 
-4401,Pelé 
-4402,Diego Maradona
-4403,Bobby Charlton
-4404,Roberto Carlos
-4405,Gianluigi Buffon
-4406,Michel Platini
-4407,Ronaldinho Gaúcho
-4408,Cristiano Ronaldo
-4409,Bobby Charlton
-4410,Roberto Carlos
-4411,Gianluigi Buffon
-4412,Pelé 
-4413,Bobby Charlton
-4414,Dennis Bergkamp
-4415,Zinedine Zidane
-4416,Zinedine Zidane
-4417,Ronaldinho Gaúcho
-4418,Gary Lineker
-4419,Edgar Davids
-4420,Lionel Messi
-4421,Franz Beckenbauer
-4422,Cristiano Ronaldo
-4423,Roberto Carlos
-4424,Diego Maradona
-4425,Peter Schmeichel
-4426,Lionel Messi
-4427,Paolo Maldini
-4428,Gabriel Batistuta
-4429,Pelé 
-4430,Ronaldo Nazario
-4431,Roberto Baggio
-4432,Gary Lineker
-4433,Ronaldo Nazario
-4434,Michel Platini
-4435,Lionel Messi
-4436,Karl-Heinz Rummenigge
-4437,Gianluigi Buffon
-4438,George Weah
-4439,Michel Platini
-4440,Karl-Heinz Rummenigge
-4441,Roberto Carlos
-4442,Gary Lineker
-4443,Dennis Bergkamp
-4444,Lionel Messi
-4445,Zinedine Zidane
-4446,Bobby Charlton
-4447,Bobby Charlton
-4448,Hristo Stoichkov
-4449,Gabriel Batistuta
-4450,Dennis Bergkamp
-4451,Franz Beckenbauer
-4452,Hristo Stoichkov
-4453,Bobby Charlton
-4454,Diego Maradona
-4455,Michel Platini
-4456,Roberto Baggio
-4457,Dennis Bergkamp
-4458,Michel Platini
-4459,Hristo Stoichkov
-4460,Ronaldinho Gaúcho
-4461,Diego Maradona
-4462,Karl-Heinz Rummenigge
-4463,Edgar Davids
-4464,Dennis Bergkamp
-4465,George Weah
-4466,Jürgen Klinsmann
-4467,George Weah
-4468,Cristiano Ronaldo
-4469,George Weah
-4470,Zinedine Zidane
-4471,Roberto Carlos
-4472,Jürgen Klinsmann
-4473,Paolo Maldini
-4474,Luís Figo
-4475,Paolo Maldini
-4476,Pelé 
-4477,Dennis Bergkamp
-4478,Ronaldo Nazario
-4479,Zinedine Zidane
-4480,Marco van
-4481,Peter Schmeichel
-4482,Gianluigi Buffon
-4483,Javier Zanetti
-4484,Paolo Maldini
-4485,Zinedine Zidane
-4486,Javier Zanetti
-4487,Marco van
-4488,Michel Platini
-4489,Ronaldo Nazario
-4490,Kaká 
-4491,Lionel Messi
-4492,Pelé 
-4493,Ronaldo Nazario
-4494,Jürgen Klinsmann
-4495,Michel Platini
-4496,Gabriel Batistuta
-4497,Ronaldinho Gaúcho
-4498,Kaká 
-4499,Paolo Maldini
-4500,Diego Maradona
-4501,Dennis Bergkamp
-4502,Gabriel Batistuta
-4503,Dennis Bergkamp
-4504,Luís Figo
-4505,Marco van
-4506,Gabriel Batistuta
-4507,Jürgen Klinsmann
-4508,Edgar Davids
-4509,Bobby Charlton
-4510,Bobby Charlton
-4511,Diego Maradona
-4512,George Weah
-4513,Ronaldo Nazario
-4514,Edgar Davids
-4515,Paolo Maldini
-4516,Alan Shearer
-4517,Gary Lineker
-4518,Gabriel Batistuta
-4519,Luís Figo
-4520,Ronaldo Nazario
-4521,Jürgen Klinsmann
-4522,Paolo Maldini
-4523,Cristiano Ronaldo
-4524,Karl-Heinz Rummenigge
-4525,Gary Lineker
-4526,Cristiano Ronaldo
-4527,Javier Zanetti
-4528,Hristo Stoichkov
-4529,Gary Lineker
-4530,Paolo Maldini
-4531,Paolo Maldini
-4532,Alan Shearer
-4533,Gabriel Batistuta
-4534,Javier Zanetti
-4535,Michel Platini
-4536,Edgar Davids
-4537,George Weah
-4538,Ronaldo Nazario
-4539,Roberto Carlos
-4540,Roberto Carlos
-4541,Dennis Bergkamp
-4542,George Weah
-4543,Alan Shearer
-4544,Alan Shearer
-4545,Ronaldinho Gaúcho
-4546,Peter Schmeichel
-4547,Cristiano Ronaldo
-4548,Ronaldo Nazario
-4549,Jürgen Klinsmann
-4550,Dennis Bergkamp
-4551,Gianluigi Buffon
-4552,Ronaldinho Gaúcho
-4553,Edgar Davids
-4554,Michel Platini
-4555,Kaká 
-4556,Hristo Stoichkov
-4557,Pelé 
-4558,George Weah
-4559,Javier Zanetti
-4560,Marco van
-4561,Michel Platini
-4562,Javier Zanetti
-4563,Ronaldo Nazario
-4564,Cristiano Ronaldo
-4565,Zinedine Zidane
-4566,Marco van
-4567,Gabriel Batistuta
-4568,Luís Figo
-4569,Paolo Maldini
-4570,Jürgen Klinsmann
-4571,Kaká 
-4572,Roberto Baggio
-4573,Luís Figo
-4574,Roberto Baggio
-4575,Kaká 
-4576,Javier Zanetti
-4577,Michel Platini
-4578,Diego Maradona
-4579,Gianluigi Buffon
-4580,George Weah
-4581,Alan Shearer
-4582,Lionel Messi
-4583,George Weah
-4584,Luís Figo
-4585,Jürgen Klinsmann
-4586,Pelé 
-4587,Luís Figo
-4588,Edgar Davids
-4589,Roberto Carlos
-4590,Zinedine Zidane
-4591,Jürgen Klinsmann
-4592,Paolo Maldini
-4593,Peter Schmeichel
-4594,Diego Maradona
-4595,Zinedine Zidane
-4596,Hristo Stoichkov
-4597,Kaká 
-4598,Ronaldinho Gaúcho
-4599,Hristo Stoichkov
-4600,Edgar Davids
-4601,Zinedine Zidane
-4602,Roberto Baggio
-4603,Paolo Maldini
-4604,Kaká 
-4605,Gabriel Batistuta
-4606,Gianluigi Buffon
-4607,Gary Lineker
-4608,Cristiano Ronaldo
-4609,Ronaldinho Gaúcho
-4610,Marco van
-4611,Ronaldinho Gaúcho
-4612,Edgar Davids
-4613,Lionel Messi
-4614,Jürgen Klinsmann
-4615,Gianluigi Buffon
-4616,Roberto Carlos
-4617,Karl-Heinz Rummenigge
-4618,George Weah
-4619,Ronaldo Nazario
-4620,Peter Schmeichel
-4621,Lionel Messi
-4622,Michel Platini
-4623,Roberto Carlos
-4624,Javier Zanetti
-4625,Gary Lineker
-4626,Gabriel Batistuta
-4627,Jürgen Klinsmann
-4628,Alan Shearer
-4629,Roberto Baggio
-4630,Franz Beckenbauer
-4631,Peter Schmeichel
-4632,Hristo Stoichkov
-4633,Javier Zanetti
-4634,Cristiano Ronaldo
-4635,Roberto Baggio
-4636,Bobby Charlton
-4637,Diego Maradona
-4638,Zinedine Zidane
-4639,Roberto Carlos
-4640,Zinedine Zidane
-4641,Cristiano Ronaldo
-4642,Jürgen Klinsmann
-4643,Luís Figo
-4644,Gary Lineker
-4645,Roberto Baggio
-4646,Pelé 
-4647,Peter Schmeichel
-4648,Edgar Davids
-4649,Gianluigi Buffon
-4650,Gianluigi Buffon
-4651,Gianluigi Buffon
-4652,Kaká 
-4653,Roberto Carlos
-4654,Dennis Bergkamp
-4655,Kaká 
-4656,Gianluigi Buffon
-4657,Hristo Stoichkov
-4658,Gianluigi Buffon
-4659,Pelé 
-4660,Karl-Heinz Rummenigge
-4661,Bobby Charlton
-4662,Gianluigi Buffon
-4663,Franz Beckenbauer
-4664,Jürgen Klinsmann
-4665,Hristo Stoichkov
-4666,Ronaldo Nazario
-4667,Edgar Davids
-4668,Roberto Baggio
-4669,Roberto Carlos
-4670,Javier Zanetti
-4671,Karl-Heinz Rummenigge
-4672,Luís Figo
-4673,Luís Figo
-4674,Kaká 
-4675,Zinedine Zidane
-4676,Franz Beckenbauer
-4677,Ronaldo Nazario
-4678,Franz Beckenbauer
-4679,Gianluigi Buffon
-4680,Franz Beckenbauer
-4681,Gianluigi Buffon
-4682,Diego Maradona
-4683,Pelé 
-4684,Gabriel Batistuta
-4685,Michel Platini
-4686,Zinedine Zidane
-4687,Luís Figo
-4688,Luís Figo
-4689,Javier Zanetti
-4690,Ronaldinho Gaúcho
-4691,Michel Platini
-4692,Jürgen Klinsmann
-4693,Roberto Carlos
-4694,Ronaldo Nazario
-4695,Ronaldo Nazario
-4696,Gianluigi Buffon
-4697,Bobby Charlton
-4698,Pelé 
-4699,Hristo Stoichkov
-4700,Roberto Carlos
-4701,Peter Schmeichel
-4702,Franz Beckenbauer
-4703,Pelé 
-4704,Luís Figo
-4705,Dennis Bergkamp
-4706,Gabriel Batistuta
-4707,Paolo Maldini
-4708,Hristo Stoichkov
-4709,Lionel Messi
-4710,Luís Figo
-4711,Franz Beckenbauer
-4712,Marco van
-4713,Karl-Heinz Rummenigge
-4714,Pelé 
-4715,Paolo Maldini
-4716,Bobby Charlton
-4717,Luís Figo
-4718,Ronaldinho Gaúcho
-4719,Karl-Heinz Rummenigge
-4720,Franz Beckenbauer
-4721,Roberto Baggio
-4722,Ronaldo Nazario
-4723,Lionel Messi
-4724,Javier Zanetti
-4725,Marco van
-4726,Lionel Messi
-4727,Marco van
-4728,Zinedine Zidane
-4729,Michel Platini
-4730,Lionel Messi
-4731,Cristiano Ronaldo
-4732,Diego Maradona
-4733,Karl-Heinz Rummenigge
-4734,Gabriel Batistuta
-4735,Pelé 
-4736,Lionel Messi
-4737,Edgar Davids
-4738,Marco van
-4739,Ronaldo Nazario
-4740,Dennis Bergkamp
-4741,Gianluigi Buffon
-4742,Roberto Baggio
-4743,Zinedine Zidane
-4744,Gary Lineker
-4745,George Weah
-4746,Pelé 
-4747,Karl-Heinz Rummenigge
-4748,Cristiano Ronaldo
-4749,Roberto Baggio
-4750,Zinedine Zidane
-4751,Ronaldo Nazario
-4752,Gary Lineker
-4753,Gary Lineker
-4754,Lionel Messi
-4755,Gianluigi Buffon
-4756,Paolo Maldini
-4757,Luís Figo
-4758,Michel Platini
-4759,Lionel Messi
-4760,Kaká 
-4761,George Weah
-4762,Luís Figo
-4763,Gary Lineker
-4764,Jürgen Klinsmann
-4765,Ronaldo Nazario
-4766,Gianluigi Buffon
-4767,Marco van
-4768,Luís Figo
-4769,Kaká 
-4770,George Weah
-4771,Luís Figo
-4772,Peter Schmeichel
-4773,Roberto Baggio
-4774,Luís Figo
-4775,Pelé 
-4776,Paolo Maldini
-4777,Edgar Davids
-4778,Luís Figo
-4779,Luís Figo
-4780,George Weah
-4781,George Weah
-4782,Kaká 
-4783,Karl-Heinz Rummenigge
-4784,Gabriel Batistuta
-4785,Bobby Charlton
-4786,Lionel Messi
-4787,Cristiano Ronaldo
-4788,Paolo Maldini
-4789,Jürgen Klinsmann
-4790,Ronaldo Nazario
-4791,Lionel Messi
-4792,Ronaldinho Gaúcho
-4793,Franz Beckenbauer
-4794,Ronaldo Nazario
-4795,Gary Lineker
-4796,Roberto Baggio
-4797,Javier Zanetti
-4798,Roberto Baggio
-4799,Gabriel Batistuta
-4800,Ronaldo Nazario
-4801,Edgar Davids
-4802,Roberto Carlos
-4803,George Weah
-4804,Peter Schmeichel
-4805,Hristo Stoichkov
-4806,Luís Figo
-4807,Franz Beckenbauer
-4808,Alan Shearer
-4809,Dennis Bergkamp
-4810,Ronaldinho Gaúcho
-4811,Diego Maradona
-4812,Karl-Heinz Rummenigge
-4813,Roberto Carlos
-4814,George Weah
-4815,Zinedine Zidane
-4816,Bobby Charlton
-4817,Gianluigi Buffon
-4818,Franz Beckenbauer
-4819,Ronaldo Nazario
-4820,Javier Zanetti
-4821,Gabriel Batistuta
-4822,Gary Lineker
-4823,Franz Beckenbauer
-4824,Roberto Baggio
-4825,Javier Zanetti
-4826,Karl-Heinz Rummenigge
-4827,Bobby Charlton
-4828,Roberto Carlos
-4829,Michel Platini
-4830,Gary Lineker
-4831,Edgar Davids
-4832,Roberto Carlos
-4833,Karl-Heinz Rummenigge
-4834,Jürgen Klinsmann
-4835,Alan Shearer
-4836,Michel Platini
-4837,Paolo Maldini
-4838,Dennis Bergkamp
-4839,Franz Beckenbauer
-4840,Diego Maradona
-4841,Bobby Charlton
-4842,Jürgen Klinsmann
-4843,Kaká 
-4844,Luís Figo
-4845,Peter Schmeichel
-4846,Javier Zanetti
-4847,Bobby Charlton
-4848,Alan Shearer
-4849,Roberto Carlos
-4850,Karl-Heinz Rummenigge
-4851,Kaká 
-4852,Ronaldinho Gaúcho
-4853,Hristo Stoichkov
-4854,Cristiano Ronaldo
-4855,George Weah
-4856,Michel Platini
-4857,Luís Figo
-4858,Hristo Stoichkov
-4859,Paolo Maldini
-4860,Edgar Davids
-4861,George Weah
-4862,Paolo Maldini
-4863,Jürgen Klinsmann
-4864,Michel Platini
-4865,Gabriel Batistuta
-4866,Paolo Maldini
-4867,Roberto Baggio
-4868,Jürgen Klinsmann
-4869,Lionel Messi
-4870,Peter Schmeichel
-4871,Kaká 
-4872,Marco van
-4873,Diego Maradona
-4874,Gabriel Batistuta
-4875,Hristo Stoichkov
-4876,Peter Schmeichel
-4877,Ronaldinho Gaúcho
-4878,Pelé 
-4879,Bobby Charlton
-4880,Franz Beckenbauer
-4881,Peter Schmeichel
-4882,Bobby Charlton
-4883,Cristiano Ronaldo
-4884,Hristo Stoichkov
-4885,Karl-Heinz Rummenigge
-4886,Peter Schmeichel
-4887,Michel Platini
-4888,Peter Schmeichel
-4889,Jürgen Klinsmann
-4890,Javier Zanetti
-4891,Gabriel Batistuta
-4892,Kaká 
-4893,Gabriel Batistuta
-4894,Marco van
-4895,Hristo Stoichkov
-4896,Paolo Maldini
-4897,Michel Platini
-4898,Diego Maradona
-4899,Hristo Stoichkov
-4900,Marco van
-4901,Gabriel Batistuta
-4902,Luís Figo
-4903,Gabriel Batistuta
-4904,Bobby Charlton
-4905,Hristo Stoichkov
-4906,Lionel Messi
-4907,Gary Lineker
-4908,Paolo Maldini
-4909,Diego Maradona
-4910,Roberto Baggio
-4911,Edgar Davids
-4912,Javier Zanetti
-4913,Alan Shearer
-4914,Michel Platini
-4915,Michel Platini
-4916,Cristiano Ronaldo
-4917,Michel Platini
-4918,Gabriel Batistuta
-4919,Karl-Heinz Rummenigge
-4920,Marco van
-4921,Cristiano Ronaldo
-4922,Javier Zanetti
-4923,Gianluigi Buffon
-4924,Gabriel Batistuta
-4925,Pelé 
-4926,Jürgen Klinsmann
-4927,Ronaldinho Gaúcho
-4928,Gary Lineker
-4929,Michel Platini
-4930,Diego Maradona
-4931,Hristo Stoichkov
-4932,Lionel Messi
-4933,Paolo Maldini
-4934,Zinedine Zidane
-4935,Bobby Charlton
-4936,George Weah
-4937,Gabriel Batistuta
-4938,Dennis Bergkamp
-4939,Luís Figo
-4940,Ronaldinho Gaúcho
-4941,Diego Maradona
-4942,Ronaldo Nazario
-4943,Gianluigi Buffon
-4944,Kaká 
-4945,Gary Lineker
-4946,George Weah
-4947,Gabriel Batistuta
-4948,George Weah
-4949,Marco van
-4950,Alan Shearer
-4951,Diego Maradona
-4952,Cristiano Ronaldo
-4953,Lionel Messi
-4954,Pelé 
-4955,George Weah
-4956,Edgar Davids
-4957,Karl-Heinz Rummenigge
-4958,Franz Beckenbauer
-4959,Ronaldinho Gaúcho
-4960,Dennis Bergkamp
-4961,Alan Shearer
-4962,Bobby Charlton
-4963,Gabriel Batistuta
-4964,Ronaldinho Gaúcho
-4965,Peter Schmeichel
-4966,Peter Schmeichel
-4967,Alan Shearer
-4968,Diego Maradona
-4969,Pelé 
-4970,Luís Figo
-4971,Dennis Bergkamp
-4972,Ronaldo Nazario
-4973,Bobby Charlton
-4974,Michel Platini
-4975,Javier Zanetti
-4976,Zinedine Zidane
-4977,Alan Shearer
-4978,Kaká 
-4979,Gary Lineker
-4980,Kaká 
-4981,Edgar Davids
-4982,Paolo Maldini
-4983,Diego Maradona
-4984,Alan Shearer
-4985,Ronaldo Nazario
-4986,Bobby Charlton
-4987,Michel Platini
-4988,Bobby Charlton
-4989,Lionel Messi
-4990,Gabriel Batistuta
-4991,Kaká 
-4992,George Weah
-4993,Gianluigi Buffon
-4994,Pelé 
-4995,Luís Figo
-4996,Michel Platini
-4997,Paolo Maldini
-4998,Edgar Davids
-4999,Franz Beckenbauer
-5000,Pelé 
-5001,Jürgen Klinsmann
-5002,Bobby Charlton
-5003,Bobby Charlton
-5004,Jürgen Klinsmann
-5005,George Weah
-5006,Kaká 
-5007,Kaká 
-5008,Edgar Davids
-5009,Edgar Davids
-5010,Javier Zanetti
-5011,Ronaldinho Gaúcho
-5012,Luís Figo
-5013,Diego Maradona
-5014,Bobby Charlton
-5015,Javier Zanetti
-5016,Marco van
-5017,Paolo Maldini
-5018,Ronaldinho Gaúcho
-5019,Lionel Messi
-5020,Roberto Baggio
-5021,Karl-Heinz Rummenigge
-5022,Cristiano Ronaldo
-5023,Bobby Charlton
-5024,Zinedine Zidane
-5025,Gabriel Batistuta
-5026,Roberto Carlos
-5027,Franz Beckenbauer
-5028,Gianluigi Buffon
-5029,Pelé 
-5030,Javier Zanetti
-5031,Kaká 
-5032,Edgar Davids
-5033,Zinedine Zidane
-5034,Alan Shearer
-5035,Michel Platini
-5036,Zinedine Zidane
-5037,Bobby Charlton
-5038,Gabriel Batistuta
-5039,George Weah
-5040,Gianluigi Buffon
-5041,Gianluigi Buffon
-5042,Karl-Heinz Rummenigge
-5043,George Weah
-5044,Marco van
-5045,Ronaldo Nazario
-5046,Jürgen Klinsmann
-5047,Pelé 
-5048,Gary Lineker
-5049,Roberto Baggio
-5050,Javier Zanetti
-5051,Marco van
-5052,Ronaldinho Gaúcho
-5053,Diego Maradona
-5054,Gianluigi Buffon
-5055,Michel Platini
-5056,Peter Schmeichel
-5057,Cristiano Ronaldo
-5058,Peter Schmeichel
-5059,Franz Beckenbauer
-5060,Edgar Davids
-5061,Gary Lineker
-5062,Karl-Heinz Rummenigge
-5063,Franz Beckenbauer
-5064,Bobby Charlton
-5065,Lionel Messi
-5066,Jürgen Klinsmann
-5067,Pelé 
-5068,George Weah
-5069,Luís Figo
-5070,Gabriel Batistuta
-5071,Dennis Bergkamp
-5072,Edgar Davids
-5073,Dennis Bergkamp
-5074,Paolo Maldini
-5075,Gabriel Batistuta
-5076,Alan Shearer
-5077,Alan Shearer
-5078,Gary Lineker
-5079,Franz Beckenbauer
-5080,Zinedine Zidane
-5081,Lionel Messi
-5082,Luís Figo
-5083,Michel Platini
-5084,Cristiano Ronaldo
-5085,Edgar Davids
-5086,Zinedine Zidane
-5087,Gianluigi Buffon
-5088,Roberto Baggio
-5089,Ronaldo Nazario
-5090,Paolo Maldini
-5091,Hristo Stoichkov
-5092,Luís Figo
-5093,Gabriel Batistuta
-5094,Javier Zanetti
-5095,Lionel Messi
-5096,Dennis Bergkamp
-5097,Cristiano Ronaldo
-5098,Alan Shearer
-5099,Bobby Charlton
-5100,Gianluigi Buffon
-5101,Lionel Messi
-5102,Pelé 
-5103,Hristo Stoichkov
-5104,Marco van
-5105,Jürgen Klinsmann
-5106,Edgar Davids
-5107,Gary Lineker
-5108,Zinedine Zidane
-5109,Zinedine Zidane
-5110,Bobby Charlton
-5111,Dennis Bergkamp
-5112,Hristo Stoichkov
-5113,Pelé 
-5114,Ronaldinho Gaúcho
-5115,Paolo Maldini
-5116,Edgar Davids
-5117,Roberto Baggio
-5118,Alan Shearer
-5119,Ronaldo Nazario
-5120,George Weah
-5121,Roberto Baggio
-5122,Gary Lineker
-5123,Michel Platini
-5124,Cristiano Ronaldo
-5125,Michel Platini
-5126,Hristo Stoichkov
-5127,Peter Schmeichel
-5128,Peter Schmeichel
-5129,Gary Lineker
-5130,Diego Maradona
-5131,Kaká 
-5132,Marco van
-5133,Diego Maradona
-5134,Marco van
-5135,Paolo Maldini
-5136,Ronaldinho Gaúcho
-5137,Gabriel Batistuta
-5138,Gianluigi Buffon
-5139,Javier Zanetti
-5140,George Weah
-5141,Diego Maradona
-5142,Diego Maradona
-5143,Franz Beckenbauer
-5144,Kaká 
-5145,Pelé 
-5146,Gabriel Batistuta
-5147,Jürgen Klinsmann
-5148,Bobby Charlton
-5149,Gabriel Batistuta
-5150,Kaká 
-5151,Peter Schmeichel
-5152,George Weah
-5153,Lionel Messi
-5154,Diego Maradona
-5155,Luís Figo
-5156,Gabriel Batistuta
-5157,Marco van
-5158,Jürgen Klinsmann
-5159,Gianluigi Buffon
-5160,Roberto Carlos
-5161,Peter Schmeichel
-5162,Pelé 
-5163,Ronaldo Nazario
-5164,Javier Zanetti
-5165,Hristo Stoichkov
-5166,Lionel Messi
-5167,Ronaldinho Gaúcho
-5168,Michel Platini
-5169,Gary Lineker
-5170,Gianluigi Buffon
-5171,Gianluigi Buffon
-5172,Gary Lineker
-5173,Luís Figo
-5174,Cristiano Ronaldo
-5175,Cristiano Ronaldo
-5176,Peter Schmeichel
-5177,Lionel Messi
-5178,Diego Maradona
-5179,Javier Zanetti
-5180,Kaká 
-5181,Gary Lineker
-5182,Peter Schmeichel
-5183,Bobby Charlton
-5184,Karl-Heinz Rummenigge
-5185,Javier Zanetti
-5186,Pelé 
-5187,Gary Lineker
-5188,Paolo Maldini
-5189,Lionel Messi
-5190,Marco van
-5191,Karl-Heinz Rummenigge
-5192,Edgar Davids
-5193,Franz Beckenbauer
-5194,Kaká 
-5195,Edgar Davids
-5196,Dennis Bergkamp
-5197,Diego Maradona
-5198,Hristo Stoichkov
-5199,Alan Shearer
-5200,Paolo Maldini
-5201,Bobby Charlton
-5202,Marco van
-5203,Marco van
-5204,Alan Shearer
-5205,Jürgen Klinsmann
-5206,Dennis Bergkamp
-5207,Kaká 
-5208,Gary Lineker
-5209,Roberto Carlos
-5210,Paolo Maldini
-5211,Cristiano Ronaldo
-5212,Michel Platini
-5213,Pelé 
-5214,Roberto Baggio
-5215,Jürgen Klinsmann
-5216,Karl-Heinz Rummenigge
-5217,Ronaldo Nazario
-5218,Marco van
-5219,Roberto Baggio
-5220,Gabriel Batistuta
-5221,Roberto Carlos
-5222,Roberto Baggio
-5223,Pelé 
-5224,Gabriel Batistuta
-5225,Gianluigi Buffon
-5226,Dennis Bergkamp
-5227,Peter Schmeichel
-5228,Jürgen Klinsmann
-5229,Karl-Heinz Rummenigge
-5230,Edgar Davids
-5231,Alan Shearer
-5232,Roberto Baggio
-5233,Karl-Heinz Rummenigge
-5234,Gianluigi Buffon
-5235,Gabriel Batistuta
-5236,Cristiano Ronaldo
-5237,Kaká 
-5238,Marco van
-5239,Alan Shearer
-5240,Pelé 
-5241,Zinedine Zidane
-5242,Pelé 
-5243,Ronaldo Nazario
-5244,Jürgen Klinsmann
-5245,Diego Maradona
-5246,Michel Platini
-5247,George Weah
-5248,Roberto Carlos
-5249,Edgar Davids
-5250,Cristiano Ronaldo
-5251,Edgar Davids
-5252,Dennis Bergkamp
-5253,Ronaldinho Gaúcho
-5254,Dennis Bergkamp
-5255,Jürgen Klinsmann
-5256,Javier Zanetti
-5257,George Weah
-5258,Edgar Davids
-5259,Ronaldo Nazario
-5260,Diego Maradona
-5261,Karl-Heinz Rummenigge
-5262,Pelé 
-5263,Jürgen Klinsmann
-5264,Gabriel Batistuta
-5265,Luís Figo
-5266,Ronaldinho Gaúcho
-5267,Marco van
-5268,Gary Lineker
-5269,Kaká 
-5270,Edgar Davids
-5271,Kaká 
-5272,Marco van
-5273,Dennis Bergkamp
-5274,Luís Figo
-5275,Roberto Carlos
-5276,Hristo Stoichkov
-5277,Jürgen Klinsmann
-5278,Ronaldo Nazario
-5279,Kaká 
-5280,Roberto Carlos
-5281,Edgar Davids
-5282,Pelé 
-5283,Dennis Bergkamp
-5284,Franz Beckenbauer
-5285,Marco van
-5286,Alan Shearer
-5287,Roberto Carlos
-5288,Dennis Bergkamp
-5289,Edgar Davids
-5290,Cristiano Ronaldo
-5291,Javier Zanetti
-5292,Roberto Baggio
-5293,Diego Maradona
-5294,Ronaldinho Gaúcho
-5295,Franz Beckenbauer
-5296,Luís Figo
-5297,Jürgen Klinsmann
-5298,Paolo Maldini
-5299,Ronaldo Nazario
-5300,Edgar Davids
-5301,Cristiano Ronaldo
-5302,Roberto Carlos
-5303,Roberto Baggio
-5304,George Weah
-5305,Marco van
-5306,Gianluigi Buffon
-5307,Dennis Bergkamp
-5308,Zinedine Zidane
-5309,Franz Beckenbauer
-5310,Alan Shearer
-5311,Alan Shearer
-5312,Gabriel Batistuta
-5313,Roberto Carlos
-5314,Ronaldinho Gaúcho
-5315,Roberto Baggio
-5316,Jürgen Klinsmann
-5317,Javier Zanetti
-5318,Javier Zanetti
-5319,Alan Shearer
-5320,Kaká 
-5321,Ronaldo Nazario
-5322,George Weah
-5323,Karl-Heinz Rummenigge
-5324,George Weah
-5325,Paolo Maldini
-5326,Dennis Bergkamp
-5327,Javier Zanetti
-5328,Dennis Bergkamp
-5329,Kaká 
-5330,Hristo Stoichkov
-5331,Roberto Carlos
-5332,Pelé 
-5333,Jürgen Klinsmann
-5334,Pelé 
-5335,Ronaldinho Gaúcho
-5336,Franz Beckenbauer
-5337,Lionel Messi
-5338,Peter Schmeichel
-5339,Bobby Charlton
-5340,George Weah
-5341,Franz Beckenbauer
-5342,Michel Platini
-5343,Alan Shearer
-5344,Diego Maradona
-5345,Dennis Bergkamp
-5346,Ronaldinho Gaúcho
-5347,Dennis Bergkamp
-5348,Roberto Carlos
-5349,Bobby Charlton
-5350,Kaká 
-5351,Hristo Stoichkov
-5352,Roberto Carlos
-5353,Ronaldinho Gaúcho
-5354,Kaká 
-5355,Karl-Heinz Rummenigge
-5356,Michel Platini
-5357,Zinedine Zidane
-5358,Alan Shearer
-5359,Paolo Maldini
-5360,Dennis Bergkamp
-5361,Roberto Carlos
-5362,Kaká 
-5363,Paolo Maldini
-5364,Cristiano Ronaldo
-5365,George Weah
-5366,Gabriel Batistuta
-5367,Jürgen Klinsmann
-5368,Peter Schmeichel
-5369,Michel Platini
-5370,Hristo Stoichkov
+Order ID,Waiters ID
+1,200003
+2,200011
+3,200012
+4,200010
+5,200022
+6,200009
+7,200026
+8,200017
+9,200014
+10,200028
+11,200013
+12,200011
+13,200002
+14,200013
+15,200021
+16,200024
+17,200028
+18,200028
+19,200024
+20,200006
+21,200016
+22,200012
+23,200009
+24,200017
+25,200003
+26,200007
+27,200022
+28,200019
+29,200020
+30,200007
+31,200018
+32,200026
+33,200015
+34,200014
+35,200025
+36,200009
+37,200016
+38,200028
+39,200007
+40,200027
+41,200006
+42,200011
+43,200012
+44,200008
+45,200024
+46,200016
+47,200015
+48,200003
+49,200012
+50,200006
+51,200019
+52,200014
+53,200008
+54,200019
+55,200017
+56,200023
+57,200012
+58,200007
+59,200023
+60,200003
+61,200023
+62,200013
+63,200026
+64,200017
+65,200007
+66,200021
+67,200026
+68,200028
+69,200019
+70,200014
+71,200008
+72,200018
+73,200006
+74,200020
+75,200016
+76,200021
+77,200025
+78,200016
+79,200025
+80,200005
+81,200006
+82,200020
+83,200023
+84,200005
+85,200001
+86,200006
+87,200006
+88,200020
+89,200008
+90,200006
+91,200001
+92,200019
+93,200020
+94,200001
+95,200004
+96,200021
+97,200016
+98,200027
+99,200024
+100,200002
+101,200027
+102,200020
+103,200002
+104,200003
+105,200021
+106,200020
+107,200006
+108,200004
+109,200023
+110,200017
+111,200017
+112,200016
+113,200021
+114,200019
+115,200001
+116,200005
+117,200007
+118,200018
+119,200025
+120,200026
+121,200016
+122,200009
+123,200007
+124,200021
+125,200019
+126,200015
+127,200001
+128,200011
+129,200014
+130,200007
+131,200002
+132,200002
+133,200013
+134,200009
+135,200009
+136,200025
+137,200006
+138,200004
+139,200012
+140,200022
+141,200016
+142,200015
+143,200013
+144,200012
+145,200014
+146,200010
+147,200019
+148,200007
+149,200021
+150,200012
+151,200019
+152,200017
+153,200009
+154,200009
+155,200001
+156,200021
+157,200008
+158,200017
+159,200012
+160,200003
+161,200006
+162,200022
+163,200017
+164,200021
+165,200027
+166,200019
+167,200015
+168,200020
+169,200009
+170,200017
+171,200005
+172,200027
+173,200005
+174,200016
+175,200006
+176,200006
+177,200026
+178,200002
+179,200020
+180,200007
+181,200003
+182,200019
+183,200012
+184,200028
+185,200013
+186,200017
+187,200014
+188,200019
+189,200001
+190,200013
+191,200003
+192,200009
+193,200023
+194,200004
+195,200026
+196,200013
+197,200006
+198,200014
+199,200021
+200,200005
+201,200015
+202,200027
+203,200015
+204,200024
+205,200016
+206,200017
+207,200017
+208,200019
+209,200004
+210,200024
+211,200008
+212,200005
+213,200007
+214,200008
+215,200017
+216,200003
+217,200004
+218,200009
+219,200016
+220,200010
+221,200007
+222,200024
+223,200005
+224,200028
+225,200014
+226,200009
+227,200027
+228,200020
+229,200007
+230,200013
+231,200026
+232,200026
+233,200007
+234,200017
+235,200026
+236,200017
+237,200007
+238,200002
+239,200024
+240,200019
+241,200010
+242,200026
+243,200007
+244,200001
+245,200020
+246,200027
+247,200024
+248,200017
+249,200009
+250,200017
+251,200013
+252,200011
+253,200010
+254,200024
+255,200013
+256,200022
+257,200005
+258,200022
+259,200017
+260,200011
+261,200021
+262,200022
+263,200016
+264,200023
+265,200009
+266,200018
+267,200015
+268,200007
+269,200027
+270,200011
+271,200025
+272,200023
+273,200007
+274,200020
+275,200021
+276,200011
+277,200028
+278,200017
+279,200011
+280,200011
+281,200008
+282,200018
+283,200019
+284,200016
+285,200004
+286,200021
+287,200010
+288,200024
+289,200023
+290,200006
+291,200006
+292,200027
+293,200013
+294,200024
+295,200016
+296,200021
+297,200009
+298,200025
+299,200010
+300,200020
+301,200017
+302,200024
+303,200004
+304,200006
+305,200010
+306,200004
+307,200016
+308,200004
+309,200007
+310,200018
+311,200027
+312,200026
+313,200008
+314,200018
+315,200008
+316,200017
+317,200012
+318,200011
+319,200004
+320,200006
+321,200006
+322,200018
+323,200006
+324,200012
+325,200020
+326,200027
+327,200024
+328,200007
+329,200021
+330,200015
+331,200019
+332,200010
+333,200004
+334,200008
+335,200020
+336,200016
+337,200003
+338,200018
+339,200010
+340,200006
+341,200020
+342,200004
+343,200003
+344,200003
+345,200005
+346,200014
+347,200003
+348,200001
+349,200020
+350,200026
+351,200007
+352,200026
+353,200016
+354,200020
+355,200028
+356,200006
+357,200005
+358,200005
+359,200003
+360,200005
+361,200020
+362,200024
+363,200028
+364,200016
+365,200007
+366,200016
+367,200012
+368,200015
+369,200004
+370,200008
+371,200018
+372,200027
+373,200013
+374,200021
+375,200010
+376,200028
+377,200017
+378,200021
+379,200022
+380,200017
+381,200017
+382,200017
+383,200005
+384,200009
+385,200017
+386,200024
+387,200006
+388,200018
+389,200004
+390,200026
+391,200005
+392,200017
+393,200003
+394,200017
+395,200003
+396,200018
+397,200022
+398,200021
+399,200001
+400,200018
+401,200020
+402,200023
+403,200007
+404,200020
+405,200017
+406,200007
+407,200028
+408,200016
+409,200025
+410,200020
+411,200014
+412,200025
+413,200023
+414,200013
+415,200006
+416,200021
+417,200027
+418,200012
+419,200009
+420,200018
+421,200028
+422,200012
+423,200001
+424,200016
+425,200021
+426,200002
+427,200007
+428,200012
+429,200024
+430,200013
+431,200022
+432,200007
+433,200010
+434,200017
+435,200003
+436,200013
+437,200017
+438,200017
+439,200019
+440,200017
+441,200007
+442,200023
+443,200023
+444,200004
+445,200011
+446,200027
+447,200011
+448,200022
+449,200006
+450,200028
+451,200013
+452,200015
+453,200004
+454,200024
+455,200018
+456,200027
+457,200027
+458,200012
+459,200003
+460,200008
+461,200016
+462,200013
+463,200005
+464,200006
+465,200022
+466,200006
+467,200009
+468,200028
+469,200016
+470,200005
+471,200019
+472,200015
+473,200028
+474,200016
+475,200023
+476,200026
+477,200016
+478,200001
+479,200024
+480,200014
+481,200005
+482,200021
+483,200020
+484,200020
+485,200004
+486,200021
+487,200027
+488,200021
+489,200015
+490,200009
+491,200002
+492,200011
+493,200018
+494,200002
+495,200008
+496,200022
+497,200027
+498,200012
+499,200014
+500,200001
+501,200019
+502,200022
+503,200003
+504,200027
+505,200015
+506,200009
+507,200010
+508,200023
+509,200017
+510,200020
+511,200019
+512,200019
+513,200022
+514,200014
+515,200018
+516,200027
+517,200015
+518,200008
+519,200026
+520,200024
+521,200008
+522,200017
+523,200001
+524,200006
+525,200024
+526,200018
+527,200019
+528,200006
+529,200014
+530,200013
+531,200014
+532,200024
+533,200003
+534,200003
+535,200001
+536,200025
+537,200022
+538,200014
+539,200007
+540,200013
+541,200002
+542,200017
+543,200020
+544,200026
+545,200011
+546,200023
+547,200009
+548,200018
+549,200005
+550,200012
+551,200002
+552,200001
+553,200016
+554,200019
+555,200001
+556,200020
+557,200010
+558,200023
+559,200002
+560,200004
+561,200012
+562,200026
+563,200003
+564,200020
+565,200012
+566,200012
+567,200005
+568,200024
+569,200004
+570,200003
+571,200022
+572,200018
+573,200014
+574,200011
+575,200008
+576,200025
+577,200018
+578,200004
+579,200006
+580,200022
+581,200006
+582,200022
+583,200024
+584,200023
+585,200002
+586,200009
+587,200008
+588,200026
+589,200013
+590,200012
+591,200005
+592,200006
+593,200023
+594,200014
+595,200003
+596,200024
+597,200024
+598,200022
+599,200003
+600,200024
+601,200014
+602,200004
+603,200013
+604,200006
+605,200015
+606,200003
+607,200015
+608,200001
+609,200024
+610,200024
+611,200012
+612,200012
+613,200011
+614,200006
+615,200005
+616,200008
+617,200007
+618,200023
+619,200023
+620,200018
+621,200008
+622,200007
+623,200004
+624,200016
+625,200001
+626,200017
+627,200009
+628,200026
+629,200009
+630,200026
+631,200006
+632,200001
+633,200014
+634,200002
+635,200013
+636,200011
+637,200006
+638,200010
+639,200026
+640,200004
+641,200006
+642,200008
+643,200004
+644,200001
+645,200025
+646,200016
+647,200025
+648,200002
+649,200005
+650,200001
+651,200022
+652,200027
+653,200004
+654,200003
+655,200003
+656,200006
+657,200016
+658,200009
+659,200020
+660,200009
+661,200016
+662,200025
+663,200003
+664,200002
+665,200023
+666,200006
+667,200004
+668,200012
+669,200002
+670,200020
+671,200011
+672,200002
+673,200002
+674,200018
+675,200025
+676,200024
+677,200022
+678,200010
+679,200002
+680,200015
+681,200010
+682,200002
+683,200006
+684,200001
+685,200022
+686,200020
+687,200016
+688,200019
+689,200013
+690,200004
+691,200009
+692,200016
+693,200016
+694,200021
+695,200003
+696,200012
+697,200006
+698,200003
+699,200018
+700,200028
+701,200006
+702,200018
+703,200015
+704,200008
+705,200027
+706,200006
+707,200022
+708,200017
+709,200022
+710,200024
+711,200011
+712,200004
+713,200017
+714,200009
+715,200018
+716,200023
+717,200009
+718,200019
+719,200009
+720,200018
+721,200025
+722,200008
+723,200003
+724,200014
+725,200021
+726,200013
+727,200028
+728,200013
+729,200016
+730,200016
+731,200012
+732,200005
+733,200019
+734,200009
+735,200008
+736,200020
+737,200012
+738,200007
+739,200009
+740,200022
+741,200007
+742,200011
+743,200017
+744,200028
+745,200002
+746,200013
+747,200002
+748,200023
+749,200001
+750,200018
+751,200022
+752,200009
+753,200028
+754,200006
+755,200012
+756,200003
+757,200013
+758,200010
+759,200015
+760,200025
+761,200018
+762,200015
+763,200002
+764,200005
+765,200011
+766,200004
+767,200019
+768,200007
+769,200004
+770,200022
+771,200024
+772,200004
+773,200014
+774,200025
+775,200023
+776,200007
+777,200027
+778,200014
+779,200011
+780,200014
+781,200015
+782,200018
+783,200005
+784,200027
+785,200011
+786,200017
+787,200011
+788,200026
+789,200019
+790,200024
+791,200003
+792,200011
+793,200010
+794,200018
+795,200016
+796,200007
+797,200015
+798,200026
+799,200023
+800,200013
+801,200011
+802,200027
+803,200020
+804,200024
+805,200007
+806,200007
+807,200005
+808,200022
+809,200008
+810,200022
+811,200009
+812,200002
+813,200003
+814,200007
+815,200001
+816,200027
+817,200021
+818,200012
+819,200015
+820,200026
+821,200028
+822,200024
+823,200001
+824,200020
+825,200017
+826,200012
+827,200028
+828,200004
+829,200027
+830,200028
+831,200025
+832,200021
+833,200025
+834,200007
+835,200019
+836,200021
+837,200021
+838,200010
+839,200006
+840,200010
+841,200028
+842,200002
+843,200011
+844,200015
+845,200009
+846,200027
+847,200007
+848,200014
+849,200017
+850,200013
+851,200014
+852,200019
+853,200007
+854,200003
+855,200026
+856,200025
+857,200005
+858,200018
+859,200022
+860,200020
+861,200020
+862,200025
+863,200010
+864,200014
+865,200007
+866,200022
+867,200022
+868,200006
+869,200010
+870,200014
+871,200017
+872,200016
+873,200021
+874,200023
+875,200014
+876,200006
+877,200003
+878,200018
+879,200017
+880,200027
+881,200010
+882,200023
+883,200010
+884,200019
+885,200019
+886,200016
+887,200021
+888,200015
+889,200019
+890,200010
+891,200017
+892,200027
+893,200006
+894,200026
+895,200020
+896,200005
+897,200012
+898,200006
+899,200006
+900,200002
+901,200017
+902,200001
+903,200014
+904,200010
+905,200016
+906,200023
+907,200014
+908,200016
+909,200026
+910,200016
+911,200007
+912,200020
+913,200013
+914,200025
+915,200018
+916,200011
+917,200009
+918,200028
+919,200006
+920,200001
+921,200013
+922,200010
+923,200016
+924,200023
+925,200024
+926,200016
+927,200013
+928,200015
+929,200013
+930,200021
+931,200028
+932,200018
+933,200028
+934,200018
+935,200010
+936,200003
+937,200003
+938,200016
+939,200027
+940,200011
+941,200009
+942,200006
+943,200014
+944,200013
+945,200003
+946,200028
+947,200002
+948,200022
+949,200028
+950,200016
+951,200015
+952,200014
+953,200015
+954,200009
+955,200008
+956,200028
+957,200007
+958,200008
+959,200004
+960,200010
+961,200022
+962,200010
+963,200009
+964,200015
+965,200028
+966,200014
+967,200003
+968,200014
+969,200021
+970,200015
+971,200015
+972,200009
+973,200025
+974,200027
+975,200011
+976,200016
+977,200019
+978,200002
+979,200018
+980,200005
+981,200020
+982,200008
+983,200002
+984,200002
+985,200020
+986,200015
+987,200007
+988,200010
+989,200026
+990,200011
+991,200025
+992,200006
+993,200012
+994,200005
+995,200007
+996,200016
+997,200018
+998,200027
+999,200009
+1000,200016
+1001,200021
+1002,200018
+1003,200015
+1004,200002
+1005,200024
+1006,200001
+1007,200020
+1008,200027
+1009,200019
+1010,200005
+1011,200012
+1012,200016
+1013,200016
+1014,200013
+1015,200013
+1016,200010
+1017,200015
+1018,200009
+1019,200011
+1020,200006
+1021,200019
+1022,200011
+1023,200019
+1024,200018
+1025,200002
+1026,200017
+1027,200009
+1028,200021
+1029,200011
+1030,200013
+1031,200013
+1032,200028
+1033,200026
+1034,200014
+1035,200021
+1036,200012
+1037,200019
+1038,200028
+1039,200005
+1040,200007
+1041,200015
+1042,200003
+1043,200002
+1044,200019
+1045,200023
+1046,200002
+1047,200022
+1048,200024
+1049,200009
+1050,200023
+1051,200003
+1052,200005
+1053,200008
+1054,200019
+1055,200025
+1056,200003
+1057,200018
+1058,200018
+1059,200014
+1060,200010
+1061,200009
+1062,200008
+1063,200008
+1064,200008
+1065,200022
+1066,200013
+1067,200008
+1068,200021
+1069,200023
+1070,200002
+1071,200028
+1072,200013
+1073,200008
+1074,200010
+1075,200008
+1076,200017
+1077,200024
+1078,200028
+1079,200014
+1080,200011
+1081,200010
+1082,200008
+1083,200015
+1084,200023
+1085,200006
+1086,200014
+1087,200027
+1088,200021
+1089,200018
+1090,200005
+1091,200016
+1092,200022
+1093,200023
+1094,200015
+1095,200019
+1096,200014
+1097,200024
+1098,200014
+1099,200011
+1100,200003
+1101,200018
+1102,200003
+1103,200011
+1104,200010
+1105,200009
+1106,200023
+1107,200021
+1108,200019
+1109,200004
+1110,200010
+1111,200024
+1112,200017
+1113,200019
+1114,200003
+1115,200019
+1116,200006
+1117,200004
+1118,200012
+1119,200011
+1120,200003
+1121,200024
+1122,200026
+1123,200005
+1124,200006
+1125,200010
+1126,200014
+1127,200003
+1128,200021
+1129,200027
+1130,200015
+1131,200028
+1132,200001
+1133,200024
+1134,200004
+1135,200011
+1136,200013
+1137,200007
+1138,200027
+1139,200019
+1140,200015
+1141,200019
+1142,200003
+1143,200008
+1144,200001
+1145,200004
+1146,200028
+1147,200024
+1148,200016
+1149,200020
+1150,200004
+1151,200003
+1152,200020
+1153,200014
+1154,200025
+1155,200025
+1156,200013
+1157,200003
+1158,200025
+1159,200008
+1160,200020
+1161,200023
+1162,200012
+1163,200004
+1164,200013
+1165,200016
+1166,200027
+1167,200012
+1168,200007
+1169,200011
+1170,200018
+1171,200015
+1172,200008
+1173,200011
+1174,200009
+1175,200019
+1176,200015
+1177,200014
+1178,200004
+1179,200026
+1180,200019
+1181,200011
+1182,200022
+1183,200003
+1184,200023
+1185,200027
+1186,200008
+1187,200024
+1188,200006
+1189,200025
+1190,200027
+1191,200024
+1192,200028
+1193,200027
+1194,200022
+1195,200028
+1196,200016
+1197,200004
+1198,200027
+1199,200009
+1200,200003
+1201,200028
+1202,200011
+1203,200016
+1204,200016
+1205,200005
+1206,200024
+1207,200001
+1208,200022
+1209,200007
+1210,200018
+1211,200020
+1212,200003
+1213,200004
+1214,200006
+1215,200021
+1216,200004
+1217,200016
+1218,200010
+1219,200024
+1220,200018
+1221,200017
+1222,200002
+1223,200014
+1224,200020
+1225,200008
+1226,200008
+1227,200011
+1228,200022
+1229,200014
+1230,200017
+1231,200002
+1232,200020
+1233,200018
+1234,200009
+1235,200010
+1236,200001
+1237,200020
+1238,200020
+1239,200022
+1240,200008
+1241,200023
+1242,200009
+1243,200007
+1244,200006
+1245,200026
+1246,200007
+1247,200020
+1248,200023
+1249,200004
+1250,200026
+1251,200014
+1252,200012
+1253,200002
+1254,200005
+1255,200024
+1256,200004
+1257,200010
+1258,200012
+1259,200006
+1260,200015
+1261,200020
+1262,200016
+1263,200003
+1264,200022
+1265,200023
+1266,200023
+1267,200017
+1268,200008
+1269,200018
+1270,200020
+1271,200016
+1272,200004
+1273,200009
+1274,200011
+1275,200026
+1276,200005
+1277,200024
+1278,200015
+1279,200020
+1280,200018
+1281,200016
+1282,200027
+1283,200028
+1284,200006
+1285,200018
+1286,200002
+1287,200008
+1288,200011
+1289,200016
+1290,200013
+1291,200004
+1292,200004
+1293,200017
+1294,200011
+1295,200010
+1296,200008
+1297,200028
+1298,200007
+1299,200021
+1300,200007
+1301,200027
+1302,200006
+1303,200012
+1304,200014
+1305,200017
+1306,200007
+1307,200006
+1308,200019
+1309,200013
+1310,200020
+1311,200020
+1312,200006
+1313,200008
+1314,200004
+1315,200015
+1316,200008
+1317,200009
+1318,200027
+1319,200001
+1320,200024
+1321,200016
+1322,200014
+1323,200011
+1324,200007
+1325,200018
+1326,200021
+1327,200025
+1328,200002
+1329,200008
+1330,200023
+1331,200028
+1332,200014
+1333,200017
+1334,200006
+1335,200023
+1336,200008
+1337,200016
+1338,200005
+1339,200028
+1340,200020
+1341,200024
+1342,200009
+1343,200021
+1344,200003
+1345,200015
+1346,200005
+1347,200020
+1348,200015
+1349,200012
+1350,200024
+1351,200019
+1352,200015
+1353,200007
+1354,200015
+1355,200005
+1356,200020
+1357,200017
+1358,200016
+1359,200006
+1360,200001
+1361,200014
+1362,200018
+1363,200008
+1364,200013
+1365,200018
+1366,200002
+1367,200014
+1368,200018
+1369,200005
+1370,200015
+1371,200001
+1372,200004
+1373,200025
+1374,200011
+1375,200015
+1376,200028
+1377,200021
+1378,200003
+1379,200005
+1380,200020
+1381,200010
+1382,200011
+1383,200010
+1384,200008
+1385,200020
+1386,200025
+1387,200022
+1388,200025
+1389,200027
+1390,200022
+1391,200001
+1392,200017
+1393,200006
+1394,200016
+1395,200024
+1396,200017
+1397,200002
+1398,200026
+1399,200016
+1400,200023
+1401,200020
+1402,200014
+1403,200019
+1404,200022
+1405,200008
+1406,200024
+1407,200013
+1408,200012
+1409,200010
+1410,200008
+1411,200003
+1412,200015
+1413,200002
+1414,200028
+1415,200014
+1416,200021
+1417,200021
+1418,200003
+1419,200012
+1420,200027
+1421,200017
+1422,200003
+1423,200017
+1424,200022
+1425,200007
+1426,200004
+1427,200013
+1428,200016
+1429,200019
+1430,200020
+1431,200005
+1432,200017
+1433,200016
+1434,200009
+1435,200019
+1436,200028
+1437,200023
+1438,200002
+1439,200006
+1440,200021
+1441,200016
+1442,200008
+1443,200005
+1444,200001
+1445,200004
+1446,200005
+1447,200012
+1448,200017
+1449,200006
+1450,200006
+1451,200023
+1452,200025
+1453,200016
+1454,200011
+1455,200028
+1456,200018
+1457,200026
+1458,200010
+1459,200009
+1460,200008
+1461,200003
+1462,200002
+1463,200002
+1464,200010
+1465,200013
+1466,200007
+1467,200022
+1468,200008
+1469,200013
+1470,200024
+1471,200026
+1472,200003
+1473,200027
+1474,200011
+1475,200004
+1476,200015
+1477,200013
+1478,200021
+1479,200005
+1480,200022
+1481,200026
+1482,200019
+1483,200017
+1484,200017
+1485,200011
+1486,200003
+1487,200022
+1488,200020
+1489,200013
+1490,200011
+1491,200012
+1492,200016
+1493,200003
+1494,200004
+1495,200025
+1496,200020
+1497,200027
+1498,200004
+1499,200001
+1500,200009
+1501,200006
+1502,200009
+1503,200003
+1504,200003
+1505,200023
+1506,200015
+1507,200009
+1508,200024
+1509,200016
+1510,200019
+1511,200010
+1512,200024
+1513,200001
+1514,200014
+1515,200014
+1516,200002
+1517,200023
+1518,200004
+1519,200001
+1520,200023
+1521,200025
+1522,200012
+1523,200007
+1524,200024
+1525,200006
+1526,200017
+1527,200022
+1528,200004
+1529,200028
+1530,200025
+1531,200019
+1532,200002
+1533,200022
+1534,200011
+1535,200010
+1536,200024
+1537,200022
+1538,200001
+1539,200028
+1540,200017
+1541,200028
+1542,200003
+1543,200019
+1544,200006
+1545,200025
+1546,200024
+1547,200019
+1548,200023
+1549,200013
+1550,200021
+1551,200027
+1552,200021
+1553,200027
+1554,200013
+1555,200028
+1556,200006
+1557,200006
+1558,200022
+1559,200002
+1560,200021
+1561,200002
+1562,200028
+1563,200010
+1564,200014
+1565,200011
+1566,200026
+1567,200010
+1568,200010
+1569,200010
+1570,200009
+1571,200003
+1572,200023
+1573,200020
+1574,200015
+1575,200010
+1576,200010
+1577,200011
+1578,200028
+1579,200013
+1580,200025
+1581,200004
+1582,200012
+1583,200021
+1584,200027
+1585,200026
+1586,200021
+1587,200018
+1588,200025
+1589,200026
+1590,200014
+1591,200019
+1592,200016
+1593,200002
+1594,200015
+1595,200028
+1596,200006
+1597,200002
+1598,200014
+1599,200016
+1600,200018
+1601,200010
+1602,200008
+1603,200010
+1604,200024
+1605,200012
+1606,200007
+1607,200019
+1608,200025
+1609,200025
+1610,200022
+1611,200028
+1612,200018
+1613,200014
+1614,200020
+1615,200016
+1616,200018
+1617,200014
+1618,200018
+1619,200006
+1620,200025
+1621,200022
+1622,200001
+1623,200001
+1624,200027
+1625,200017
+1626,200005
+1627,200012
+1628,200017
+1629,200012
+1630,200023
+1631,200022
+1632,200014
+1633,200008
+1634,200018
+1635,200028
+1636,200009
+1637,200024
+1638,200017
+1639,200003
+1640,200002
+1641,200020
+1642,200006
+1643,200023
+1644,200016
+1645,200011
+1646,200022
+1647,200028
+1648,200003
+1649,200011
+1650,200022
+1651,200014
+1652,200028
+1653,200013
+1654,200011
+1655,200015
+1656,200006
+1657,200011
+1658,200014
+1659,200010
+1660,200016
+1661,200002
+1662,200011
+1663,200009
+1664,200027
+1665,200022
+1666,200008
+1667,200026
+1668,200006
+1669,200026
+1670,200019
+1671,200015
+1672,200027
+1673,200024
+1674,200027
+1675,200019
+1676,200027
+1677,200003
+1678,200010
+1679,200022
+1680,200007
+1681,200025
+1682,200008
+1683,200016
+1684,200026
+1685,200027
+1686,200022
+1687,200012
+1688,200018
+1689,200022
+1690,200007
+1691,200017
+1692,200021
+1693,200002
+1694,200012
+1695,200022
+1696,200012
+1697,200024
+1698,200014
+1699,200002
+1700,200022
+1701,200009
+1702,200003
+1703,200020
+1704,200021
+1705,200026
+1706,200021
+1707,200017
+1708,200014
+1709,200025
+1710,200026
+1711,200021
+1712,200007
+1713,200022
+1714,200028
+1715,200013
+1716,200002
+1717,200002
+1718,200013
+1719,200001
+1720,200019
+1721,200023
+1722,200006
+1723,200007
+1724,200021
+1725,200024
+1726,200028
+1727,200025
+1728,200002
+1729,200005
+1730,200021
+1731,200009
+1732,200013
+1733,200028
+1734,200001
+1735,200024
+1736,200005
+1737,200009
+1738,200007
+1739,200014
+1740,200010
+1741,200012
+1742,200009
+1743,200027
+1744,200025
+1745,200006
+1746,200014
+1747,200017
+1748,200022
+1749,200024
+1750,200009
+1751,200011
+1752,200013
+1753,200020
+1754,200023
+1755,200011
+1756,200022
+1757,200011
+1758,200008
+1759,200003
+1760,200028
+1761,200027
+1762,200025
+1763,200023
+1764,200008
+1765,200028
+1766,200025
+1767,200019
+1768,200026
+1769,200022
+1770,200019
+1771,200010
+1772,200027
+1773,200011
+1774,200005
+1775,200015
+1776,200014
+1777,200021
+1778,200028
+1779,200014
+1780,200024
+1781,200019
+1782,200007
+1783,200021
+1784,200003
+1785,200004
+1786,200024
+1787,200014
+1788,200022
+1789,200003
+1790,200022
+1791,200024
+1792,200005
+1793,200017
+1794,200022
+1795,200027
+1796,200010
+1797,200012
+1798,200003
+1799,200020
+1800,200027
+1801,200012
+1802,200010
+1803,200007
+1804,200008
+1805,200006
+1806,200013
+1807,200005
+1808,200002
+1809,200023
+1810,200017
+1811,200008
+1812,200025
+1813,200008
+1814,200010
+1815,200026
+1816,200020
+1817,200001
+1818,200027
+1819,200022
+1820,200021
+1821,200004
+1822,200024
+1823,200009
+1824,200019
+1825,200010
+1826,200010
+1827,200002
+1828,200020
+1829,200025
+1830,200006
+1831,200027
+1832,200006
+1833,200025
+1834,200015
+1835,200020
+1836,200024
+1837,200028
+1838,200019
+1839,200013
+1840,200002
+1841,200020
+1842,200011
+1843,200018
+1844,200014
+1845,200001
+1846,200025
+1847,200005
+1848,200023
+1849,200018
+1850,200017
+1851,200015
+1852,200011
+1853,200022
+1854,200001
+1855,200008
+1856,200017
+1857,200018
+1858,200016
+1859,200006
+1860,200024
+1861,200025
+1862,200014
+1863,200023
+1864,200001
+1865,200014
+1866,200028
+1867,200006
+1868,200020
+1869,200006
+1870,200024
+1871,200018
+1872,200002
+1873,200009
+1874,200004
+1875,200001
+1876,200027
+1877,200014
+1878,200009
+1879,200023
+1880,200026
+1881,200017
+1882,200015
+1883,200001
+1884,200003
+1885,200010
+1886,200002
+1887,200023
+1888,200022
+1889,200028
+1890,200020
+1891,200006
+1892,200019
+1893,200017
+1894,200026
+1895,200028
+1896,200015
+1897,200024
+1898,200003
+1899,200018
+1900,200021
+1901,200026
+1902,200008
+1903,200006
+1904,200018
+1905,200005
+1906,200005
+1907,200017
+1908,200024
+1909,200015
+1910,200021
+1911,200005
+1912,200008
+1913,200001
+1914,200003
+1915,200023
+1916,200004
+1917,200026
+1918,200024
+1919,200012
+1920,200004
+1921,200021
+1922,200012
+1923,200022
+1924,200022
+1925,200010
+1926,200028
+1927,200005
+1928,200012
+1929,200012
+1930,200011
+1931,200005
+1932,200018
+1933,200019
+1934,200018
+1935,200007
+1936,200001
+1937,200028
+1938,200021
+1939,200026
+1940,200022
+1941,200020
+1942,200006
+1943,200015
+1944,200018
+1945,200026
+1946,200015
+1947,200013
+1948,200025
+1949,200007
+1950,200023
+1951,200003
+1952,200003
+1953,200021
+1954,200027
+1955,200006
+1956,200015
+1957,200007
+1958,200022
+1959,200011
+1960,200022
+1961,200005
+1962,200009
+1963,200008
+1964,200020
+1965,200008
+1966,200005
+1967,200011
+1968,200003
+1969,200020
+1970,200005
+1971,200015
+1972,200022
+1973,200014
+1974,200010
+1975,200021
+1976,200006
+1977,200016
+1978,200016
+1979,200026
+1980,200020
+1981,200023
+1982,200003
+1983,200020
+1984,200021
+1985,200004
+1986,200019
+1987,200009
+1988,200018
+1989,200010
+1990,200010
+1991,200021
+1992,200004
+1993,200017
+1994,200027
+1995,200008
+1996,200005
+1997,200027
+1998,200019
+1999,200012
+2000,200024
+2001,200009
+2002,200014
+2003,200003
+2004,200004
+2005,200022
+2006,200009
+2007,200025
+2008,200003
+2009,200002
+2010,200027
+2011,200021
+2012,200008
+2013,200028
+2014,200015
+2015,200007
+2016,200007
+2017,200003
+2018,200008
+2019,200021
+2020,200012
+2021,200003
+2022,200020
+2023,200025
+2024,200025
+2025,200011
+2026,200011
+2027,200011
+2028,200020
+2029,200004
+2030,200024
+2031,200002
+2032,200014
+2033,200003
+2034,200002
+2035,200014
+2036,200014
+2037,200026
+2038,200026
+2039,200024
+2040,200020
+2041,200008
+2042,200012
+2043,200026
+2044,200020
+2045,200008
+2046,200018
+2047,200017
+2048,200014
+2049,200009
+2050,200015
+2051,200017
+2052,200025
+2053,200011
+2054,200003
+2055,200001
+2056,200026
+2057,200011
+2058,200009
+2059,200022
+2060,200010
+2061,200014
+2062,200003
+2063,200022
+2064,200013
+2065,200005
+2066,200021
+2067,200019
+2068,200017
+2069,200002
+2070,200025
+2071,200013
+2072,200009
+2073,200017
+2074,200019
+2075,200013
+2076,200023
+2077,200023
+2078,200018
+2079,200001
+2080,200002
+2081,200009
+2082,200024
+2083,200006
+2084,200013
+2085,200010
+2086,200024
+2087,200013
+2088,200022
+2089,200021
+2090,200012
+2091,200009
+2092,200025
+2093,200009
+2094,200010
+2095,200003
+2096,200018
+2097,200024
+2098,200017
+2099,200012
+2100,200012
+2101,200025
+2102,200012
+2103,200022
+2104,200003
+2105,200010
+2106,200022
+2107,200028
+2108,200022
+2109,200007
+2110,200027
+2111,200001
+2112,200019
+2113,200013
+2114,200015
+2115,200005
+2116,200024
+2117,200008
+2118,200020
+2119,200001
+2120,200011
+2121,200010
+2122,200021
+2123,200021
+2124,200013
+2125,200026
+2126,200019
+2127,200012
+2128,200027
+2129,200027
+2130,200009
+2131,200028
+2132,200024
+2133,200013
+2134,200024
+2135,200024
+2136,200013
+2137,200004
+2138,200028
+2139,200016
+2140,200025
+2141,200013
+2142,200022
+2143,200014
+2144,200022
+2145,200026
+2146,200024
+2147,200012
+2148,200010
+2149,200007
+2150,200010
+2151,200008
+2152,200025
+2153,200006
+2154,200013
+2155,200012
+2156,200015
+2157,200018
+2158,200004
+2159,200027
+2160,200021
+2161,200022
+2162,200007
+2163,200016
+2164,200020
+2165,200015
+2166,200018
+2167,200023
+2168,200016
+2169,200002
+2170,200025
+2171,200014
+2172,200001
+2173,200024
+2174,200001
+2175,200009
+2176,200028
+2177,200004
+2178,200011
+2179,200003
+2180,200005
+2181,200011
+2182,200019
+2183,200025
+2184,200005
+2185,200025
+2186,200005
+2187,200024
+2188,200012
+2189,200008
+2190,200028
+2191,200013
+2192,200013
+2193,200019
+2194,200003
+2195,200016
+2196,200025
+2197,200006
+2198,200014
+2199,200001
+2200,200007
+2201,200022
+2202,200024
+2203,200011
+2204,200026
+2205,200014
+2206,200022
+2207,200021
+2208,200018
+2209,200023
+2210,200005
+2211,200013
+2212,200025
+2213,200023
+2214,200006
+2215,200002
+2216,200016
+2217,200001
+2218,200015
+2219,200018
+2220,200013
+2221,200016
+2222,200004
+2223,200023
+2224,200012
+2225,200011
+2226,200019
+2227,200024
+2228,200014
+2229,200027
+2230,200022
+2231,200022
+2232,200027
+2233,200005
+2234,200011
+2235,200011
+2236,200016
+2237,200024
+2238,200024
+2239,200010
+2240,200018
+2241,200014
+2242,200018
+2243,200006
+2244,200023
+2245,200001
+2246,200020
+2247,200021
+2248,200021
+2249,200027
+2250,200016
+2251,200013
+2252,200004
+2253,200009
+2254,200011
+2255,200016
+2256,200002
+2257,200027
+2258,200005
+2259,200017
+2260,200002
+2261,200027
+2262,200010
+2263,200006
+2264,200012
+2265,200026
+2266,200024
+2267,200027
+2268,200016
+2269,200014
+2270,200027
+2271,200008
+2272,200013
+2273,200015
+2274,200011
+2275,200007
+2276,200012
+2277,200005
+2278,200013
+2279,200003
+2280,200011
+2281,200024
+2282,200003
+2283,200006
+2284,200010
+2285,200015
+2286,200024
+2287,200024
+2288,200027
+2289,200018
+2290,200019
+2291,200016
+2292,200002
+2293,200009
+2294,200011
+2295,200028
+2296,200007
+2297,200010
+2298,200005
+2299,200008
+2300,200028
+2301,200013
+2302,200012
+2303,200021
+2304,200017
+2305,200020
+2306,200008
+2307,200004
+2308,200018
+2309,200013
+2310,200014
+2311,200015
+2312,200010
+2313,200027
+2314,200005
+2315,200003
+2316,200007
+2317,200004
+2318,200027
+2319,200008
+2320,200019
+2321,200027
+2322,200005
+2323,200008
+2324,200017
+2325,200007
+2326,200015
+2327,200024
+2328,200017
+2329,200012
+2330,200014
+2331,200026
+2332,200007
+2333,200028
+2334,200010
+2335,200008
+2336,200027
+2337,200001
+2338,200008
+2339,200002
+2340,200004
+2341,200008
+2342,200009
+2343,200007
+2344,200022
+2345,200027
+2346,200015
+2347,200005
+2348,200027
+2349,200009
+2350,200025
+2351,200013
+2352,200003
+2353,200016
+2354,200028
+2355,200005
+2356,200002
+2357,200004
+2358,200008
+2359,200021
+2360,200015
+2361,200008
+2362,200014
+2363,200028
+2364,200017
+2365,200018
+2366,200025
+2367,200014
+2368,200017
+2369,200015
+2370,200016
+2371,200006
+2372,200008
+2373,200001
+2374,200023
+2375,200025
+2376,200027
+2377,200017
+2378,200027
+2379,200006
+2380,200014
+2381,200001
+2382,200027
+2383,200015
+2384,200008
+2385,200024
+2386,200021
+2387,200020
+2388,200013
+2389,200008
+2390,200001
+2391,200006
+2392,200010
+2393,200025
+2394,200025
+2395,200001
+2396,200018
+2397,200011
+2398,200025
+2399,200025
+2400,200020
+2401,200016
+2402,200015
+2403,200025
+2404,200016
+2405,200022
+2406,200002
+2407,200021
+2408,200002
+2409,200023
+2410,200001
+2411,200011
+2412,200007
+2413,200028
+2414,200022
+2415,200028
+2416,200008
+2417,200002
+2418,200007
+2419,200016
+2420,200022
+2421,200024
+2422,200002
+2423,200025
+2424,200007
+2425,200028
+2426,200025
+2427,200024
+2428,200016
+2429,200004
+2430,200013
+2431,200015
+2432,200015
+2433,200014
+2434,200026
+2435,200019
+2436,200018
+2437,200015
+2438,200001
+2439,200013
+2440,200021
+2441,200001
+2442,200026
+2443,200004
+2444,200022
+2445,200008
+2446,200021
+2447,200013
+2448,200001
+2449,200011
+2450,200021
+2451,200002
+2452,200026
+2453,200012
+2454,200019
+2455,200005
+2456,200019
+2457,200028
+2458,200017
+2459,200017
+2460,200002
+2461,200021
+2462,200023
+2463,200025
+2464,200013
+2465,200012
+2466,200010
+2467,200020
+2468,200015
+2469,200006
+2470,200023
+2471,200017
+2472,200019
+2473,200015
+2474,200019
+2475,200001
+2476,200017
+2477,200014
+2478,200024
+2479,200004
+2480,200002
+2481,200014
+2482,200006
+2483,200016
+2484,200020
+2485,200025
+2486,200018
+2487,200021
+2488,200008
+2489,200018
+2490,200010
+2491,200013
+2492,200018
+2493,200009
+2494,200022
+2495,200003
+2496,200021
+2497,200024
+2498,200010
+2499,200011
+2500,200014
+2501,200020
+2502,200016
+2503,200028
+2504,200009
+2505,200002
+2506,200022
+2507,200022
+2508,200005
+2509,200001
+2510,200013
+2511,200008
+2512,200001
+2513,200002
+2514,200028
+2515,200019
+2516,200010
+2517,200019
+2518,200004
+2519,200023
+2520,200026
+2521,200003
+2522,200025
+2523,200025
+2524,200016
+2525,200005
+2526,200015
+2527,200022
+2528,200013
+2529,200019
+2530,200019
+2531,200022
+2532,200007
+2533,200012
+2534,200027
+2535,200025
+2536,200009
+2537,200007
+2538,200002
+2539,200013
+2540,200024
+2541,200022
+2542,200012
+2543,200024
+2544,200011
+2545,200012
+2546,200005
+2547,200019
+2548,200010
+2549,200008
+2550,200021
+2551,200017
+2552,200028
+2553,200014
+2554,200013
+2555,200020
+2556,200006
+2557,200012
+2558,200026
+2559,200014
+2560,200021
+2561,200016
+2562,200004
+2563,200018
+2564,200014
+2565,200025
+2566,200007
+2567,200021
+2568,200014
+2569,200005
+2570,200021
+2571,200007
+2572,200020
+2573,200013
+2574,200015
+2575,200008
+2576,200009
+2577,200003
+2578,200022
+2579,200028
+2580,200003
+2581,200023
+2582,200010
+2583,200006
+2584,200007
+2585,200027
+2586,200021
+2587,200007
+2588,200016
+2589,200010
+2590,200008
+2591,200005
+2592,200028
+2593,200012
+2594,200013
+2595,200012
+2596,200002
+2597,200027
+2598,200013
+2599,200011
+2600,200027
+2601,200010
+2602,200021
+2603,200014
+2604,200001
+2605,200016
+2606,200014
+2607,200013
+2608,200002
+2609,200006
+2610,200010
+2611,200013
+2612,200017
+2613,200023
+2614,200018
+2615,200012
+2616,200025
+2617,200021
+2618,200019
+2619,200002
+2620,200015
+2621,200007
+2622,200016
+2623,200001
+2624,200010
+2625,200014
+2626,200010
+2627,200001
+2628,200023
+2629,200015
+2630,200010
+2631,200009
+2632,200017
+2633,200018
+2634,200024
+2635,200012
+2636,200026
+2637,200023
+2638,200006
+2639,200019
+2640,200011
+2641,200016
+2642,200015
+2643,200011
+2644,200017
+2645,200015
+2646,200005
+2647,200012
+2648,200020
+2649,200017
+2650,200001
+2651,200020
+2652,200028
+2653,200028
+2654,200022
+2655,200004
+2656,200018
+2657,200012
+2658,200003
+2659,200004
+2660,200018
+2661,200023
+2662,200004
+2663,200009
+2664,200018
+2665,200020
+2666,200010
+2667,200004
+2668,200025
+2669,200005
+2670,200012
+2671,200018
+2672,200024
+2673,200022
+2674,200008
+2675,200015
+2676,200017
+2677,200025
+2678,200016
+2679,200006
+2680,200010
+2681,200001
+2682,200004
+2683,200026
+2684,200001
+2685,200010
+2686,200005
+2687,200022
+2688,200011
+2689,200004
+2690,200009
+2691,200021
+2692,200012
+2693,200013
+2694,200016
+2695,200014
+2696,200022
+2697,200015
+2698,200025
+2699,200010
+2700,200010
+2701,200004
+2702,200017
+2703,200001
+2704,200013
+2705,200005
+2706,200002
+2707,200020
+2708,200009
+2709,200019
+2710,200026
+2711,200018
+2712,200004
+2713,200003
+2714,200011
+2715,200018
+2716,200016
+2717,200020
+2718,200025
+2719,200013
+2720,200014
+2721,200025
+2722,200005
+2723,200008
+2724,200007
+2725,200017
+2726,200021
+2727,200020
+2728,200021
+2729,200002
+2730,200021
+2731,200025
+2732,200028
+2733,200015
+2734,200005
+2735,200005
+2736,200011
+2737,200026
+2738,200023
+2739,200004
+2740,200011
+2741,200001
+2742,200010
+2743,200006
+2744,200003
+2745,200024
+2746,200003
+2747,200014
+2748,200004
+2749,200005
+2750,200016
+2751,200005
+2752,200008
+2753,200007
+2754,200004
+2755,200001
+2756,200016
+2757,200020
+2758,200010
+2759,200003
+2760,200001
+2761,200021
+2762,200014
+2763,200027
+2764,200014
+2765,200006
+2766,200025
+2767,200026
+2768,200001
+2769,200009
+2770,200025
+2771,200027
+2772,200019
+2773,200012
+2774,200021
+2775,200007
+2776,200025
+2777,200014
+2778,200007
+2779,200014
+2780,200002
+2781,200010
+2782,200019
+2783,200009
+2784,200006
+2785,200005
+2786,200025
+2787,200007
+2788,200025
+2789,200028
+2790,200004
+2791,200027
+2792,200013
+2793,200015
+2794,200013
+2795,200008
+2796,200001
+2797,200001
+2798,200016
+2799,200025
+2800,200020
+2801,200006
+2802,200009
+2803,200022
+2804,200007
+2805,200026
+2806,200004
+2807,200008
+2808,200024
+2809,200002
+2810,200011
+2811,200023
+2812,200021
+2813,200023
+2814,200024
+2815,200006
+2816,200008
+2817,200010
+2818,200011
+2819,200028
+2820,200017
+2821,200007
+2822,200004
+2823,200021
+2824,200016
+2825,200006
+2826,200008
+2827,200026
+2828,200015
+2829,200025
+2830,200009
+2831,200023
+2832,200015
+2833,200016
+2834,200016
+2835,200023
+2836,200025
+2837,200005
+2838,200003
+2839,200026
+2840,200019
+2841,200009
+2842,200004
+2843,200004
+2844,200017
+2845,200019
+2846,200004
+2847,200023
+2848,200028
+2849,200021
+2850,200022
+2851,200010
+2852,200024
+2853,200002
+2854,200012
+2855,200002
+2856,200018
+2857,200007
+2858,200007
+2859,200010
+2860,200024
+2861,200001
+2862,200004
+2863,200013
+2864,200014
+2865,200012
+2866,200002
+2867,200021
+2868,200013
+2869,200014
+2870,200003
+2871,200007
+2872,200010
+2873,200020
+2874,200013
+2875,200006
+2876,200005
+2877,200018
+2878,200010
+2879,200017
+2880,200015
+2881,200025
+2882,200005
+2883,200024
+2884,200013
+2885,200008
+2886,200018
+2887,200028
+2888,200021
+2889,200018
+2890,200010
+2891,200007
+2892,200013
+2893,200025
+2894,200022
+2895,200006
+2896,200021
+2897,200008
+2898,200010
+2899,200026
+2900,200017
+2901,200014
+2902,200021
+2903,200020
+2904,200028
+2905,200009
+2906,200027
+2907,200011
+2908,200009
+2909,200002
+2910,200019
+2911,200023
+2912,200011
+2913,200004
+2914,200014
+2915,200026
+2916,200027
+2917,200023
+2918,200015
+2919,200013
+2920,200022
+2921,200013
+2922,200010
+2923,200002
+2924,200009
+2925,200017
+2926,200001
+2927,200022
+2928,200013
+2929,200021
+2930,200018
+2931,200015
+2932,200007
+2933,200002
+2934,200008
+2935,200012
+2936,200004
+2937,200014
+2938,200001
+2939,200019
+2940,200015
+2941,200014
+2942,200001
+2943,200012
+2944,200005
+2945,200013
+2946,200028
+2947,200024
+2948,200016
+2949,200015
+2950,200021
+2951,200022
+2952,200014
+2953,200015
+2954,200008
+2955,200018
+2956,200003
+2957,200026
+2958,200005
+2959,200028
+2960,200005
+2961,200017
+2962,200007
+2963,200022
+2964,200025
+2965,200002
+2966,200005
+2967,200013
+2968,200008
+2969,200004
+2970,200022
+2971,200015
+2972,200013
+2973,200011
+2974,200011
+2975,200006
+2976,200004
+2977,200006
+2978,200011
+2979,200007
+2980,200011
+2981,200002
+2982,200027
+2983,200006
+2984,200005
+2985,200011
+2986,200024
+2987,200022
+2988,200028
+2989,200012
+2990,200010
+2991,200014
+2992,200028
+2993,200026
+2994,200009
+2995,200018
+2996,200010
+2997,200004
+2998,200028
+2999,200025
+3000,200005
+3001,200019
+3002,200010
+3003,200020
+3004,200009
+3005,200013
+3006,200017
+3007,200001
+3008,200019
+3009,200007
+3010,200025
+3011,200017
+3012,200019
+3013,200014
+3014,200023
+3015,200022
+3016,200017
+3017,200011
+3018,200013
+3019,200025
+3020,200006
+3021,200023
+3022,200006
+3023,200023
+3024,200017
+3025,200027
+3026,200005
+3027,200027
+3028,200010
+3029,200007
+3030,200016
+3031,200019
+3032,200024
+3033,200017
+3034,200011
+3035,200003
+3036,200004
+3037,200023
+3038,200017
+3039,200013
+3040,200021
+3041,200021
+3042,200002
+3043,200019
+3044,200028
+3045,200005
+3046,200025
+3047,200019
+3048,200011
+3049,200012
+3050,200021
+3051,200019
+3052,200023
+3053,200027
+3054,200024
+3055,200019
+3056,200001
+3057,200013
+3058,200007
+3059,200018
+3060,200009
+3061,200021
+3062,200012
+3063,200026
+3064,200004
+3065,200022
+3066,200005
+3067,200026
+3068,200008
+3069,200027
+3070,200002
+3071,200022
+3072,200010
+3073,200004
+3074,200009
+3075,200027
+3076,200007
+3077,200012
+3078,200003
+3079,200007
+3080,200012
+3081,200001
+3082,200013
+3083,200020
+3084,200009
+3085,200012
+3086,200019
+3087,200008
+3088,200024
+3089,200022
+3090,200010
+3091,200007
+3092,200019
+3093,200006
+3094,200027
+3095,200022
+3096,200008
+3097,200008
+3098,200027
+3099,200016
+3100,200001
+3101,200026
+3102,200020
+3103,200005
+3104,200014
+3105,200009
+3106,200019
+3107,200002
+3108,200001
+3109,200019
+3110,200008
+3111,200005
+3112,200001
+3113,200010
+3114,200008
+3115,200025
+3116,200015
+3117,200001
+3118,200023
+3119,200024
+3120,200022
+3121,200013
+3122,200007
+3123,200001
+3124,200003
+3125,200027
+3126,200016
+3127,200020
+3128,200021
+3129,200005
+3130,200003
+3131,200006
+3132,200007
+3133,200025
+3134,200009
+3135,200016
+3136,200012
+3137,200027
+3138,200011
+3139,200007
+3140,200002
+3141,200006
+3142,200008
+3143,200008
+3144,200017
+3145,200027
+3146,200015
+3147,200019
+3148,200014
+3149,200019
+3150,200018
+3151,200019
+3152,200005
+3153,200023
+3154,200011
+3155,200013
+3156,200018
+3157,200015
+3158,200023
+3159,200008
+3160,200018
+3161,200023
+3162,200024
+3163,200013
+3164,200026
+3165,200015
+3166,200007
+3167,200010
+3168,200018
+3169,200020
+3170,200025
+3171,200002
+3172,200022
+3173,200020
+3174,200016
+3175,200020
+3176,200005
+3177,200012
+3178,200022
+3179,200018
+3180,200015
+3181,200001
+3182,200008
+3183,200016
+3184,200006
+3185,200015
+3186,200013
+3187,200016
+3188,200014
+3189,200018
+3190,200015
+3191,200026
+3192,200026
+3193,200013
+3194,200001
+3195,200004
+3196,200001
+3197,200026
+3198,200028
+3199,200023
+3200,200021
+3201,200017
+3202,200012
+3203,200020
+3204,200012
+3205,200007
+3206,200020
+3207,200003
+3208,200020
+3209,200024
+3210,200014
+3211,200014
+3212,200028
+3213,200003
+3214,200013
+3215,200009
+3216,200026
+3217,200013
+3218,200019
+3219,200013
+3220,200011
+3221,200011
+3222,200013
+3223,200018
+3224,200006
+3225,200004
+3226,200008
+3227,200009
+3228,200015
+3229,200024
+3230,200026
+3231,200020
+3232,200025
+3233,200021
+3234,200023
+3235,200002
+3236,200021
+3237,200013
+3238,200014
+3239,200025
+3240,200027
+3241,200023
+3242,200021
+3243,200025
+3244,200018
+3245,200004
+3246,200025
+3247,200022
+3248,200021
+3249,200007
+3250,200004
+3251,200012
+3252,200004
+3253,200018
+3254,200024
+3255,200008
+3256,200002
+3257,200014
+3258,200022
+3259,200005
+3260,200011
+3261,200014
+3262,200001
+3263,200019
+3264,200005
+3265,200004
+3266,200009
+3267,200020
+3268,200005
+3269,200028
+3270,200011
+3271,200018
+3272,200018
+3273,200011
+3274,200025
+3275,200021
+3276,200005
+3277,200026
+3278,200028
+3279,200009
+3280,200009
+3281,200004
+3282,200025
+3283,200026
+3284,200020
+3285,200012
+3286,200007
+3287,200017
+3288,200004
+3289,200015
+3290,200004
+3291,200016
+3292,200028
+3293,200001
+3294,200001
+3295,200008
+3296,200005
+3297,200028
+3298,200002
+3299,200006
+3300,200005
+3301,200021
+3302,200012
+3303,200020
+3304,200007
+3305,200005
+3306,200013
+3307,200009
+3308,200004
+3309,200012
+3310,200001
+3311,200003
+3312,200012
+3313,200005
+3314,200011
+3315,200001
+3316,200015
+3317,200026
+3318,200006
+3319,200014
+3320,200023
+3321,200021
+3322,200017
+3323,200010
+3324,200024
+3325,200005
+3326,200023
+3327,200018
+3328,200021
+3329,200002
+3330,200017
+3331,200005
+3332,200017
+3333,200006
+3334,200010
+3335,200010
+3336,200012
+3337,200022
+3338,200024
+3339,200022
+3340,200006
+3341,200023
+3342,200008
+3343,200014
+3344,200009
+3345,200006
+3346,200023
+3347,200002
+3348,200019
+3349,200009
+3350,200003
+3351,200028
+3352,200015
+3353,200013
+3354,200002
+3355,200008
+3356,200021
+3357,200025
+3358,200024
+3359,200028
+3360,200021
+3361,200026
+3362,200002
+3363,200014
+3364,200010
+3365,200022
+3366,200007
+3367,200009
+3368,200021
+3369,200008
+3370,200019
+3371,200021
+3372,200008
+3373,200028
+3374,200025
+3375,200011
+3376,200006
+3377,200014
+3378,200011
+3379,200001
+3380,200008
+3381,200015
+3382,200022
+3383,200002
+3384,200020
+3385,200022
+3386,200001
+3387,200022
+3388,200008
+3389,200001
+3390,200023
+3391,200022
+3392,200008
+3393,200021
+3394,200028
+3395,200028
+3396,200010
+3397,200028
+3398,200010
+3399,200026
+3400,200027
+3401,200013
+3402,200019
+3403,200005
+3404,200006
+3405,200012
+3406,200007
+3407,200013
+3408,200020
+3409,200023
+3410,200009
+3411,200017
+3412,200007
+3413,200003
+3414,200003
+3415,200013
+3416,200027
+3417,200017
+3418,200027
+3419,200004
+3420,200002
+3421,200005
+3422,200002
+3423,200013
+3424,200006
+3425,200018
+3426,200010
+3427,200006
+3428,200009
+3429,200025
+3430,200025
+3431,200013
+3432,200001
+3433,200028
+3434,200025
+3435,200020
+3436,200018
+3437,200026
+3438,200010
+3439,200024
+3440,200008
+3441,200028
+3442,200018
+3443,200014
+3444,200027
+3445,200018
+3446,200019
+3447,200003
+3448,200022
+3449,200018
+3450,200016
+3451,200027
+3452,200020
+3453,200010
+3454,200003
+3455,200028
+3456,200009
+3457,200026
+3458,200015
+3459,200025
+3460,200013
+3461,200017
+3462,200002
+3463,200019
+3464,200023
+3465,200007
+3466,200028
+3467,200023
+3468,200020
+3469,200006
+3470,200023
+3471,200015
+3472,200017
+3473,200013
+3474,200004
+3475,200007
+3476,200015
+3477,200016
+3478,200022
+3479,200008
+3480,200015
+3481,200003
+3482,200012
+3483,200014
+3484,200001
+3485,200022
+3486,200015
+3487,200020
+3488,200015
+3489,200015
+3490,200026
+3491,200016
+3492,200006
+3493,200006
+3494,200019
+3495,200026
+3496,200013
+3497,200028
+3498,200006
+3499,200022
+3500,200020
+3501,200017
+3502,200001
+3503,200010
+3504,200013
+3505,200004
+3506,200022
+3507,200009
+3508,200024
+3509,200026
+3510,200024
+3511,200009
+3512,200007
+3513,200028
+3514,200013
+3515,200003
+3516,200020
+3517,200011
+3518,200020
+3519,200013
+3520,200027
+3521,200023
+3522,200013
+3523,200014
+3524,200020
+3525,200015
+3526,200010
+3527,200022
+3528,200022
+3529,200028
+3530,200004
+3531,200018
+3532,200025
+3533,200012
+3534,200004
+3535,200014
+3536,200005
+3537,200020
+3538,200004
+3539,200021
+3540,200009
+3541,200001
+3542,200026
+3543,200021
+3544,200009
+3545,200024
+3546,200019
+3547,200025
+3548,200008
+3549,200024
+3550,200025
+3551,200026
+3552,200002
+3553,200015
+3554,200006
+3555,200002
+3556,200005
+3557,200012
+3558,200001
+3559,200004
+3560,200011
+3561,200024
+3562,200025
+3563,200025
+3564,200001
+3565,200025
+3566,200006
+3567,200018
+3568,200011
+3569,200020
+3570,200015
+3571,200011
+3572,200025
+3573,200022
+3574,200007
+3575,200027
+3576,200022
+3577,200001
+3578,200006
+3579,200006
+3580,200002
+3581,200007
+3582,200004
+3583,200003
+3584,200010
+3585,200012
+3586,200001
+3587,200011
+3588,200008
+3589,200014
+3590,200013
+3591,200028
+3592,200018
+3593,200011
+3594,200023
+3595,200014
+3596,200001
+3597,200021
+3598,200022
+3599,200024
+3600,200016
+3601,200013
+3602,200017
+3603,200013
+3604,200010
+3605,200028
+3606,200023
+3607,200003
+3608,200016
+3609,200008
+3610,200026
+3611,200012
+3612,200013
+3613,200020
+3614,200020
+3615,200005
+3616,200015
+3617,200008
+3618,200005
+3619,200014
+3620,200013
+3621,200011
+3622,200027
+3623,200004
+3624,200020
+3625,200014
+3626,200011
+3627,200005
+3628,200027
+3629,200015
+3630,200025
+3631,200015
+3632,200011
+3633,200013
+3634,200026
+3635,200006
+3636,200014
+3637,200020
+3638,200007
+3639,200018
+3640,200014
+3641,200022
+3642,200005
+3643,200010
+3644,200008
+3645,200018
+3646,200022
+3647,200011
+3648,200002
+3649,200014
+3650,200015
+3651,200026
+3652,200014
+3653,200027
+3654,200007
+3655,200014
+3656,200024
+3657,200016
+3658,200028
+3659,200003
+3660,200008
+3661,200010
+3662,200010
+3663,200011
+3664,200026
+3665,200004
+3666,200018
+3667,200024
+3668,200002
+3669,200026
+3670,200020
+3671,200025
+3672,200021
+3673,200017
+3674,200008
+3675,200006
+3676,200014
+3677,200025
+3678,200018
+3679,200019
+3680,200018
+3681,200006
+3682,200006
+3683,200015
+3684,200007
+3685,200002
+3686,200015
+3687,200001
+3688,200001
+3689,200020
+3690,200027
+3691,200001
+3692,200026
+3693,200028
+3694,200023
+3695,200015
+3696,200021
+3697,200007
+3698,200013
+3699,200016
+3700,200024
+3701,200004
+3702,200014
+3703,200011
+3704,200018
+3705,200010
+3706,200007
+3707,200009
+3708,200012
+3709,200025
+3710,200006
+3711,200017
+3712,200001
+3713,200025
+3714,200010
+3715,200023
+3716,200026
+3717,200002
+3718,200004
+3719,200017
+3720,200018
+3721,200005
+3722,200013
+3723,200001
+3724,200017
+3725,200025
+3726,200006
+3727,200011
+3728,200013
+3729,200012
+3730,200018
+3731,200020
+3732,200002
+3733,200005
+3734,200009
+3735,200005
+3736,200019
+3737,200020
+3738,200018
+3739,200025
+3740,200001
+3741,200008
+3742,200006
+3743,200022
+3744,200008
+3745,200017
+3746,200003
+3747,200016
+3748,200024
+3749,200007
+3750,200027
+3751,200005
+3752,200019
+3753,200014
+3754,200011
+3755,200012
+3756,200011
+3757,200005
+3758,200004
+3759,200004
+3760,200007
+3761,200025
+3762,200010
+3763,200011
+3764,200006
+3765,200023
+3766,200001
+3767,200001
+3768,200015
+3769,200018
+3770,200002
+3771,200028
+3772,200009
+3773,200008
+3774,200014
+3775,200006
+3776,200007
+3777,200009
+3778,200017
+3779,200003
+3780,200002
+3781,200016
+3782,200023
+3783,200016
+3784,200007
+3785,200023
+3786,200022
+3787,200023
+3788,200011
+3789,200021
+3790,200009
+3791,200001
+3792,200025
+3793,200005
+3794,200014
+3795,200006
+3796,200006
+3797,200020
+3798,200023
+3799,200023
+3800,200012
+3801,200004
+3802,200023
+3803,200014
+3804,200002
+3805,200026
+3806,200015
+3807,200009
+3808,200020
+3809,200008
+3810,200005
+3811,200011
+3812,200026
+3813,200011
+3814,200025
+3815,200024
+3816,200008
+3817,200011
+3818,200009
+3819,200021
+3820,200010
+3821,200015
+3822,200025
+3823,200026
+3824,200023
+3825,200005
+3826,200021
+3827,200005
+3828,200025
+3829,200020
+3830,200018
+3831,200008
+3832,200017
+3833,200011
+3834,200006
+3835,200018
+3836,200019
+3837,200025
+3838,200019
+3839,200006
+3840,200001
+3841,200008
+3842,200007
+3843,200011
+3844,200027
+3845,200025
+3846,200001
+3847,200012
+3848,200011
+3849,200018
+3850,200025
+3851,200003
+3852,200002
+3853,200002
+3854,200006
+3855,200005
+3856,200021
+3857,200003
+3858,200007
+3859,200024
+3860,200007
+3861,200019
+3862,200004
+3863,200012
+3864,200014
+3865,200017
+3866,200028
+3867,200027
+3868,200018
+3869,200007
+3870,200016
+3871,200015
+3872,200020
+3873,200021
+3874,200012
+3875,200026
+3876,200004
+3877,200007
+3878,200005
+3879,200021
+3880,200010
+3881,200024
+3882,200021
+3883,200003
+3884,200026
+3885,200024
+3886,200001
+3887,200004
+3888,200010
+3889,200018
+3890,200022
+3891,200021
+3892,200017
+3893,200001
+3894,200014
+3895,200009
+3896,200007
+3897,200008
+3898,200028
+3899,200013
+3900,200024
+3901,200001
+3902,200024
+3903,200015
+3904,200019
+3905,200022
+3906,200025
+3907,200017
+3908,200014
+3909,200016
+3910,200019
+3911,200001
+3912,200023
+3913,200008
+3914,200011
+3915,200010
+3916,200021
+3917,200026
+3918,200017
+3919,200005
+3920,200001
+3921,200018
+3922,200019
+3923,200021
+3924,200010
+3925,200017
+3926,200011
+3927,200028
+3928,200015
+3929,200024
+3930,200004
+3931,200022
+3932,200004
+3933,200028
+3934,200010
+3935,200016
+3936,200004
+3937,200017
+3938,200017
+3939,200027
+3940,200014
+3941,200010
+3942,200023
+3943,200015
+3944,200008
+3945,200014
+3946,200020
+3947,200009
+3948,200028
+3949,200019
+3950,200018
+3951,200020
+3952,200022
+3953,200004
+3954,200027
+3955,200014
+3956,200003
+3957,200028
+3958,200003
+3959,200017
+3960,200002
+3961,200028
+3962,200005
+3963,200024
+3964,200022
+3965,200001
+3966,200019
+3967,200005
+3968,200003
+3969,200016
+3970,200014
+3971,200025
+3972,200027
+3973,200010
+3974,200020
+3975,200027
+3976,200022
+3977,200021
+3978,200010
+3979,200008
+3980,200021
+3981,200021
+3982,200022
+3983,200004
+3984,200021
+3985,200028
+3986,200021
+3987,200023
+3988,200002
+3989,200017
+3990,200011
+3991,200002
+3992,200012
+3993,200002
+3994,200028
+3995,200007
+3996,200024
+3997,200020
+3998,200015
+3999,200027
+4000,200020
+4001,200017
+4002,200023
+4003,200027
+4004,200021
+4005,200008
+4006,200018
+4007,200013
+4008,200023
+4009,200022
+4010,200009
+4011,200009
+4012,200024
+4013,200007
+4014,200021
+4015,200004
+4016,200013
+4017,200017
+4018,200008
+4019,200021
+4020,200003
+4021,200011
+4022,200020
+4023,200005
+4024,200005
+4025,200009
+4026,200004
+4027,200005
+4028,200026
+4029,200015
+4030,200007
+4031,200015
+4032,200002
+4033,200004
+4034,200027
+4035,200007
+4036,200021
+4037,200003
+4038,200020
+4039,200021
+4040,200009
+4041,200017
+4042,200006
+4043,200026
+4044,200014
+4045,200008
+4046,200007
+4047,200026
+4048,200024
+4049,200007
+4050,200022
+4051,200001
+4052,200013
+4053,200016
+4054,200004
+4055,200026
+4056,200024
+4057,200019
+4058,200008
+4059,200005
+4060,200011
+4061,200007
+4062,200019
+4063,200009
+4064,200026
+4065,200006
+4066,200020
+4067,200016
+4068,200003
+4069,200028
+4070,200001
+4071,200016
+4072,200009
+4073,200006
+4074,200008
+4075,200003
+4076,200005
+4077,200014
+4078,200010
+4079,200019
+4080,200007
+4081,200017
+4082,200004
+4083,200006
+4084,200007
+4085,200002
+4086,200009
+4087,200009
+4088,200018
+4089,200019
+4090,200020
+4091,200015
+4092,200028
+4093,200015
+4094,200005
+4095,200016
+4096,200004
+4097,200010
+4098,200022
+4099,200012
+4100,200025
+4101,200006
+4102,200008
+4103,200010
+4104,200020
+4105,200025
+4106,200006
+4107,200006
+4108,200002
+4109,200022
+4110,200012
+4111,200020
+4112,200016
+4113,200015
+4114,200027
+4115,200024
+4116,200023
+4117,200026
+4118,200022
+4119,200003
+4120,200012
+4121,200016
+4122,200017
+4123,200016
+4124,200019
+4125,200013
+4126,200013
+4127,200005
+4128,200027
+4129,200014
+4130,200012
+4131,200010
+4132,200025
+4133,200020
+4134,200022
+4135,200022
+4136,200021
+4137,200012
+4138,200001
+4139,200020
+4140,200007
+4141,200015
+4142,200025
+4143,200016
+4144,200009
+4145,200011
+4146,200026
+4147,200011
+4148,200006
+4149,200028
+4150,200018
+4151,200014
+4152,200027
+4153,200011
+4154,200023
+4155,200014
+4156,200014
+4157,200002
+4158,200022
+4159,200014
+4160,200023
+4161,200003
+4162,200008
+4163,200012
+4164,200017
+4165,200019
+4166,200025
+4167,200028
+4168,200023
+4169,200001
+4170,200019
+4171,200006
+4172,200025
+4173,200010
+4174,200023
+4175,200009
+4176,200026
+4177,200012
+4178,200003
+4179,200016
+4180,200023
+4181,200002
+4182,200023
+4183,200009
+4184,200005
+4185,200013
+4186,200020
+4187,200003
+4188,200011
+4189,200015
+4190,200008
+4191,200012
+4192,200014
+4193,200019
+4194,200021
+4195,200001
+4196,200005
+4197,200008
+4198,200015
+4199,200005
+4200,200019
+4201,200028
+4202,200020
+4203,200019
+4204,200006
+4205,200010
+4206,200022
+4207,200028
+4208,200017
+4209,200027
+4210,200002
+4211,200008
+4212,200013
+4213,200011
+4214,200028
+4215,200005
+4216,200011
+4217,200001
+4218,200009
+4219,200003
+4220,200016
+4221,200003
+4222,200022
+4223,200013
+4224,200009
+4225,200008
+4226,200022
+4227,200014
+4228,200022
+4229,200024
+4230,200025
+4231,200008
+4232,200023
+4233,200008
+4234,200026
+4235,200022
+4236,200017
+4237,200027
+4238,200023
+4239,200002
+4240,200010
+4241,200018
+4242,200007
+4243,200004
+4244,200014
+4245,200011
+4246,200003
+4247,200027
+4248,200016
+4249,200017
+4250,200005
+4251,200012
+4252,200026
+4253,200015
+4254,200011
+4255,200012
+4256,200022
+4257,200010
+4258,200003
+4259,200016
+4260,200010
+4261,200025
+4262,200016
+4263,200010
+4264,200010
+4265,200013
+4266,200022
+4267,200009
+4268,200013
+4269,200003
+4270,200010
+4271,200022
+4272,200025
+4273,200001
+4274,200014
+4275,200013
+4276,200022
+4277,200025
+4278,200013
+4279,200017
+4280,200010
+4281,200016
+4282,200015
+4283,200018
+4284,200019
+4285,200004
+4286,200027
+4287,200019
+4288,200025
+4289,200021
+4290,200022
+4291,200001
+4292,200019
+4293,200003
+4294,200001
+4295,200020
+4296,200023
+4297,200006
+4298,200013
+4299,200007
+4300,200010
+4301,200019
+4302,200019
+4303,200017
+4304,200003
+4305,200025
+4306,200007
+4307,200026
+4308,200027
+4309,200002
+4310,200009
+4311,200020
+4312,200026
+4313,200004
+4314,200006
+4315,200012
+4316,200008
+4317,200016
+4318,200019
+4319,200015
+4320,200016
+4321,200025
+4322,200009
+4323,200002
+4324,200009
+4325,200001
+4326,200007
+4327,200021
+4328,200001
+4329,200023
+4330,200001
+4331,200027
+4332,200022
+4333,200015
+4334,200006
+4335,200003
+4336,200022
+4337,200012
+4338,200024
+4339,200025
+4340,200025
+4341,200021
+4342,200014
+4343,200001
+4344,200026
+4345,200012
+4346,200027
+4347,200013
+4348,200008
+4349,200022
+4350,200009
+4351,200013
+4352,200001
+4353,200019
+4354,200007
+4355,200024
+4356,200001
+4357,200003
+4358,200024
+4359,200011
+4360,200013
+4361,200014
+4362,200005
+4363,200019
+4364,200027
+4365,200006
+4366,200026
+4367,200016
+4368,200018
+4369,200028
+4370,200024
+4371,200026
+4372,200001
+4373,200001
+4374,200006
+4375,200008
+4376,200018
+4377,200004
+4378,200011
+4379,200023
+4380,200015
+4381,200004
+4382,200019
+4383,200021
+4384,200020
+4385,200009
+4386,200026
+4387,200008
+4388,200013
+4389,200014
+4390,200016
+4391,200028
+4392,200009
+4393,200017
+4394,200028
+4395,200015
+4396,200002
+4397,200003
+4398,200017
+4399,200003
+4400,200002
+4401,200002
+4402,200006
+4403,200001
+4404,200021
+4405,200024
+4406,200004
+4407,200025
+4408,200027
+4409,200001
+4410,200021
+4411,200024
+4412,200002
+4413,200001
+4414,200016
+4415,200018
+4416,200018
+4417,200025
+4418,200007
+4419,200020
+4420,200028
+4421,200003
+4422,200027
+4423,200021
+4424,200006
+4425,200008
+4426,200028
+4427,200014
+4428,200015
+4429,200002
+4430,200023
+4431,200013
+4432,200007
+4433,200023
+4434,200004
+4435,200028
+4436,200005
+4437,200024
+4438,200012
+4439,200004
+4440,200005
+4441,200021
+4442,200007
+4443,200016
+4444,200028
+4445,200018
+4446,200001
+4447,200001
+4448,200011
+4449,200015
+4450,200016
+4451,200003
+4452,200011
+4453,200001
+4454,200006
+4455,200004
+4456,200013
+4457,200016
+4458,200004
+4459,200011
+4460,200025
+4461,200006
+4462,200005
+4463,200020
+4464,200016
+4465,200012
+4466,200009
+4467,200012
+4468,200027
+4469,200012
+4470,200018
+4471,200021
+4472,200009
+4473,200014
+4474,200019
+4475,200014
+4476,200002
+4477,200016
+4478,200023
+4479,200018
+4480,200010
+4481,200008
+4482,200024
+4483,200022
+4484,200014
+4485,200018
+4486,200022
+4487,200010
+4488,200004
+4489,200023
+4490,200026
+4491,200028
+4492,200002
+4493,200023
+4494,200009
+4495,200004
+4496,200015
+4497,200025
+4498,200026
+4499,200014
+4500,200006
+4501,200016
+4502,200015
+4503,200016
+4504,200019
+4505,200010
+4506,200015
+4507,200009
+4508,200020
+4509,200001
+4510,200001
+4511,200006
+4512,200012
+4513,200023
+4514,200020
+4515,200014
+4516,200017
+4517,200007
+4518,200015
+4519,200019
+4520,200023
+4521,200009
+4522,200014
+4523,200027
+4524,200005
+4525,200007
+4526,200027
+4527,200022
+4528,200011
+4529,200007
+4530,200014
+4531,200014
+4532,200017
+4533,200015
+4534,200022
+4535,200004
+4536,200020
+4537,200012
+4538,200023
+4539,200021
+4540,200021
+4541,200016
+4542,200012
+4543,200017
+4544,200017
+4545,200025
+4546,200008
+4547,200027
+4548,200023
+4549,200009
+4550,200016
+4551,200024
+4552,200025
+4553,200020
+4554,200004
+4555,200026
+4556,200011
+4557,200002
+4558,200012
+4559,200022
+4560,200010
+4561,200004
+4562,200022
+4563,200023
+4564,200027
+4565,200018
+4566,200010
+4567,200015
+4568,200019
+4569,200014
+4570,200009
+4571,200026
+4572,200013
+4573,200019
+4574,200013
+4575,200026
+4576,200022
+4577,200004
+4578,200006
+4579,200024
+4580,200012
+4581,200017
+4582,200028
+4583,200012
+4584,200019
+4585,200009
+4586,200002
+4587,200019
+4588,200020
+4589,200021
+4590,200018
+4591,200009
+4592,200014
+4593,200008
+4594,200006
+4595,200018
+4596,200011
+4597,200026
+4598,200025
+4599,200011
+4600,200020
+4601,200018
+4602,200013
+4603,200014
+4604,200026
+4605,200015
+4606,200024
+4607,200007
+4608,200027
+4609,200025
+4610,200010
+4611,200025
+4612,200020
+4613,200028
+4614,200009
+4615,200024
+4616,200021
+4617,200005
+4618,200012
+4619,200023
+4620,200008
+4621,200028
+4622,200004
+4623,200021
+4624,200022
+4625,200007
+4626,200015
+4627,200009
+4628,200017
+4629,200013
+4630,200003
+4631,200008
+4632,200011
+4633,200022
+4634,200027
+4635,200013
+4636,200001
+4637,200006
+4638,200018
+4639,200021
+4640,200018
+4641,200027
+4642,200009
+4643,200019
+4644,200007
+4645,200013
+4646,200002
+4647,200008
+4648,200020
+4649,200024
+4650,200024
+4651,200024
+4652,200026
+4653,200021
+4654,200016
+4655,200026
+4656,200024
+4657,200011
+4658,200024
+4659,200002
+4660,200005
+4661,200001
+4662,200024
+4663,200003
+4664,200009
+4665,200011
+4666,200023
+4667,200020
+4668,200013
+4669,200021
+4670,200022
+4671,200005
+4672,200019
+4673,200019
+4674,200026
+4675,200018
+4676,200003
+4677,200023
+4678,200003
+4679,200024
+4680,200003
+4681,200024
+4682,200006
+4683,200002
+4684,200015
+4685,200004
+4686,200018
+4687,200019
+4688,200019
+4689,200022
+4690,200025
+4691,200004
+4692,200009
+4693,200021
+4694,200023
+4695,200023
+4696,200024
+4697,200001
+4698,200002
+4699,200011
+4700,200021
+4701,200008
+4702,200003
+4703,200002
+4704,200019
+4705,200016
+4706,200015
+4707,200014
+4708,200011
+4709,200028
+4710,200019
+4711,200003
+4712,200010
+4713,200005
+4714,200002
+4715,200014
+4716,200001
+4717,200019
+4718,200025
+4719,200005
+4720,200003
+4721,200013
+4722,200023
+4723,200028
+4724,200022
+4725,200010
+4726,200028
+4727,200010
+4728,200018
+4729,200004
+4730,200028
+4731,200027
+4732,200006
+4733,200005
+4734,200015
+4735,200002
+4736,200028
+4737,200020
+4738,200010
+4739,200023
+4740,200016
+4741,200024
+4742,200013
+4743,200018
+4744,200007
+4745,200012
+4746,200002
+4747,200005
+4748,200027
+4749,200013
+4750,200018
+4751,200023
+4752,200007
+4753,200007
+4754,200028
+4755,200024
+4756,200014
+4757,200019
+4758,200004
+4759,200028
+4760,200026
+4761,200012
+4762,200019
+4763,200007
+4764,200009
+4765,200023
+4766,200024
+4767,200010
+4768,200019
+4769,200026
+4770,200012
+4771,200019
+4772,200008
+4773,200013
+4774,200019
+4775,200002
+4776,200014
+4777,200020
+4778,200019
+4779,200019
+4780,200012
+4781,200012
+4782,200026
+4783,200005
+4784,200015
+4785,200001
+4786,200028
+4787,200027
+4788,200014
+4789,200009
+4790,200023
+4791,200028
+4792,200025
+4793,200003
+4794,200023
+4795,200007
+4796,200013
+4797,200022
+4798,200013
+4799,200015
+4800,200023
+4801,200020
+4802,200021
+4803,200012
+4804,200008
+4805,200011
+4806,200019
+4807,200003
+4808,200017
+4809,200016
+4810,200025
+4811,200006
+4812,200005
+4813,200021
+4814,200012
+4815,200018
+4816,200001
+4817,200024
+4818,200003
+4819,200023
+4820,200022
+4821,200015
+4822,200007
+4823,200003
+4824,200013
+4825,200022
+4826,200005
+4827,200001
+4828,200021
+4829,200004
+4830,200007
+4831,200020
+4832,200021
+4833,200005
+4834,200009
+4835,200017
+4836,200004
+4837,200014
+4838,200016
+4839,200003
+4840,200006
+4841,200001
+4842,200009
+4843,200026
+4844,200019
+4845,200008
+4846,200022
+4847,200001
+4848,200017
+4849,200021
+4850,200005
+4851,200026
+4852,200025
+4853,200011
+4854,200027
+4855,200012
+4856,200004
+4857,200019
+4858,200011
+4859,200014
+4860,200020
+4861,200012
+4862,200014
+4863,200009
+4864,200004
+4865,200015
+4866,200014
+4867,200013
+4868,200009
+4869,200028
+4870,200008
+4871,200026
+4872,200010
+4873,200006
+4874,200015
+4875,200011
+4876,200008
+4877,200025
+4878,200002
+4879,200001
+4880,200003
+4881,200008
+4882,200001
+4883,200027
+4884,200011
+4885,200005
+4886,200008
+4887,200004
+4888,200008
+4889,200009
+4890,200022
+4891,200015
+4892,200026
+4893,200015
+4894,200010
+4895,200011
+4896,200014
+4897,200004
+4898,200006
+4899,200011
+4900,200010
+4901,200015
+4902,200019
+4903,200015
+4904,200001
+4905,200011
+4906,200028
+4907,200007
+4908,200014
+4909,200006
+4910,200013
+4911,200020
+4912,200022
+4913,200017
+4914,200004
+4915,200004
+4916,200027
+4917,200004
+4918,200015
+4919,200005
+4920,200010
+4921,200027
+4922,200022
+4923,200024
+4924,200015
+4925,200002
+4926,200009
+4927,200025
+4928,200007
+4929,200004
+4930,200006
+4931,200011
+4932,200028
+4933,200014
+4934,200018
+4935,200001
+4936,200012
+4937,200015
+4938,200016
+4939,200019
+4940,200025
+4941,200006
+4942,200023
+4943,200024
+4944,200026
+4945,200007
+4946,200012
+4947,200015
+4948,200012
+4949,200010
+4950,200017
+4951,200006
+4952,200027
+4953,200028
+4954,200002
+4955,200012
+4956,200020
+4957,200005
+4958,200003
+4959,200025
+4960,200016
+4961,200017
+4962,200001
+4963,200015
+4964,200025
+4965,200008
+4966,200008
+4967,200017
+4968,200006
+4969,200002
+4970,200019
+4971,200016
+4972,200023
+4973,200001
+4974,200004
+4975,200022
+4976,200018
+4977,200017
+4978,200026
+4979,200007
+4980,200026
+4981,200020
+4982,200014
+4983,200006
+4984,200017
+4985,200023
+4986,200001
+4987,200004
+4988,200001
+4989,200028
+4990,200015
+4991,200026
+4992,200012
+4993,200024
+4994,200002
+4995,200019
+4996,200004
+4997,200014
+4998,200020
+4999,200003
+5000,200002
+5001,200009
+5002,200001
+5003,200001
+5004,200009
+5005,200012
+5006,200026
+5007,200026
+5008,200020
+5009,200020
+5010,200022
+5011,200025
+5012,200019
+5013,200006
+5014,200001
+5015,200022
+5016,200010
+5017,200014
+5018,200025
+5019,200028
+5020,200013
+5021,200005
+5022,200027
+5023,200001
+5024,200018
+5025,200015
+5026,200021
+5027,200003
+5028,200024
+5029,200002
+5030,200022
+5031,200026
+5032,200020
+5033,200018
+5034,200017
+5035,200004
+5036,200018
+5037,200001
+5038,200015
+5039,200012
+5040,200024
+5041,200024
+5042,200005
+5043,200012
+5044,200010
+5045,200023
+5046,200009
+5047,200002
+5048,200007
+5049,200013
+5050,200022
+5051,200010
+5052,200025
+5053,200006
+5054,200024
+5055,200004
+5056,200008
+5057,200027
+5058,200008
+5059,200003
+5060,200020
+5061,200007
+5062,200005
+5063,200003
+5064,200001
+5065,200028
+5066,200009
+5067,200002
+5068,200012
+5069,200019
+5070,200015
+5071,200016
+5072,200020
+5073,200016
+5074,200014
+5075,200015
+5076,200017
+5077,200017
+5078,200007
+5079,200003
+5080,200018
+5081,200028
+5082,200019
+5083,200004
+5084,200027
+5085,200020
+5086,200018
+5087,200024
+5088,200013
+5089,200023
+5090,200014
+5091,200011
+5092,200019
+5093,200015
+5094,200022
+5095,200028
+5096,200016
+5097,200027
+5098,200017
+5099,200001
+5100,200024
+5101,200028
+5102,200002
+5103,200011
+5104,200010
+5105,200009
+5106,200020
+5107,200007
+5108,200018
+5109,200018
+5110,200001
+5111,200016
+5112,200011
+5113,200002
+5114,200025
+5115,200014
+5116,200020
+5117,200013
+5118,200017
+5119,200023
+5120,200012
+5121,200013
+5122,200007
+5123,200004
+5124,200027
+5125,200004
+5126,200011
+5127,200008
+5128,200008
+5129,200007
+5130,200006
+5131,200026
+5132,200010
+5133,200006
+5134,200010
+5135,200014
+5136,200025
+5137,200015
+5138,200024
+5139,200022
+5140,200012
+5141,200006
+5142,200006
+5143,200003
+5144,200026
+5145,200002
+5146,200015
+5147,200009
+5148,200001
+5149,200015
+5150,200026
+5151,200008
+5152,200012
+5153,200028
+5154,200006
+5155,200019
+5156,200015
+5157,200010
+5158,200009
+5159,200024
+5160,200021
+5161,200008
+5162,200002
+5163,200023
+5164,200022
+5165,200011
+5166,200028
+5167,200025
+5168,200004
+5169,200007
+5170,200024
+5171,200024
+5172,200007
+5173,200019
+5174,200027
+5175,200027
+5176,200008
+5177,200028
+5178,200006
+5179,200022
+5180,200026
+5181,200007
+5182,200008
+5183,200001
+5184,200005
+5185,200022
+5186,200002
+5187,200007
+5188,200014
+5189,200028
+5190,200010
+5191,200005
+5192,200020
+5193,200003
+5194,200026
+5195,200020
+5196,200016
+5197,200006
+5198,200011
+5199,200017
+5200,200014
+5201,200001
+5202,200010
+5203,200010
+5204,200017
+5205,200009
+5206,200016
+5207,200026
+5208,200007
+5209,200021
+5210,200014
+5211,200027
+5212,200004
+5213,200002
+5214,200013
+5215,200009
+5216,200005
+5217,200023
+5218,200010
+5219,200013
+5220,200015
+5221,200021
+5222,200013
+5223,200002
+5224,200015
+5225,200024
+5226,200016
+5227,200008
+5228,200009
+5229,200005
+5230,200020
+5231,200017
+5232,200013
+5233,200005
+5234,200024
+5235,200015
+5236,200027
+5237,200026
+5238,200010
+5239,200017
+5240,200002
+5241,200018
+5242,200002
+5243,200023
+5244,200009
+5245,200006
+5246,200004
+5247,200012
+5248,200021
+5249,200020
+5250,200027
+5251,200020
+5252,200016
+5253,200025
+5254,200016
+5255,200009
+5256,200022
+5257,200012
+5258,200020
+5259,200023
+5260,200006
+5261,200005
+5262,200002
+5263,200009
+5264,200015
+5265,200019
+5266,200025
+5267,200010
+5268,200007
+5269,200026
+5270,200020
+5271,200026
+5272,200010
+5273,200016
+5274,200019
+5275,200021
+5276,200011
+5277,200009
+5278,200023
+5279,200026
+5280,200021
+5281,200020
+5282,200002
+5283,200016
+5284,200003
+5285,200010
+5286,200017
+5287,200021
+5288,200016
+5289,200020
+5290,200027
+5291,200022
+5292,200013
+5293,200006
+5294,200025
+5295,200003
+5296,200019
+5297,200009
+5298,200014
+5299,200023
+5300,200020
+5301,200027
+5302,200021
+5303,200013
+5304,200012
+5305,200010
+5306,200024
+5307,200016
+5308,200018
+5309,200003
+5310,200017
+5311,200017
+5312,200015
+5313,200021
+5314,200025
+5315,200013
+5316,200009
+5317,200022
+5318,200022
+5319,200017
+5320,200026
+5321,200023
+5322,200012
+5323,200005
+5324,200012
+5325,200014
+5326,200016
+5327,200022
+5328,200016
+5329,200026
+5330,200011
+5331,200021
+5332,200002
+5333,200009
+5334,200002
+5335,200025
+5336,200003
+5337,200028
+5338,200008
+5339,200001
+5340,200012
+5341,200003
+5342,200004
+5343,200017
+5344,200006
+5345,200016
+5346,200025
+5347,200016
+5348,200021
+5349,200001
+5350,200026
+5351,200011
+5352,200021
+5353,200025
+5354,200026
+5355,200005
+5356,200004
+5357,200018
+5358,200017
+5359,200014
+5360,200016
+5361,200021
+5362,200026
+5363,200014
+5364,200027
+5365,200012
+5366,200015
+5367,200009
+5368,200008
+5369,200004
+5370,200011
