@@ -10,20 +10,21 @@ AS
 	SELECT orders.orderID AS [ORDER ID]								
 		, menu.itemName AS [ITEM NAME]									
 		, menu.category AS CATEGORY									
-		, menu.price AS [PRICE (£)]					
+		, menu.price AS [PRICE (Â£)]					
 		, CONCAT(CONVERT(VARCHAR, orders.orderDate, 103), '_', CONVERT(VARCHAR, orders.orderTime, 8)) AS [ORDER DATE & TIME]	
 		, IIF(ISNULL(orders.orderDelivered, 0) = 1, 'Y', 'N') AS [ORDER DELIVERED]		
-		, w.[WAITER’S NAME]
-		, CONVERT(VARCHAR, w.[WaitersStartDate_SQL], 103) AS [WAITER’S START DATE]
-		, w.[WAITER’S EMAIL ADDRESS]
-		, w.[WAITER’S PHONE NUMBER]
+		, w.[WAITERâ€™S NAME]
+		, CONVERT(VARCHAR, w.[WaitersStartDate_SQL], 103) AS [WAITERâ€™S START DATE]
+		, w.[WAITERâ€™S EMAIL ADDRESS]
+		, w.[WAITERâ€™S PHONE NUMBER]
 		, w.[WAITER RETIRED]
-		, FORMAT(w.[WAITER’S RETIRED DATE], 'dd MMM yyyy') AS [WAITER’S RETIRED DATE]
+		, FORMAT(w.[WAITERâ€™S RETIRED DATE], 'dd MMM yyyy') AS [WAITERâ€™S RETIRED DATE]
 		, w.[DAYS SINCE WAITER RETIRED]
 		, w.[MONTHS SINCE WAITER STARTED]
-		, w.[WAITER’S YEARS OF SERVICE]
-		, w.[WAITER’S WINDOWS LOGIN]
-		, w.[WaitersStartDate_SQL] FROM								
+		, w.[WAITERâ€™S YEARS OF SERVICE]
+		, w.[WAITERâ€™S WINDOWS LOGIN]
+		, w.[WaitersStartDate_SQL] 
+		, orders.orderDate FROM								
 	restaurant.tblOrderDetails orders										
 	LEFT JOIN									
 	restaurant.tblMenuItems menu								
