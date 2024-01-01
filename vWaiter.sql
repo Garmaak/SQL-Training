@@ -8,7 +8,19 @@ Purpose:		to fix data quality issues and transformation of tblWaiters
 
 CREATE VIEW [restaurant].[vWaiter]
 AS
-	SELECT *	
+	SELECT *
+		, CASE
+			--if @ symbol's position is greater than zero then email address
+			WHEN CHARINDEX('@', Email_Address, 1) > 0 THEN Email_Address
+			--else return 'Unknown'
+			ELSE 'Unknown'
+		END AS [WAITER’S EMAIL ADDRESS]
+		, CASE
+			--if @ symbol's position is greater than zero then email address
+			WHEN ISNUMERIC(LEN(REPLACE(Phone_Number, ' ', ''))) = 1  THEN Phone_Number
+			--else return 'Unknown'
+			ELSE 'Unknown'
+		END AS [WAITER’S PHONE NUMBER]
 		, CASE
 			WHEN [WAITER RETIRED] = 'Y' THEN DATEDIFF(DAY, [WAITER’S RETIRED DATE], GETDATE())
 			ELSE NULL
@@ -45,6 +57,7 @@ AS
 					WHEN ISDATE(Datetime_Retired) = 1 THEN 'Y'
 					ELSE 'N'
 				END AS [WAITER RETIRED]
+				, CONCAT(LOWER(LEFT(COALESCE(Last_Name, First_Name), 1)), ID) AS [WAITER’S WINDOWS LOGIN]
 			FROM restaurant.tblWaiters
 		) tbl
 	) v
