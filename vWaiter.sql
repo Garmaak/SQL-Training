@@ -9,6 +9,8 @@ Purpose:		to fix data quality issues and transformation of tblWaiters
 CREATE VIEW [restaurant].[vWaiter]
 AS
 	SELECT *
+		--concatenate/join first and late names together
+		, CONCAT(First_Name, ' ' , Last_Name) AS [WAITER’S NAME]
 		, CASE
 			--if @ symbol's position is greater than zero then email address
 			WHEN CHARINDEX('@', Email_Address, 1) > 0 THEN Email_Address
