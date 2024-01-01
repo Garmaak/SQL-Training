@@ -14,32 +14,32 @@ AS
 			WHEN CHARINDEX('@', Email_Address, 1) > 0 THEN Email_Address
 			--else return 'Unknown'
 			ELSE 'Unknown'
-		END AS [WAITER’S EMAIL ADDRESS]
+		END AS [WAITERâ€™S EMAIL ADDRESS]
 		, CASE
 			--if @ symbol's position is greater than zero then email address
 			WHEN ISNUMERIC(LEN(REPLACE(Phone_Number, ' ', ''))) = 1  THEN Phone_Number
 			--else return 'Unknown'
 			ELSE 'Unknown'
-		END AS [WAITER’S PHONE NUMBER]
+		END AS [WAITERâ€™S PHONE NUMBER]
 		, CASE
-			WHEN [WAITER RETIRED] = 'Y' THEN DATEDIFF(DAY, [WAITER’S RETIRED DATE], GETDATE())
+			WHEN [WAITER RETIRED] = 'Y' THEN DATEDIFF(DAY, [WAITERâ€™S RETIRED DATE], GETDATE())
 			ELSE NULL
 			END AS [DAYS SINCE WAITER RETIRED] 
 		, CASE
 			WHEN [WAITER RETIRED] = 'N' THEN DATEDIFF(MONTH, CONVERT(DATE, WaitersStartDate_SQL), CONVERT(DATE, GETDATE()))
-			ELSE DATEDIFF(MONTH, CONVERT(DATE, WaitersStartDate_SQL), [WAITER’S RETIRED DATE]) 
+			ELSE DATEDIFF(MONTH, CONVERT(DATE, WaitersStartDate_SQL), [WAITERâ€™S RETIRED DATE]) 
 		END AS [MONTHS SINCE WAITER STARTED]
 		, CASE
 			WHEN [WAITER RETIRED] = 'N' THEN DATEDIFF(YEAR, CONVERT(DATE, WaitersStartDate_SQL), CONVERT(DATE, GETDATE()))
-			ELSE DATEDIFF(YEAR, CONVERT(DATE, WaitersStartDate_SQL), [WAITER’S RETIRED DATE]) 
-		END AS [WAITER’S YEARS OF SERVICE] FROM
+			ELSE DATEDIFF(YEAR, CONVERT(DATE, WaitersStartDate_SQL), [WAITERâ€™S RETIRED DATE]) 
+		END AS [WAITERâ€™S YEARS OF SERVICE] FROM
 		(SELECT *
-		--[WAITER’S RETIRED DATE]
+		--[WAITERâ€™S RETIRED DATE]
 			, CASE
 				WHEN [WAITER RETIRED] = 'Y' AND Datetime_Retired IS NULL THEN '2023-07-30'
 				WHEN [WAITER RETIRED] = 'Y' AND Datetime_Retired IS NOT NULL THEN CONVERT(DATE, Datetime_Retired)
 				ELSE NULL
-			END AS [WAITER’S RETIRED DATE] FROM
+			END AS [WAITERâ€™S RETIRED DATE] FROM
 		--the derived columns we need to derive [MONTHS SINCE WAITER STARTED]	
 			(SELECT *
 			--WaitersStartDate_SQL
@@ -57,7 +57,9 @@ AS
 					WHEN ISDATE(Datetime_Retired) = 1 THEN 'Y'
 					ELSE 'N'
 				END AS [WAITER RETIRED]
-				, CONCAT(LOWER(LEFT(COALESCE(Last_Name, First_Name), 1)), ID) AS [WAITER’S WINDOWS LOGIN]
+			--select the first non-null value between last and first names, get the first letter
+			--concatenate/join letter to waiter's id
+				, CONCAT(LOWER(LEFT(COALESCE(Last_Name, First_Name), 1)), ID) AS [WAITERâ€™S WINDOWS LOGIN]
 			FROM restaurant.tblWaiters
 		) tbl
 	) v
